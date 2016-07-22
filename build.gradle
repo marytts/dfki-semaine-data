@@ -5,25 +5,17 @@ description 'Speech databases for the SEMAINE TTS voices'
 import org.yaml.snakeyaml.*
 
 subprojects {
-    task generateYaml {
+    task processYaml {
         def yamlFile = file("dfki-$project.name-data.yaml")
         doLast {
-            def wavFiles = fileTree('wav').include('*.wav').files
-            def data = wavFiles.collect { file ->
-                def proc = "soxi $file".execute()
-                proc.waitFor()
-                def soxi = new Yaml().load(proc.inputStream.text)
-                def prompt = file.name - '.wav'
-                [
-                        prompt    : prompt,
-                        text      : new File("$projectDir/text/${prompt.replaceAll(~/[a-z]$/, '')}.txt").text.trim(),
-                        file      : "wav/$file.name" as String,
-                        samplerate: soxi.'Sample Rate',
-                        samples   : soxi.Duration.split()[2] as int,
-                        date      : new Date(file.lastModified())
-                ]
+            def data = new Yaml().load(yamlFile.text)
+            def end = 0.0
+            data.each {
+                def start = end
+                def duration = it.samples / it.samplerate
+                end += duration
+                it << [start: start, end: end]
             }
-            data.sort { it.date }
             def opts = new DumperOptions()
             opts.defaultFlowStyle = DumperOptions.FlowStyle.BLOCK
             yamlFile.text = new Yaml(opts).dump(data)
