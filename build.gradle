@@ -10,8 +10,10 @@ subprojects {
         doLast {
             def wavFiles = fileTree('wav').include('*.wav').files
             def data = wavFiles.collect { file ->
+                def prompt = file.name - '.wav'
                 [
-                        prompt: file.name - '.wav',
+                        prompt: prompt,
+                        text  : new File("$projectDir/text/${prompt.replaceAll(~/[a-z]$/, '')}.txt").text.trim(),
                         file  : "wav/$file.name" as String,
                         date  : new Date(file.lastModified())
                 ]
