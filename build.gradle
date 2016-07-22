@@ -37,4 +37,6 @@ subprojects {
             }
         }
     }
+
+    task extractText(type: ExtractText)
 }
