@@ -39,4 +39,6 @@ subprojects {
     }
 
     task extractText(type: ExtractText)
+
+    task extractWav(type: ExtractWav)
 }
