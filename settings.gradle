@@ -1,1 +1,5 @@
 rootProject.name = 'dfki-semaine-data'
+include 'obadiah'
+include 'poppy'
+include 'prudence'
+include 'spike'
