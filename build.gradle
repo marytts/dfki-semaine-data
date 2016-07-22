@@ -13,12 +13,15 @@ subprojects {
     task processYaml {
         doLast {
             def data = new Yaml().load(yamlFile.text)
-            def end = 0.0
             data.each {
-                def start = end
-                def duration = it.samples / it.samplerate
-                end += duration
-                it << [start: start, end: end]
+                def labFile = new File("$projectDir/lab/${it.prompt}.lab")
+                if (labFile.exists()) {
+                    def segments = labFile.readLines().drop(1).collect { line ->
+                        def fields = line.split('\\s+', 3)
+                        [lab: fields[2], end: fields[0] as float]
+                    }
+                    it << [segments: segments]
+                }
             }
             def opts = new DumperOptions()
             opts.defaultFlowStyle = DumperOptions.FlowStyle.BLOCK
