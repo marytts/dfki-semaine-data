@@ -12,9 +12,11 @@ subprojects {
             def data = wavFiles.collect { file ->
                 [
                         prompt: file.name - '.wav',
-                        file  : "wav/$file.name" as String
+                        file  : "wav/$file.name" as String,
+                        date  : new Date(file.lastModified())
                 ]
             }
+            data.sort { it.date }
             def opts = new DumperOptions()
             opts.defaultFlowStyle = DumperOptions.FlowStyle.BLOCK
             yamlFile.text = new Yaml(opts).dump(data)
