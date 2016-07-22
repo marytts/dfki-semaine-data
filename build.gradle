@@ -43,5 +43,7 @@ subprojects {
 
     task extractText(type: ExtractText)
 
+    task extractLab(type: ExtractLab)
+
     task extractWav(type: ExtractWav)
 }
