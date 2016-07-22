@@ -1,0 +1,5959 @@
+- prompt: pop001a
+  text: Hi, I'm Poppy.
+  file: wav/pop001a.wav
+  samplerate: 44100
+  samples: 131418
+  date: 2009-06-08T09:08:36Z
+- prompt: pop002a
+  text: Have you met me before?
+  file: wav/pop002a.wav
+  samplerate: 44100
+  samples: 159201
+  date: 2009-06-08T09:08:42Z
+- prompt: pop003a
+  text: Well let me introduce myself.
+  file: wav/pop003a.wav
+  samplerate: 44100
+  samples: 177723
+  date: 2009-06-08T09:08:50Z
+- prompt: pop004a
+  text: '''m the eternal optimist.'
+  file: wav/pop004a.wav
+  samplerate: 44100
+  samples: 162288
+  date: 2009-06-08T09:08:58Z
+- prompt: pop001b
+  text: Hi, I'm Poppy.
+  file: wav/pop001b.wav
+  samplerate: 44100
+  samples: 131418
+  date: 2009-06-08T09:19:06Z
+- prompt: pop002b
+  text: Have you met me before?
+  file: wav/pop002b.wav
+  samplerate: 44100
+  samples: 159201
+  date: 2009-06-08T09:19:14Z
+- prompt: pop003b
+  text: Well let me introduce myself.
+  file: wav/pop003b.wav
+  samplerate: 44100
+  samples: 177723
+  date: 2009-06-08T09:19:22Z
+- prompt: pop004b
+  text: '''m the eternal optimist.'
+  file: wav/pop004b.wav
+  samplerate: 44100
+  samples: 162288
+  date: 2009-06-08T09:19:28Z
+- prompt: pop001
+  text: Hi, I'm Poppy.
+  file: wav/pop001.wav
+  samplerate: 44100
+  samples: 131418
+  date: 2009-06-08T09:27:42Z
+- prompt: pop002
+  text: Have you met me before?
+  file: wav/pop002.wav
+  samplerate: 44100
+  samples: 159201
+  date: 2009-06-08T09:27:48Z
+- prompt: pop003
+  text: Well let me introduce myself.
+  file: wav/pop003.wav
+  samplerate: 44100
+  samples: 177723
+  date: 2009-06-08T09:28:24Z
+- prompt: pop004
+  text: '''m the eternal optimist.'
+  file: wav/pop004.wav
+  samplerate: 44100
+  samples: 162288
+  date: 2009-06-08T09:28:30Z
+- prompt: pop005
+  text: Well then you know I always look on the bright side of life.
+  file: wav/pop005.wav
+  samplerate: 44100
+  samples: 273420
+  date: 2009-06-08T09:28:40Z
+- prompt: pop006
+  text: So tell me, how are you today?
+  file: wav/pop006.wav
+  samplerate: 44100
+  samples: 180810
+  date: 2009-06-08T09:28:48Z
+- prompt: pop007
+  text: Is that so?
+  file: wav/pop007.wav
+  samplerate: 44100
+  samples: 122157
+  date: 2009-06-08T09:28:54Z
+- prompt: pop008
+  text: Tell me about it.
+  file: wav/pop008.wav
+  samplerate: 44100
+  samples: 140679
+  date: 2009-06-08T09:29:02Z
+- prompt: pop009
+  text: Hi!
+  file: wav/pop009.wav
+  samplerate: 44100
+  samples: 97461
+  date: 2009-06-08T09:29:08Z
+- prompt: pop010
+  text: I'm Poppy.
+  file: wav/pop010.wav
+  samplerate: 44100
+  samples: 119070
+  date: 2009-06-08T09:29:14Z
+- prompt: pop011
+  text: How are you?
+  file: wav/pop011.wav
+  samplerate: 44100
+  samples: 125244
+  date: 2009-06-08T09:29:20Z
+- prompt: pop012
+  text: Sorry, could you say that again?
+  file: wav/pop012.wav
+  samplerate: 44100
+  samples: 186984
+  date: 2009-06-08T09:29:28Z
+- prompt: pop013
+  text: Maybe I misunderstood.
+  file: wav/pop013.wav
+  samplerate: 44100
+  samples: 156114
+  date: 2009-06-08T09:29:34Z
+- prompt: pop014
+  text: Have I said something wrong?
+  file: wav/pop014.wav
+  samplerate: 44100
+  samples: 174636
+  date: 2009-06-08T09:29:42Z
+- prompt: pop015
+  text: Are you still there?
+  file: wav/pop015.wav
+  samplerate: 44100
+  samples: 149940
+  date: 2009-06-08T09:29:48Z
+- prompt: pop016
+  text: Is there anything else you want to say?
+  file: wav/pop016.wav
+  samplerate: 44100
+  samples: 208593
+  date: 2009-06-08T09:29:56Z
+- prompt: pop017a
+  text: I think you asked me a question.
+  file: wav/pop017a.wav
+  samplerate: 44100
+  samples: 186984
+  date: 2009-06-08T09:30:04Z
+- prompt: pop018a
+  text: I can't answer questions.
+  file: wav/pop018a.wav
+  samplerate: 44100
+  samples: 165375
+  date: 2009-06-08T09:30:12Z
+- prompt: pop017
+  text: I think you asked me a question.
+  file: wav/pop017.wav
+  samplerate: 44100
+  samples: 186984
+  date: 2009-06-08T09:30:36Z
+- prompt: pop018
+  text: I can't answer questions.
+  file: wav/pop018.wav
+  samplerate: 44100
+  samples: 165375
+  date: 2009-06-08T09:30:44Z
+- prompt: pop019
+  text: Just tell me things, and I'll respond.
+  file: wav/pop019.wav
+  samplerate: 44100
+  samples: 205506
+  date: 2009-06-08T09:30:52Z
+- prompt: pop020
+  text: It'll all sort itself out.
+  file: wav/pop020.wav
+  samplerate: 44100
+  samples: 168462
+  date: 2009-06-08T09:31:00Z
+- prompt: pop021
+  text: You need to take it easy.
+  file: wav/pop021.wav
+  samplerate: 44100
+  samples: 165375
+  date: 2009-06-08T09:31:06Z
+- prompt: pop022
+  text: The worst is over.
+  file: wav/pop022.wav
+  samplerate: 44100
+  samples: 143766
+  date: 2009-06-08T09:31:14Z
+- prompt: pop023a
+  text: Things generally get better.
+  file: wav/pop023a.wav
+  samplerate: 44100
+  samples: 174636
+  date: 2009-06-08T09:31:22Z
+- prompt: pop024a
+  text: I understand, but it does no good to be angry.
+  file: wav/pop024a.wav
+  samplerate: 44100
+  samples: 230202
+  date: 2009-06-08T09:31:30Z
+- prompt: pop025a
+  text: It'll all be better tomorrow.
+  file: wav/pop025a.wav
+  samplerate: 44100
+  samples: 177723
+  date: 2009-06-08T09:31:38Z
+- prompt: pop023
+  text: Things generally get better.
+  file: wav/pop023.wav
+  samplerate: 44100
+  samples: 174636
+  date: 2009-06-08T09:31:54Z
+- prompt: pop024b
+  text: I understand, but it does no good to be angry.
+  file: wav/pop024b.wav
+  samplerate: 44100
+  samples: 230202
+  date: 2009-06-08T09:32:02Z
+- prompt: pop025b
+  text: It'll all be better tomorrow.
+  file: wav/pop025b.wav
+  samplerate: 44100
+  samples: 177723
+  date: 2009-06-08T09:32:10Z
+- prompt: pop024
+  text: I understand, but it does no good to be angry.
+  file: wav/pop024.wav
+  samplerate: 44100
+  samples: 230202
+  date: 2009-06-08T09:32:26Z
+- prompt: pop025
+  text: It'll all be better tomorrow.
+  file: wav/pop025.wav
+  samplerate: 44100
+  samples: 177723
+  date: 2009-06-08T09:32:34Z
+- prompt: pop026
+  text: It can't be that bad.
+  file: wav/pop026.wav
+  samplerate: 44100
+  samples: 153027
+  date: 2009-06-08T09:32:42Z
+- prompt: pop027
+  text: What exactly happened?
+  file: wav/pop027.wav
+  samplerate: 44100
+  samples: 156114
+  date: 2009-06-08T09:33:02Z
+- prompt: pop028
+  text: Can't you do anything about it?
+  file: wav/pop028.wav
+  samplerate: 44100
+  samples: 183897
+  date: 2009-06-08T09:33:10Z
+- prompt: pop029
+  text: Come on, calm down a bit and try to think of something happy and soothing.
+  file: wav/pop029.wav
+  samplerate: 44100
+  samples: 316638
+  date: 2009-06-08T09:33:20Z
+- prompt: pop030
+  text: Go on, give me one happy thought.
+  file: wav/pop030.wav
+  samplerate: 44100
+  samples: 190071
+  date: 2009-06-08T09:33:28Z
+- prompt: topic01
+  text: Tell me a bit about yourself.
+  file: wav/topic01.wav
+  samplerate: 44100
+  samples: 180810
+  date: 2009-06-08T09:33:54Z
+- prompt: topic02
+  text: That sounds very interesting.
+  file: wav/topic02.wav
+  samplerate: 44100
+  samples: 177723
+  date: 2009-06-08T09:34:02Z
+- prompt: topic03
+  text: Can you tell me a bit more about that?
+  file: wav/topic03.wav
+  samplerate: 44100
+  samples: 205506
+  date: 2009-06-08T09:34:10Z
+- prompt: topic04
+  text: That's fascinating!
+  file: wav/topic04.wav
+  samplerate: 44100
+  samples: 146853
+  date: 2009-06-08T09:34:18Z
+- prompt: topic05
+  text: What do you do in your spare time?
+  file: wav/topic05.wav
+  samplerate: 44100
+  samples: 193158
+  date: 2009-06-08T09:34:26Z
+- prompt: topic06
+  text: Let's think of something else to talk about.
+  file: wav/topic06.wav
+  samplerate: 44100
+  samples: 224028
+  date: 2009-06-08T09:34:34Z
+- prompt: topic07a
+  text: Think of something completely different that we haven't talked about yet, and try and get me interested in that.
+  file: wav/topic07a.wav
+  samplerate: 44100
+  samples: 433944
+  date: 2009-06-08T09:34:48Z
+- prompt: topic07
+  text: Think of something completely different that we haven't talked about yet, and try and get me interested in that.
+  file: wav/topic07.wav
+  samplerate: 44100
+  samples: 433944
+  date: 2009-06-08T09:35:14Z
+- prompt: topic08
+  text: What do you enjoy most about all that?
+  file: wav/topic08.wav
+  samplerate: 44100
+  samples: 205506
+  date: 2009-06-08T09:35:24Z
+- prompt: topic09
+  text: Do you enjoy talking to different kinds of people?
+  file: wav/topic09.wav
+  samplerate: 44100
+  samples: 242550
+  date: 2009-06-08T09:35:32Z
+- prompt: topic10
+  text: Do you go to different places often?
+  file: wav/topic10.wav
+  samplerate: 44100
+  samples: 199332
+  date: 2009-06-08T09:35:40Z
+- prompt: topic11a
+  text: Tell me what you do when you are indoors in the evening at home.
+  file: wav/topic11a.wav
+  samplerate: 44100
+  samples: 285768
+  date: 2009-06-08T09:35:50Z
+- prompt: topic12a
+  text: Do you read, or watch television, or films or what do you do?
+  file: wav/topic12a.wav
+  samplerate: 44100
+  samples: 276507
+  date: 2009-06-08T09:36:00Z
+- prompt: topic11
+  text: Tell me what you do when you are indoors in the evening at home.
+  file: wav/topic11.wav
+  samplerate: 44100
+  samples: 285768
+  date: 2009-06-08T09:36:28Z
+- prompt: topic12
+  text: Do you read, or watch television, or films or what do you do?
+  file: wav/topic12.wav
+  samplerate: 44100
+  samples: 276507
+  date: 2009-06-08T09:36:38Z
+- prompt: topic13a
+  text: What is the best book that you have read recently?
+  file: wav/topic13a.wav
+  samplerate: 44100
+  samples: 242550
+  date: 2009-06-08T09:36:48Z
+- prompt: topic14a
+  text: Do you like a wide variety of those types of things?
+  file: wav/topic14a.wav
+  samplerate: 44100
+  samples: 248724
+  date: 2009-06-08T09:36:58Z
+- prompt: topic13
+  text: What is the best book that you have read recently?
+  file: wav/topic13.wav
+  samplerate: 44100
+  samples: 242550
+  date: 2009-06-08T09:37:08Z
+- prompt: topic14
+  text: Do you like a wide variety of those types of things?
+  file: wav/topic14.wav
+  samplerate: 44100
+  samples: 248724
+  date: 2009-06-08T09:37:16Z
+- prompt: topic15a
+  text: What TV shows do you like least?
+  file: wav/topic15a.wav
+  samplerate: 44100
+  samples: 186984
+  date: 2009-06-08T09:37:24Z
+- prompt: topic16a
+  text: Is there anything about yourself that you are ashamed of?
+  file: wav/topic16a.wav
+  samplerate: 44100
+  samples: 264159
+  date: 2009-06-08T09:37:34Z
+- prompt: topic15
+  text: What TV shows do you like least?
+  file: wav/topic15.wav
+  samplerate: 44100
+  samples: 186984
+  date: 2009-06-08T09:40:00Z
+- prompt: topic16
+  text: Is there anything about yourself that you are ashamed of?
+  file: wav/topic16.wav
+  samplerate: 44100
+  samples: 264159
+  date: 2009-06-08T09:40:10Z
+- prompt: topic17
+  text: Who are the best people that you know?
+  file: wav/topic17.wav
+  samplerate: 44100
+  samples: 205506
+  date: 2009-06-08T09:40:18Z
+- prompt: topic18
+  text: Tell me about the people that you most like and admire.
+  file: wav/topic18.wav
+  samplerate: 44100
+  samples: 257985
+  date: 2009-06-08T09:40:28Z
+- prompt: topic19
+  text: What do you most regret doing in your life?
+  file: wav/topic19.wav
+  samplerate: 44100
+  samples: 220941
+  date: 2009-06-08T09:40:36Z
+- prompt: topic20
+  text: What are your plans for the near future?
+  file: wav/topic20.wav
+  samplerate: 44100
+  samples: 211680
+  date: 2009-06-08T09:40:46Z
+- prompt: topic21
+  text: What are your plans for the long term future?
+  file: wav/topic21.wav
+  samplerate: 44100
+  samples: 227115
+  date: 2009-06-08T09:40:54Z
+- prompt: topic22a
+  text: Do you have any of those little things that you particularly like, a pen, or pair of shoes, something like that?
+  file: wav/topic22a.wav
+  samplerate: 44100
+  samples: 433944
+  date: 2009-06-08T09:41:08Z
+- prompt: topic23a
+  text: When you go to the shops and you look around, what do you look at?
+  file: wav/topic23a.wav
+  samplerate: 44100
+  samples: 291942
+  date: 2009-06-08T09:41:18Z
+- prompt: topic22
+  text: Do you have any of those little things that you particularly like, a pen, or pair of shoes, something like that?
+  file: wav/topic22.wav
+  samplerate: 44100
+  samples: 433944
+  date: 2009-06-08T09:41:36Z
+- prompt: topic23b
+  text: When you go to the shops and you look around, what do you look at?
+  file: wav/topic23b.wav
+  samplerate: 44100
+  samples: 291942
+  date: 2009-06-08T09:41:46Z
+- prompt: topic24a
+  text: Tell me about the best day you have had in the last year.
+  file: wav/topic24a.wav
+  samplerate: 44100
+  samples: 264159
+  date: 2009-06-08T09:41:56Z
+- prompt: topic23c
+  text: When you go to the shops and you look around, what do you look at?
+  file: wav/topic23c.wav
+  samplerate: 44100
+  samples: 291942
+  date: 2009-06-08T09:42:16Z
+- prompt: topic23
+  text: When you go to the shops and you look around, what do you look at?
+  file: wav/topic23.wav
+  samplerate: 44100
+  samples: 291942
+  date: 2009-06-08T09:42:44Z
+- prompt: topic24
+  text: Tell me about the best day you have had in the last year.
+  file: wav/topic24.wav
+  samplerate: 44100
+  samples: 264159
+  date: 2009-06-08T09:42:54Z
+- prompt: topic25
+  text: Tell me about the worst day you have had in the last year.
+  file: wav/topic25.wav
+  samplerate: 44100
+  samples: 267246
+  date: 2009-06-08T09:43:04Z
+- prompt: topic26
+  text: If there was anything about yourself that you could change, what would it be?
+  file: wav/topic26.wav
+  samplerate: 44100
+  samples: 325899
+  date: 2009-06-08T09:43:14Z
+- prompt: topic27
+  text: If there was one thing about yourself that you would want your children to have, what would it be?
+  file: wav/topic27.wav
+  samplerate: 44100
+  samples: 390726
+  date: 2009-06-08T09:44:04Z
+- prompt: topic28
+  text: What do you think are the most difficult problems facing the human race at the moment?
+  file: wav/topic28.wav
+  samplerate: 44100
+  samples: 353682
+  date: 2009-06-08T09:44:16Z
+- prompt: topic29
+  text: What do you think is the best thing about the human race?
+  file: wav/topic29.wav
+  samplerate: 44100
+  samples: 264159
+  date: 2009-06-08T09:44:26Z
+- prompt: topic30
+  text: Who is your oldest friend?
+  file: wav/topic30.wav
+  samplerate: 44100
+  samples: 168462
+  date: 2009-06-08T09:44:34Z
+- prompt: topic31
+  text: Tell me what you most remember about school.
+  file: wav/topic31.wav
+  samplerate: 44100
+  samples: 224028
+  date: 2009-06-08T09:44:42Z
+- prompt: topic32
+  text: What makes you most afraid?
+  file: wav/topic32.wav
+  samplerate: 44100
+  samples: 171549
+  date: 2009-06-08T09:44:50Z
+- prompt: topic33
+  text: What makes you happiest?
+  file: wav/topic33.wav
+  samplerate: 44100
+  samples: 162288
+  date: 2009-06-08T09:44:58Z
+- prompt: topic34
+  text: Do you have any bad habits?
+  file: wav/topic34.wav
+  samplerate: 44100
+  samples: 171549
+  date: 2009-06-08T09:45:04Z
+- prompt: topic35
+  text: Tell me about the town where you were a child.
+  file: wav/topic35.wav
+  samplerate: 44100
+  samples: 230202
+  date: 2009-06-08T09:45:14Z
+- prompt: topic36
+  text: Can you tell me about any adventures that you remember as a child?
+  file: wav/topic36.wav
+  samplerate: 44100
+  samples: 291942
+  date: 2009-06-08T09:45:24Z
+- prompt: topic37
+  text: What is your relationship like with your parents?
+  file: wav/topic37.wav
+  samplerate: 44100
+  samples: 239463
+  date: 2009-06-08T09:45:32Z
+- prompt: topic38
+  text: What sports do you play?
+  file: wav/topic38.wav
+  samplerate: 44100
+  samples: 162288
+  date: 2009-06-08T09:45:40Z
+- prompt: topic39
+  text: What languages do you speak?
+  file: wav/topic39.wav
+  samplerate: 44100
+  samples: 174636
+  date: 2009-06-08T09:45:48Z
+- prompt: topic40
+  text: What is the most interesting thing you have learnt recently?
+  file: wav/topic40.wav
+  samplerate: 44100
+  samples: 273420
+  date: 2009-06-08T09:45:56Z
+- prompt: w0001a
+  text: The idea of ripping yarns parodied a pre world War two schoolboy genre.
+  file: wav/w0001a.wav
+  samplerate: 44100
+  samples: 307377
+  date: 2009-06-08T09:46:34Z
+- prompt: w0002a
+  text: At the age of two, Lavigne began singing along with her mother on church songs.
+  file: wav/w0002a.wav
+  samplerate: 44100
+  samples: 332073
+  date: 2009-06-08T09:46:44Z
+- prompt: w0001b
+  text: The idea of ripping yarns parodied a pre world War two schoolboy genre.
+  file: wav/w0001b.wav
+  samplerate: 44100
+  samples: 307377
+  date: 2009-06-08T09:47:42Z
+- prompt: w0002b
+  text: At the age of two, Lavigne began singing along with her mother on church songs.
+  file: wav/w0002b.wav
+  samplerate: 44100
+  samples: 332073
+  date: 2009-06-08T09:47:54Z
+- prompt: w0001
+  text: The idea of ripping yarns parodied a pre world War two schoolboy genre.
+  file: wav/w0001.wav
+  samplerate: 44100
+  samples: 307377
+  date: 2009-06-08T09:48:34Z
+- prompt: w0002
+  text: At the age of two, Lavigne began singing along with her mother on church songs.
+  file: wav/w0002.wav
+  samplerate: 44100
+  samples: 332073
+  date: 2009-06-08T09:48:46Z
+- prompt: w0003
+  text: Image from Encarta used as fair use.
+  file: wav/w0003.wav
+  samplerate: 44100
+  samples: 199332
+  date: 2009-06-08T09:48:58Z
+- prompt: w0004
+  text: With a foreword by Peter Hajdu.
+  file: wav/w0004.wav
+  samplerate: 44100
+  samples: 183897
+  date: 2009-06-08T09:49:06Z
+- prompt: w0005
+  text: Group psychotherapy is a key component of Milieu Therapy in a Therapeutic Community.
+  file: wav/w0005.wav
+  samplerate: 44100
+  samples: 347508
+  date: 2009-06-08T09:49:20Z
+- prompt: w0006a
+  text: The race was a battle until the very end with the twenty six year old Piet Kooyman as the winner.
+  file: wav/w0006a.wav
+  samplerate: 44100
+  samples: 387639
+  date: 2009-06-08T09:49:34Z
+- prompt: w0006
+  text: The race was a battle until the very end with the twenty six year old Piet Kooyman as the winner.
+  file: wav/w0006.wav
+  samplerate: 44100
+  samples: 387639
+  date: 2009-06-08T09:50:48Z
+- prompt: w0007
+  text: Acorns are also sometimes prepared as a massage oil.
+  file: wav/w0007.wav
+  samplerate: 44100
+  samples: 248724
+  date: 2009-06-08T09:51:00Z
+- prompt: w0008a
+  text: High fidelity his second book and first novel was published in one thousand nine hundred ninety five.
+  file: wav/w0008a.wav
+  samplerate: 44100
+  samples: 396900
+  date: 2009-06-08T09:51:14Z
+- prompt: w0008
+  text: High fidelity his second book and first novel was published in one thousand nine hundred ninety five.
+  file: wav/w0008.wav
+  samplerate: 44100
+  samples: 396900
+  date: 2009-06-08T09:52:40Z
+- prompt: w0009
+  text: But in a way that makes me go like Oy Oy Oy!
+  file: wav/w0009.wav
+  samplerate: 44100
+  samples: 224028
+  date: 2009-06-08T09:52:52Z
+- prompt: w0010
+  text: Film career Lavigne made her film debut in the animated film Over the Hedge, which is based on the comic strip of same name.
+  file: wav/w0010.wav
+  samplerate: 44100
+  samples: 470988
+  date: 2009-06-08T09:53:46Z
+- prompt: w0011
+  text: soon followed with the advent of the Minolta x d eleven.
+  file: wav/w0011.wav
+  samplerate: 44100
+  samples: 261072
+  date: 2009-06-08T09:53:58Z
+- prompt: w0012a
+  text: Liu Hui also wrote of mathematical surveying to calculate distance measurements of depth, height, width, and surface area.
+  file: wav/w0012a.wav
+  samplerate: 44100
+  samples: 464814
+  date: 2009-06-08T09:54:14Z
+- prompt: w0012b
+  text: Liu Hui also wrote of mathematical surveying to calculate distance measurements of depth, height, width, and surface area.
+  file: wav/w0012b.wav
+  samplerate: 44100
+  samples: 464814
+  date: 2009-06-08T09:55:18Z
+- prompt: w0012
+  text: Liu Hui also wrote of mathematical surveying to calculate distance measurements of depth, height, width, and surface area.
+  file: wav/w0012.wav
+  samplerate: 44100
+  samples: 464814
+  date: 2009-06-08T09:56:50Z
+- prompt: w0013
+  text: On the anniversary of the event in one thousand nine hundred ninety five President Lee teng hui opened the subject for the first time.
+  file: wav/w0013.wav
+  samplerate: 44100
+  samples: 501858
+  date: 2009-06-08T09:57:08Z
+- prompt: w0014
+  text: Early life Sununu was born in Havana, Cuba to John Saleh Sununu, an international film distributor, and Victoria Dada.
+  file: wav/w0014.wav
+  samplerate: 44100
+  samples: 452466
+  date: 2009-06-08T09:59:08Z
+- prompt: w0015
+  text: In his autobiography, Maradona argued that the test result was due to his personal trainer giving him the power drink Rip Fuel.
+  file: wav/w0015.wav
+  samplerate: 44100
+  samples: 480249
+  date: 2009-06-08T09:59:58Z
+- prompt: w0016
+  text: New Zealand wines are typically meant to be consumed young and will often maintain their greenherbal flavors even with extended bottle aging.
+  file: wav/w0016.wav
+  samplerate: 44100
+  samples: 523467
+  date: 2009-06-08T10:01:02Z
+- prompt: w0017
+  text: Hounded for years by the press, Maradona even fired a compressed air rifle against reporters who, so he claimed, invaded his privacy.
+  file: wav/w0017.wav
+  samplerate: 44100
+  samples: 498771
+  date: 2009-06-08T10:01:18Z
+- prompt: w0018
+  text: DES also has four so called weak keys.
+  file: wav/w0018.wav
+  samplerate: 44100
+  samples: 205506
+  date: 2009-06-08T10:01:30Z
+- prompt: w0019
+  text: Chang si pah and Lyn Sam opened groceries nearby.
+  file: wav/w0019.wav
+  samplerate: 44100
+  samples: 239463
+  date: 2009-06-08T10:01:40Z
+- prompt: w0020
+  text: As a youth he was once a paperboy.
+  file: wav/w0020.wav
+  samplerate: 44100
+  samples: 193158
+  date: 2009-06-08T10:01:50Z
+- prompt: w0021a
+  text: I did my best to be a miniature Jelly Roll Morton, she said, and Duhe decided to keep me.
+  file: wav/w0021a.wav
+  samplerate: 44100
+  samples: 362943
+  date: 2009-06-08T10:02:04Z
+- prompt: w0021
+  text: I did my best to be a miniature Jelly Roll Morton, she said, and Duhe decided to keep me.
+  file: wav/w0021.wav
+  samplerate: 44100
+  samples: 362943
+  date: 2009-06-08T10:02:56Z
+- prompt: w0022a
+  text: The tracks also change genres constantly throughout.
+  file: wav/w0022a.wav
+  samplerate: 44100
+  samples: 248724
+  date: 2009-06-08T10:03:08Z
+- prompt: w0023a
+  text: When Godzilla appears, the chihuahua says, uh oh.
+  file: wav/w0023a.wav
+  samplerate: 44100
+  samples: 239463
+  date: 2009-06-08T10:03:18Z
+- prompt: w0022
+  text: The tracks also change genres constantly throughout.
+  file: wav/w0022.wav
+  samplerate: 44100
+  samples: 248724
+  date: 2009-06-08T10:03:30Z
+- prompt: w0023b
+  text: When Godzilla appears, the chihuahua says, uh oh.
+  file: wav/w0023b.wav
+  samplerate: 44100
+  samples: 239463
+  date: 2009-06-08T10:03:40Z
+- prompt: w0023
+  text: When Godzilla appears, the chihuahua says, uh oh.
+  file: wav/w0023.wav
+  samplerate: 44100
+  samples: 239463
+  date: 2009-06-08T10:04:06Z
+- prompt: w0024
+  text: The current mayor is Hassan Saleh, a former lawyer.
+  file: wav/w0024.wav
+  samplerate: 44100
+  samples: 245637
+  date: 2009-06-08T10:04:18Z
+- prompt: w0025
+  text: The use of government data is strongly preferred to Encarta or other outside sources.
+  file: wav/w0025.wav
+  samplerate: 44100
+  samples: 350595
+  date: 2009-06-08T10:05:04Z
+- prompt: w0027a
+  text: Scheuer resigned in two thousand four.
+  file: wav/w0027a.wav
+  samplerate: 44100
+  samples: 205506
+  date: 2009-06-08T10:05:44Z
+- prompt: w0027b
+  text: Scheuer resigned in two thousand four.
+  file: wav/w0027b.wav
+  samplerate: 44100
+  samples: 205506
+  date: 2009-06-08T10:06:06Z
+- prompt: w0026
+  text: No email has yet been divulged.
+  file: wav/w0026.wav
+  samplerate: 44100
+  samples: 183897
+  date: 2009-06-08T10:06:16Z
+- prompt: w0027
+  text: Scheuer resigned in two thousand four.
+  file: wav/w0027.wav
+  samplerate: 44100
+  samples: 205506
+  date: 2009-06-08T10:06:26Z
+- prompt: w0028a
+  text: He was the last Maharaja of Lahore during the Sikh Raj of Punjab.
+  file: wav/w0028a.wav
+  samplerate: 44100
+  samples: 288855
+  date: 2009-06-08T10:06:38Z
+- prompt: w0028
+  text: He was the last Maharaja of Lahore during the Sikh Raj of Punjab.
+  file: wav/w0028.wav
+  samplerate: 44100
+  samples: 288855
+  date: 2009-06-08T10:07:16Z
+- prompt: w0029a
+  text: The gold medal went to Hossein Reza Zadeh of Iran.
+  file: wav/w0029a.wav
+  samplerate: 44100
+  samples: 242550
+  date: 2009-06-08T10:07:28Z
+- prompt: w0030a
+  text: The u s government and Carranza, the newly elected President of Mexico, were worried when Huerta arrived.
+  file: wav/w0030a.wav
+  samplerate: 44100
+  samples: 412335
+  date: 2009-06-08T10:07:42Z
+- prompt: w0029
+  text: The gold medal went to Hossein Reza Zadeh of Iran.
+  file: wav/w0029.wav
+  samplerate: 44100
+  samples: 242550
+  date: 2009-06-08T10:08:08Z
+- prompt: w0030b
+  text: The u s government and Carranza, the newly elected President of Mexico, were worried when Huerta arrived.
+  file: wav/w0030b.wav
+  samplerate: 44100
+  samples: 412335
+  date: 2009-06-08T10:08:22Z
+- prompt: w0030
+  text: The u s government and Carranza, the newly elected President of Mexico, were worried when Huerta arrived.
+  file: wav/w0030.wav
+  samplerate: 44100
+  samples: 412335
+  date: 2009-06-08T10:08:50Z
+- prompt: w0031
+  text: In the year two thousand, the park was renamed from Parc des Iles to Parc jean drapeau, after the mayor that brought the fair to Montreal.
+  file: wav/w0031.wav
+  samplerate: 44100
+  samples: 514206
+  date: 2009-06-08T10:10:24Z
+- prompt: w0032
+  text: just lump them all together and say Oy!
+  file: wav/w0032.wav
+  samplerate: 44100
+  samples: 208593
+  date: 2009-06-08T10:10:34Z
+- prompt: w0033
+  text: Badminton in Ireland is run by the B U I.
+  file: wav/w0033.wav
+  samplerate: 44100
+  samples: 208593
+  date: 2009-06-08T10:10:44Z
+- prompt: w0034a
+  text: Tamara i. Hladik wrote that the story crafts a universe where lesser novels promulgate excuses for sequels.
+  file: wav/w0034a.wav
+  samplerate: 44100
+  samples: 418509
+  date: 2009-06-08T10:11:00Z
+- prompt: w0034b
+  text: Tamara i. Hladik wrote that the story crafts a universe where lesser novels promulgate excuses for sequels.
+  file: wav/w0034b.wav
+  samplerate: 44100
+  samples: 418509
+  date: 2009-06-08T10:11:50Z
+- prompt: w0035a
+  text: Ledger doesn't just know how Ennis moves, speaks and listens; he knows how he breathes.
+  file: wav/w0035a.wav
+  samplerate: 44100
+  samples: 356769
+  date: 2009-06-08T10:12:04Z
+- prompt: w0034c
+  text: Tamara i. Hladik wrote that the story crafts a universe where lesser novels promulgate excuses for sequels.
+  file: wav/w0034c.wav
+  samplerate: 44100
+  samples: 418509
+  date: 2009-06-08T10:12:26Z
+- prompt: w0035b
+  text: Ledger doesn't just know how Ennis moves, speaks and listens; he knows how he breathes.
+  file: wav/w0035b.wav
+  samplerate: 44100
+  samples: 356769
+  date: 2009-06-08T10:12:40Z
+- prompt: w0034d
+  text: Tamara i. Hladik wrote that the story crafts a universe where lesser novels promulgate excuses for sequels.
+  file: wav/w0034d.wav
+  samplerate: 44100
+  samples: 418509
+  date: 2009-06-08T10:13:12Z
+- prompt: w0034e
+  text: Tamara i. Hladik wrote that the story crafts a universe where lesser novels promulgate excuses for sequels.
+  file: wav/w0034e.wav
+  samplerate: 44100
+  samples: 418509
+  date: 2009-06-08T10:13:52Z
+- prompt: w0035
+  text: Ledger doesn't just know how Ennis moves, speaks and listens; he knows how he breathes.
+  file: wav/w0035.wav
+  samplerate: 44100
+  samples: 356769
+  date: 2009-06-08T10:14:22Z
+- prompt: w0036
+  text: Occasionally he had worked on the De La Montagne farm, which was located in what is now the Harlem section of Manhattan.
+  file: wav/w0036.wav
+  samplerate: 44100
+  samples: 458640
+  date: 2009-06-08T10:14:38Z
+- prompt: w0037
+  text: The setting is the milieu or environment where the story and action takes place.
+  file: wav/w0037.wav
+  samplerate: 44100
+  samples: 335160
+  date: 2009-06-08T10:14:50Z
+- prompt: w0038
+  text: Losing all lives also ends the game with a headline reading The Paperboy Calls It Quits.
+  file: wav/w0038.wav
+  samplerate: 44100
+  samples: 359856
+  date: 2009-06-08T10:15:30Z
+- prompt: w0039
+  text: Also, The Yeah Yeah Yeah Song was used for a Kraft salad dressing commercial.
+  file: wav/w0039.wav
+  samplerate: 44100
+  samples: 325899
+  date: 2009-06-08T10:15:44Z
+- prompt: w0040a
+  text: He grew up in a milieu where martial arts were greatly respected.
+  file: wav/w0040a.wav
+  samplerate: 44100
+  samples: 288855
+  date: 2009-06-08T10:15:56Z
+- prompt: w0040
+  text: He grew up in a milieu where martial arts were greatly respected.
+  file: wav/w0040.wav
+  samplerate: 44100
+  samples: 288855
+  date: 2009-06-08T10:16:06Z
+- prompt: w0041
+  text: The two semi final matches saw identical scores.
+  file: wav/w0041.wav
+  samplerate: 44100
+  samples: 236376
+  date: 2009-06-08T10:16:18Z
+- prompt: w0042
+  text: When the handle is squeezed, the mouth opens.
+  file: wav/w0042.wav
+  samplerate: 44100
+  samples: 227115
+  date: 2009-06-08T10:16:28Z
+- prompt: w0043
+  text: Motors embedded in the chair resulted in massage chairs.
+  file: wav/w0043.wav
+  samplerate: 44100
+  samples: 261072
+  date: 2009-06-08T10:16:40Z
+- prompt: w0044a
+  text: British genres as Lovers rock and jungle music are influenced by Jamaican music.
+  file: wav/w0044a.wav
+  samplerate: 44100
+  samples: 335160
+  date: 2009-06-08T10:16:52Z
+- prompt: w0044
+  text: British genres as Lovers rock and jungle music are influenced by Jamaican music.
+  file: wav/w0044.wav
+  samplerate: 44100
+  samples: 335160
+  date: 2009-06-08T10:17:40Z
+- prompt: w0045
+  text: There plows people who seem to give fuel to the legend, to feed the unquenchable flame of Myth.
+  file: wav/w0045.wav
+  samplerate: 44100
+  samples: 381465
+  date: 2009-06-08T10:17:54Z
+- prompt: w0046
+  text: However, the lamp may produce some smoke and soot.
+  file: wav/w0046.wav
+  samplerate: 44100
+  samples: 242550
+  date: 2009-06-08T10:18:04Z
+- prompt: w0047
+  text: The locals had identified such bones as petrified horse hoofs.
+  file: wav/w0047.wav
+  samplerate: 44100
+  samples: 279594
+  date: 2009-06-08T10:18:16Z
+- prompt: w0048
+  text: Zadeh is married to Fay Zadeh and has two children, Stella Zadeh and Norman Zadeh.
+  file: wav/w0048.wav
+  samplerate: 44100
+  samples: 341334
+  date: 2009-06-08T10:18:30Z
+- prompt: w0049a
+  text: The official courts cleared Moshe on both counts.
+  file: wav/w0049a.wav
+  samplerate: 44100
+  samples: 239463
+  date: 2009-06-08T10:18:40Z
+- prompt: w0049
+  text: The official courts cleared Moshe on both counts.
+  file: wav/w0049.wav
+  samplerate: 44100
+  samples: 239463
+  date: 2009-06-08T10:19:22Z
+- prompt: w0050
+  text: This unit was designed and built by toyo kogyo.
+  file: wav/w0050.wav
+  samplerate: 44100
+  samples: 233289
+  date: 2009-06-08T10:20:00Z
+- prompt: w0051
+  text: This allows easy use for making bath oil products.
+  file: wav/w0051.wav
+  samplerate: 44100
+  samples: 242550
+  date: 2009-06-08T10:20:10Z
+- prompt: w0052
+  text: Poarch Creek casino Development is underway on a casino built on lands owned by the Poarch Creek Indians abutting the city.
+  file: wav/w0052.wav
+  samplerate: 44100
+  samples: 467901
+  date: 2009-06-08T10:21:42Z
+- prompt: w0053
+  text: Now, on to her dealings with Una.
+  file: wav/w0053.wav
+  samplerate: 44100
+  samples: 190071
+  date: 2009-06-08T10:22:54Z
+- prompt: w0054a
+  text: Less than twenty four hours later Ullrich was passed by Armstrong in the time trial.
+  file: wav/w0054a.wav
+  samplerate: 44100
+  samples: 347508
+  date: 2009-06-08T10:23:08Z
+- prompt: w0055
+  text: This probability is less than four one millionths.
+  file: wav/w0055.wav
+  samplerate: 44100
+  samples: 242550
+  date: 2009-06-08T10:23:18Z
+- prompt: w0056
+  text: The museum is in the former hicks cobb General Store.
+  file: wav/w0056.wav
+  samplerate: 44100
+  samples: 251811
+  date: 2009-06-08T10:23:30Z
+- prompt: w0057
+  text: The department is currently headed up by mister Philip Dewhurst.
+  file: wav/w0057.wav
+  samplerate: 44100
+  samples: 285768
+  date: 2009-06-08T10:23:42Z
+- prompt: w0058
+  text: The first pool manager was a neighbor, j. w. Puryear.
+  file: wav/w0058.wav
+  samplerate: 44100
+  samples: 251811
+  date: 2009-06-08T10:23:54Z
+- prompt: w0059a
+  text: Early life Robert Bresson was born at bromont lamothe.
+  file: wav/w0059a.wav
+  samplerate: 44100
+  samples: 254898
+  date: 2009-06-08T10:24:04Z
+- prompt: w0059
+  text: Early life Robert Bresson was born at bromont lamothe.
+  file: wav/w0059.wav
+  samplerate: 44100
+  samples: 254898
+  date: 2009-06-08T10:24:38Z
+- prompt: w0060a
+  text: Han later decided to file a divorce with Choi shortly after.
+  file: wav/w0060a.wav
+  samplerate: 44100
+  samples: 273420
+  date: 2009-06-08T10:24:50Z
+- prompt: w0060
+  text: Han later decided to file a divorce with Choi shortly after.
+  file: wav/w0060.wav
+  samplerate: 44100
+  samples: 273420
+  date: 2009-06-08T10:25:08Z
+- prompt: w0061a
+  text: Most of the Arabic words have found their way into Uzbek through Persian.
+  file: wav/w0061a.wav
+  samplerate: 44100
+  samples: 313551
+  date: 2009-06-08T10:25:20Z
+- prompt: w0062a
+  text: Steinke is still awaiting trial.
+  file: wav/w0062a.wav
+  samplerate: 44100
+  samples: 186984
+  date: 2009-06-08T10:25:30Z
+- prompt: w0061
+  text: Most of the Arabic words have found their way into Uzbek through Persian.
+  file: wav/w0061.wav
+  samplerate: 44100
+  samples: 313551
+  date: 2009-06-08T10:25:48Z
+- prompt: w0062b
+  text: Steinke is still awaiting trial.
+  file: wav/w0062b.wav
+  samplerate: 44100
+  samples: 186984
+  date: 2009-06-08T10:25:58Z
+- prompt: w0062
+  text: Steinke is still awaiting trial.
+  file: wav/w0062.wav
+  samplerate: 44100
+  samples: 186984
+  date: 2009-06-08T10:26:16Z
+- prompt: w0063
+  text: Genre Spore does not fall neatly into any single video game genre.
+  file: wav/w0063.wav
+  samplerate: 44100
+  samples: 291942
+  date: 2009-06-08T10:26:28Z
+- prompt: w0064a
+  text: Should that be whole raw oysters or raw whole oysters?
+  file: wav/w0064a.wav
+  samplerate: 44100
+  samples: 254898
+  date: 2009-06-08T10:26:40Z
+- prompt: w0064b
+  text: Should that be whole raw oysters or raw whole oysters?
+  file: wav/w0064b.wav
+  samplerate: 44100
+  samples: 254898
+  date: 2009-06-08T10:26:50Z
+- prompt: w0064
+  text: Should that be whole raw oysters or raw whole oysters?
+  file: wav/w0064.wav
+  samplerate: 44100
+  samples: 254898
+  date: 2009-06-08T10:27:28Z
+- prompt: w0065
+  text: Currently, Avril Lavigne has sold over thirty five million albums worldwide.
+  file: wav/w0065.wav
+  samplerate: 44100
+  samples: 322812
+  date: 2009-06-08T10:27:42Z
+- prompt: w0066a
+  text: Then cite one of them to a statement such as The two major schools of PA are.
+  file: wav/w0066a.wav
+  samplerate: 44100
+  samples: 325899
+  date: 2009-06-08T10:27:54Z
+- prompt: w0066
+  text: Then cite one of them to a statement such as The two major schools of PA are.
+  file: wav/w0066.wav
+  samplerate: 44100
+  samples: 325899
+  date: 2009-06-08T10:28:10Z
+- prompt: w0067
+  text: Transportation County Route five hundred five passes through Northvale.
+  file: wav/w0067.wav
+  samplerate: 44100
+  samples: 307377
+  date: 2009-06-08T10:28:24Z
+- prompt: w0068a
+  text: In the first, Knoblauch, Jeter, and o Neill opened the game with singles.
+  file: wav/w0068a.wav
+  samplerate: 44100
+  samples: 313551
+  date: 2009-06-08T10:28:36Z
+- prompt: w0068
+  text: In the first, Knoblauch, Jeter, and o Neill opened the game with singles.
+  file: wav/w0068.wav
+  samplerate: 44100
+  samples: 313551
+  date: 2009-06-08T10:29:36Z
+- prompt: w0069a
+  text: Why have a clock in your cell phone when your watch does that job just as well?
+  file: wav/w0069a.wav
+  samplerate: 44100
+  samples: 332073
+  date: 2009-06-08T10:29:48Z
+- prompt: w0069
+  text: Why have a clock in your cell phone when your watch does that job just as well?
+  file: wav/w0069.wav
+  samplerate: 44100
+  samples: 332073
+  date: 2009-06-08T10:30:10Z
+- prompt: w0070a
+  text: He was intercepted and arrested in Aden, where the writ of the Raj began.
+  file: wav/w0070a.wav
+  samplerate: 44100
+  samples: 313551
+  date: 2009-06-08T10:30:22Z
+- prompt: w0070
+  text: He was intercepted and arrested in Aden, where the writ of the Raj began.
+  file: wav/w0070.wav
+  samplerate: 44100
+  samples: 313551
+  date: 2009-06-08T10:31:10Z
+- prompt: w0071
+  text: At length, he stood up, asking jung suh if she could hear him.
+  file: wav/w0071.wav
+  samplerate: 44100
+  samples: 279594
+  date: 2009-06-08T10:31:34Z
+- prompt: w0072
+  text: You listed it incorrectly in the reference list as Cooper and Hirschhorn.
+  file: wav/w0072.wav
+  samplerate: 44100
+  samples: 313551
+  date: 2009-06-08T10:31:46Z
+- prompt: w0073
+  text: Leisure and cultural facilities Yuen Long Theatre was opened in May two thousand.
+  file: wav/w0073.wav
+  samplerate: 44100
+  samples: 338247
+  date: 2009-06-08T10:31:58Z
+- prompt: w0074a
+  text: At that time, Audi Sport boss Wolfgang Ullrich started to evaluate the options of joining.
+  file: wav/w0074a.wav
+  samplerate: 44100
+  samples: 366030
+  date: 2009-06-08T10:32:12Z
+- prompt: w0054
+  text: Less than twenty four hours later Ullrich was passed by Armstrong in the time trial.
+  file: wav/w0054.wav
+  samplerate: 44100
+  samples: 347508
+  date: 2009-06-08T10:33:38Z
+- prompt: w0074
+  text: At that time, Audi Sport boss Wolfgang Ullrich started to evaluate the options of joining.
+  file: wav/w0074.wav
+  samplerate: 44100
+  samples: 366030
+  date: 2009-06-08T10:34:00Z
+- prompt: w0075
+  text: The person would say Oops and correct the error.
+  file: wav/w0075.wav
+  samplerate: 44100
+  samples: 236376
+  date: 2009-06-08T10:34:26Z
+- prompt: w0076
+  text: Thune also believes in creationism.
+  file: wav/w0076.wav
+  samplerate: 44100
+  samples: 196245
+  date: 2009-06-08T10:34:36Z
+- prompt: w0077
+  text: When did we see you a stranger and invite you in, or needing clothes and clothe you?
+  file: wav/w0077.wav
+  samplerate: 44100
+  samples: 347508
+  date: 2009-06-08T10:34:48Z
+- prompt: w0078a
+  text: After Marquette, he worked with his father at the Scotch Oil Company, in Madison.
+  file: wav/w0078a.wav
+  samplerate: 44100
+  samples: 338247
+  date: 2009-06-08T10:35:40Z
+- prompt: w0078
+  text: After Marquette, he worked with his father at the Scotch Oil Company, in Madison.
+  file: wav/w0078.wav
+  samplerate: 44100
+  samples: 338247
+  date: 2009-06-08T10:35:52Z
+- prompt: w0079a
+  text: The company is named after the hamlet of Hauppauge, New York, in which it is based.
+  file: wav/w0079a.wav
+  samplerate: 44100
+  samples: 344421
+  date: 2009-06-08T10:36:04Z
+- prompt: w0079
+  text: The company is named after the hamlet of Hauppauge, New York, in which it is based.
+  file: wav/w0079.wav
+  samplerate: 44100
+  samples: 344421
+  date: 2009-06-08T10:36:58Z
+- prompt: w0080
+  text: Too much oil or fat can hinder the breathing of the worms, as they breathe through their skin.
+  file: wav/w0080.wav
+  samplerate: 44100
+  samples: 378378
+  date: 2009-06-08T10:37:12Z
+- prompt: w0081
+  text: Returning to his more provincial milieu increased his desire for a wider fame.
+  file: wav/w0081.wav
+  samplerate: 44100
+  samples: 328986
+  date: 2009-06-08T10:37:24Z
+- prompt: w0082
+  text: Rick promptly responds, So you're the one.
+  file: wav/w0082.wav
+  samplerate: 44100
+  samples: 211680
+  date: 2009-06-08T10:37:36Z
+- prompt: w0083
+  text: Camp Lejeune, North Carolina.
+  file: wav/w0083.wav
+  samplerate: 44100
+  samples: 177723
+  date: 2009-06-08T10:37:44Z
+- prompt: w0084
+  text: On their way they are strafed, and many people flee into the hospital while some are killed.
+  file: wav/w0084.wav
+  samplerate: 44100
+  samples: 372204
+  date: 2009-06-08T10:38:54Z
+- prompt: w0085
+  text: Orderly government was secured by the additional vow of obedience to superiors.
+  file: wav/w0085.wav
+  samplerate: 44100
+  samples: 332073
+  date: 2009-06-08T10:39:50Z
+- prompt: w0086
+  text: When is the plan rouge started?
+  file: wav/w0086.wav
+  samplerate: 44100
+  samples: 183897
+  date: 2009-06-08T10:40:00Z
+- prompt: w0087
+  text: I, who need nothing more than a glimpse of sun to burst out in a loud laughter, from a joy I cannot explain?
+  file: wav/w0087.wav
+  samplerate: 44100
+  samples: 421596
+  date: 2009-06-08T10:40:14Z
+- prompt: w0088a
+  text: And some fans of the Dune saga are critical of the follow up novels as being subpar.
+  file: wav/w0088a.wav
+  samplerate: 44100
+  samples: 347508
+  date: 2009-06-08T10:41:02Z
+- prompt: w0088
+  text: And some fans of the Dune saga are critical of the follow up novels as being subpar.
+  file: wav/w0088.wav
+  samplerate: 44100
+  samples: 347508
+  date: 2009-06-08T10:41:26Z
+- prompt: w0089
+  text: This is what I wish Vincent would respect.
+  file: wav/w0089.wav
+  samplerate: 44100
+  samples: 217854
+  date: 2009-06-08T10:41:36Z
+- prompt: w0090
+  text: Awards shangri la earned two battle stars for World War two service and three battle stars for service in the Vietnam War.
+  file: wav/w0090.wav
+  samplerate: 44100
+  samples: 464814
+  date: 2009-06-08T10:41:54Z
+- prompt: w0091
+  text: Gonzalez had moved into second overall and became a threat to Ullrich.
+  file: wav/w0091.wav
+  samplerate: 44100
+  samples: 304290
+  date: 2009-06-08T10:42:40Z
+- prompt: w0092a
+  text: Chinese who have the surname Ma are suspected to have Hui ancestry.
+  file: wav/w0092a.wav
+  samplerate: 44100
+  samples: 295029
+  date: 2009-06-08T10:43:22Z
+- prompt: w0092
+  text: Chinese who have the surname Ma are suspected to have Hui ancestry.
+  file: wav/w0092.wav
+  samplerate: 44100
+  samples: 295029
+  date: 2009-06-08T10:43:38Z
+- prompt: w0093
+  text: On March eighteen, the Spaniard Juan de Jauregui attempted to assassinate William in Antwerp.
+  file: wav/w0093.wav
+  samplerate: 44100
+  samples: 375291
+  date: 2009-06-08T10:43:52Z
+- prompt: w0094
+  text: Failing to make the transition were Forsythe Racing and its popular driver, Paul Tracy.
+  file: wav/w0094.wav
+  samplerate: 44100
+  samples: 356769
+  date: 2009-06-08T10:45:02Z
+- prompt: w0095
+  text: Early life Warnke was the son of Alfred Al Warnke and Louise Warnke.
+  file: wav/w0095.wav
+  samplerate: 44100
+  samples: 298116
+  date: 2009-06-08T10:46:20Z
+- prompt: w0096a
+  text: For three days the atoll was bombed and strafed.
+  file: wav/w0096a.wav
+  samplerate: 44100
+  samples: 236376
+  date: 2009-06-08T10:46:32Z
+- prompt: w0096
+  text: For three days the atoll was bombed and strafed.
+  file: wav/w0096.wav
+  samplerate: 44100
+  samples: 236376
+  date: 2009-06-08T10:46:58Z
+- prompt: w0097
+  text: The bacteria ingest natural milk sugars and release lactic acid as a waste product.
+  file: wav/w0097.wav
+  samplerate: 44100
+  samples: 344421
+  date: 2009-06-08T10:47:12Z
+- prompt: w0098
+  text: The only links that should be replaced by the d o i are those going themselves to the publishers version.
+  file: wav/w0098.wav
+  samplerate: 44100
+  samples: 406161
+  date: 2009-06-08T10:48:14Z
+- prompt: w0099
+  text: Bin Khalid means that Tariq was the son of Khalid, making Khalid the grandfather of Saleh.
+  file: wav/w0099.wav
+  samplerate: 44100
+  samples: 366030
+  date: 2009-06-08T10:48:28Z
+- prompt: w0100
+  text: Only five riders finished within two minutes of Ullrich.
+  file: wav/w0100.wav
+  samplerate: 44100
+  samples: 261072
+  date: 2009-06-08T10:49:58Z
+- prompt: pop032a
+  text: How will you do that?
+  file: wav/pop032a.wav
+  samplerate: 44100
+  samples: 153027
+  date: 2009-06-08T10:50:50Z
+- prompt: pop031
+  text: How do you do it?
+  file: wav/pop031.wav
+  samplerate: 44100
+  samples: 140679
+  date: 2009-06-08T10:51:04Z
+- prompt: pop032
+  text: How will you do that?
+  file: wav/pop032.wav
+  samplerate: 44100
+  samples: 153027
+  date: 2009-06-08T10:51:12Z
+- prompt: pop033
+  text: Do you think it could be easier to change your reaction rather than other people?
+  file: wav/pop033.wav
+  samplerate: 44100
+  samples: 338247
+  date: 2009-06-08T10:51:26Z
+- prompt: pop034
+  text: I'm not so sure that you should be so negative.
+  file: wav/pop034.wav
+  samplerate: 44100
+  samples: 233289
+  date: 2009-06-08T10:51:36Z
+- prompt: pop035
+  text: Perhaps you should stay out of arguments with others.
+  file: wav/pop035.wav
+  samplerate: 44100
+  samples: 251811
+  date: 2009-06-08T10:51:48Z
+- prompt: pop036
+  text: Go on.
+  file: wav/pop036.wav
+  samplerate: 44100
+  samples: 106722
+  date: 2009-06-08T10:51:56Z
+- prompt: pop037
+  text: Why?
+  file: wav/pop037.wav
+  samplerate: 44100
+  samples: 100548
+  date: 2009-06-08T10:52:04Z
+- prompt: pop038
+  text: How?
+  file: wav/pop038.wav
+  samplerate: 44100
+  samples: 100548
+  date: 2009-06-08T10:52:10Z
+- prompt: pop039a
+  text: Would you like to talk to someone else?
+  file: wav/pop039a.wav
+  samplerate: 44100
+  samples: 208593
+  date: 2009-06-08T10:52:22Z
+- prompt: pop039
+  text: Would you like to talk to someone else?
+  file: wav/pop039.wav
+  samplerate: 44100
+  samples: 208593
+  date: 2009-06-08T10:52:38Z
+- prompt: pop040
+  text: Why don't you speak to Prudence?
+  file: wav/pop040.wav
+  samplerate: 44100
+  samples: 186984
+  date: 2009-06-08T10:52:48Z
+- prompt: pop041
+  text: Why don't you speak to Spike?
+  file: wav/pop041.wav
+  samplerate: 44100
+  samples: 177723
+  date: 2009-06-08T10:52:58Z
+- prompt: pop042
+  text: Why don't you speak to Obadiah?
+  file: wav/pop042.wav
+  samplerate: 44100
+  samples: 183897
+  date: 2009-06-08T10:53:08Z
+- prompt: pop043
+  text: It's great to hear someone sound happy.
+  file: wav/pop043.wav
+  samplerate: 44100
+  samples: 208593
+  date: 2009-06-08T10:53:18Z
+- prompt: pop044
+  text: I'm so pleased for you.
+  file: wav/pop044.wav
+  samplerate: 44100
+  samples: 159201
+  date: 2009-06-08T10:53:28Z
+- prompt: pop045
+  text: Isn't that nice?
+  file: wav/pop045.wav
+  samplerate: 44100
+  samples: 137592
+  date: 2009-06-08T10:53:36Z
+- prompt: pop046
+  text: That sounds lovely!
+  file: wav/pop046.wav
+  samplerate: 44100
+  samples: 146853
+  date: 2009-06-08T10:53:44Z
+- prompt: pop047
+  text: That sounds exciting!
+  file: wav/pop047.wav
+  samplerate: 44100
+  samples: 153027
+  date: 2009-06-08T10:53:54Z
+- prompt: pop048
+  text: Amazing!
+  file: wav/pop048.wav
+  samplerate: 44100
+  samples: 112896
+  date: 2009-06-08T10:54:02Z
+- prompt: pop049
+  text: It doesn't get any better than that!
+  file: wav/pop049.wav
+  samplerate: 44100
+  samples: 199332
+  date: 2009-06-08T10:54:12Z
+- prompt: pop050
+  text: Happy days!
+  file: wav/pop050.wav
+  samplerate: 44100
+  samples: 122157
+  date: 2009-06-08T10:54:20Z
+- prompt: pop051
+  text: That's wonderful, isn't it?
+  file: wav/pop051.wav
+  samplerate: 44100
+  samples: 171549
+  date: 2009-06-08T10:54:30Z
+- prompt: pop052
+  text: Aren't you just great?
+  file: wav/pop052.wav
+  samplerate: 44100
+  samples: 156114
+  date: 2009-06-08T10:54:38Z
+- prompt: pop053
+  text: Well done!
+  file: wav/pop053.wav
+  samplerate: 44100
+  samples: 119070
+  date: 2009-06-08T10:54:46Z
+- prompt: pop054
+  text: Absolutely!
+  file: wav/pop054.wav
+  samplerate: 44100
+  samples: 122157
+  date: 2009-06-08T10:54:54Z
+- prompt: pop055
+  text: Fantastic!
+  file: wav/pop055.wav
+  samplerate: 44100
+  samples: 119070
+  date: 2009-06-08T10:55:02Z
+- prompt: pop056
+  text: Whoopidoo!
+  file: wav/pop056.wav
+  samplerate: 44100
+  samples: 119070
+  date: 2009-06-08T10:55:10Z
+- prompt: pop057
+  text: Really?
+  file: wav/pop057.wav
+  samplerate: 44100
+  samples: 109809
+  date: 2009-06-08T10:55:18Z
+- prompt: pop058
+  text: Do you have any good news to tell me?
+  file: wav/pop058.wav
+  samplerate: 44100
+  samples: 202419
+  date: 2009-06-08T10:55:28Z
+- prompt: pop059
+  text: What other good news do you have?
+  file: wav/pop059.wav
+  samplerate: 44100
+  samples: 190071
+  date: 2009-06-08T10:55:38Z
+- prompt: pop060
+  text: What have you been doing?
+  file: wav/pop060.wav
+  samplerate: 44100
+  samples: 165375
+  date: 2009-06-08T10:55:48Z
+- prompt: w0101
+  text: The property was leased from bristol myers Squibb, which still has a large facility nearby.
+  file: wav/w0101.wav
+  samplerate: 44100
+  samples: 369117
+  date: 2009-06-08T11:15:40Z
+- prompt: w0102
+  text: In one thousand nine hundred sixty three, Kirk married Annette Courtemanche; they had four daughters.
+  file: wav/w0102.wav
+  samplerate: 44100
+  samples: 399987
+  date: 2009-06-08T11:16:28Z
+- prompt: w0103
+  text: For minutes, Fox kept repeating the word Hoy meaning today, originating the famous phrase hoy, hoy, hoy.
+  file: wav/w0103.wav
+  samplerate: 44100
+  samples: 409248
+  date: 2009-06-08T11:17:24Z
+- prompt: w0104
+  text: They are generally considered to be the worst team in v s, though UDE has been making noticeable attempts to improve their quality through legacy content.
+  file: wav/w0104.wav
+  samplerate: 44100
+  samples: 563598
+  date: 2009-06-08T11:19:28Z
+- prompt: w0105a
+  text: A stall may be performed on either the bow or the stern.
+  file: wav/w0105a.wav
+  samplerate: 44100
+  samples: 261072
+  date: 2009-06-08T11:19:38Z
+- prompt: w0105
+  text: A stall may be performed on either the bow or the stern.
+  file: wav/w0105.wav
+  samplerate: 44100
+  samples: 261072
+  date: 2009-06-08T11:19:58Z
+- prompt: w0106
+  text: There is much speculation over who will replace Des o Connor.
+  file: wav/w0106.wav
+  samplerate: 44100
+  samples: 276507
+  date: 2009-06-08T11:20:08Z
+- prompt: w0107
+  text: industrial breathing sets are filled with filtered, compressed air, the same air we breathe normally.
+  file: wav/w0107.wav
+  samplerate: 44100
+  samples: 399987
+  date: 2009-06-08T11:20:24Z
+- prompt: w0108
+  text: Twin brother of c. j.Hobgood, Professional surfer.
+  file: wav/w0108.wav
+  samplerate: 44100
+  samples: 242550
+  date: 2009-06-08T11:20:34Z
+- prompt: w0109
+  text: In this position, the entire front of the aircraft acts as a crush zone to reduce the shock that reaches the recorder.
+  file: wav/w0109.wav
+  samplerate: 44100
+  samples: 452466
+  date: 2009-06-08T11:20:50Z
+- prompt: w0110a
+  text: Members of this younger generation may know of the Khmer Rouge only through word of mouth from parents and elders.
+  file: wav/w0110a.wav
+  samplerate: 44100
+  samples: 440118
+  date: 2009-06-08T11:21:06Z
+- prompt: w0110b
+  text: Members of this younger generation may know of the Khmer Rouge only through word of mouth from parents and elders.
+  file: wav/w0110b.wav
+  samplerate: 44100
+  samples: 440118
+  date: 2009-06-08T11:21:36Z
+- prompt: w0110c
+  text: Members of this younger generation may know of the Khmer Rouge only through word of mouth from parents and elders.
+  file: wav/w0110c.wav
+  samplerate: 44100
+  samples: 440118
+  date: 2009-06-08T11:21:56Z
+- prompt: w0110
+  text: Members of this younger generation may know of the Khmer Rouge only through word of mouth from parents and elders.
+  file: wav/w0110.wav
+  samplerate: 44100
+  samples: 440118
+  date: 2009-06-08T11:22:12Z
+- prompt: w0111
+  text: She becomes romantically involved with Laroche.
+  file: wav/w0111.wav
+  samplerate: 44100
+  samples: 233289
+  date: 2009-06-08T11:22:38Z
+- prompt: w0112a
+  text: As many as two million died during the Khmer Rouge genocide.
+  file: wav/w0112a.wav
+  samplerate: 44100
+  samples: 273420
+  date: 2009-06-08T11:22:50Z
+- prompt: w0112
+  text: As many as two million died during the Khmer Rouge genocide.
+  file: wav/w0112.wav
+  samplerate: 44100
+  samples: 273420
+  date: 2009-06-08T11:23:26Z
+- prompt: w0113a
+  text: After one thousand eight hundred nineteen the community elected its own community mayor or Schultheis.
+  file: wav/w0113a.wav
+  samplerate: 44100
+  samples: 403074
+  date: 2009-06-08T11:24:44Z
+- prompt: w0113
+  text: After one thousand eight hundred nineteen the community elected its own community mayor or Schultheis.
+  file: wav/w0113.wav
+  samplerate: 44100
+  samples: 403074
+  date: 2009-06-08T11:25:04Z
+- prompt: w0114
+  text: Still, she is notable, as much as I wish she wasn't.
+  file: wav/w0114.wav
+  samplerate: 44100
+  samples: 248724
+  date: 2009-06-08T11:25:16Z
+- prompt: w0115
+  text: I am free to do what I want, huh huh.
+  file: wav/w0115.wav
+  samplerate: 44100
+  samples: 202419
+  date: 2009-06-08T11:25:26Z
+- prompt: w0116
+  text: Veloso and Lavigne divorced in two thousand four.
+  file: wav/w0116.wav
+  samplerate: 44100
+  samples: 239463
+  date: 2009-06-08T11:25:38Z
+- prompt: w0117
+  text: Half went to the local Anaheim chapter of the main charity while the other half went to the Baton Rouge chapter.
+  file: wav/w0117.wav
+  samplerate: 44100
+  samples: 433944
+  date: 2009-06-08T11:25:52Z
+- prompt: w0118
+  text: This was the milieu that bred Casanova and made him its most famous and representative citizen.
+  file: wav/w0118.wav
+  samplerate: 44100
+  samples: 381465
+  date: 2009-06-08T11:26:06Z
+- prompt: w0119
+  text: 'Football Association of Singapore League champions: Singapore Amateur Football
+    Association League champions:'
+  file: wav/w0119.wav
+  samplerate: 44100
+  samples: 421596
+  date: 2009-06-08T11:26:22Z
+- prompt: w0120
+  text: My, you draw your distinctions very, very finely.
+  file: wav/w0120.wav
+  samplerate: 44100
+  samples: 239463
+  date: 2009-06-08T11:26:32Z
+- prompt: w0121a
+  text: Heavy industry, with the machine tool industry as its linchpin, was given continuing priority.
+  file: wav/w0121a.wav
+  samplerate: 44100
+  samples: 378378
+  date: 2009-06-08T11:27:14Z
+- prompt: w0122a
+  text: The fourth axiom states that for each entourage U there is an entourage V which is half as large.
+  file: wav/w0122a.wav
+  samplerate: 44100
+  samples: 387639
+  date: 2009-06-08T11:27:28Z
+- prompt: w0121
+  text: Heavy industry, with the machine tool industry as its linchpin, was given continuing priority.
+  file: wav/w0121.wav
+  samplerate: 44100
+  samples: 378378
+  date: 2009-06-08T11:27:40Z
+- prompt: w0122b
+  text: The fourth axiom states that for each entourage U there is an entourage V which is half as large.
+  file: wav/w0122b.wav
+  samplerate: 44100
+  samples: 387639
+  date: 2009-06-08T11:27:54Z
+- prompt: w0122
+  text: The fourth axiom states that for each entourage U there is an entourage V which is half as large.
+  file: wav/w0122.wav
+  samplerate: 44100
+  samples: 387639
+  date: 2009-06-08T11:28:50Z
+- prompt: w0123a
+  text: He spent four years there writing his only published work of fiction, The Fume of Poppies, and getting to know the likes of William Styron.
+  file: wav/w0123a.wav
+  samplerate: 44100
+  samples: 517293
+  date: 2009-06-08T11:29:08Z
+- prompt: w0123b
+  text: He spent four years there writing his only published work of fiction, The Fume of Poppies, and getting to know the likes of William Styron.
+  file: wav/w0123b.wav
+  samplerate: 44100
+  samples: 517293
+  date: 2009-06-08T11:29:42Z
+- prompt: w0124a
+  text: Since then, Giscard has always attributed his defeat to Chirac, and he is widely said to loathe Chirac.
+  file: wav/w0124a.wav
+  samplerate: 44100
+  samples: 406161
+  date: 2009-06-08T11:29:58Z
+- prompt: w0123
+  text: He spent four years there writing his only published work of fiction, The Fume of Poppies, and getting to know the likes of William Styron.
+  file: wav/w0123.wav
+  samplerate: 44100
+  samples: 517293
+  date: 2009-06-08T11:30:16Z
+- prompt: w0124
+  text: Since then, Giscard has always attributed his defeat to Chirac, and he is widely said to loathe Chirac.
+  file: wav/w0124.wav
+  samplerate: 44100
+  samples: 406161
+  date: 2009-06-08T11:31:00Z
+- prompt: w0125a
+  text: candidate Frank Hsieh agreed on all the items on the list and signed it in March.
+  file: wav/w0125a.wav
+  samplerate: 44100
+  samples: 338247
+  date: 2009-06-08T11:31:14Z
+- prompt: w0125
+  text: candidate Frank Hsieh agreed on all the items on the list and signed it in March.
+  file: wav/w0125.wav
+  samplerate: 44100
+  samples: 338247
+  date: 2009-06-08T11:31:56Z
+- prompt: w0126
+  text: Chaos reigned over the country, and millions were prosecuted, including a famous philosopher, Chen Yuen.
+  file: wav/w0126.wav
+  samplerate: 44100
+  samples: 409248
+  date: 2009-06-08T11:32:10Z
+- prompt: w0127
+  text: The Emperor was considering retreat as supplies ran low, but also hoped that by maneuver, he would draw out his opponents.
+  file: wav/w0127.wav
+  samplerate: 44100
+  samples: 464814
+  date: 2009-06-08T11:33:08Z
+- prompt: w0128
+  text: Like a mirror, a mirage shows images of things which are elsewhere.
+  file: wav/w0128.wav
+  samplerate: 44100
+  samples: 295029
+  date: 2009-06-08T11:33:20Z
+- prompt: w0129
+  text: In his autobiography, Maradona admits he was not always faithful to Claudia, even though he refers to her as the love of his life.
+  file: wav/w0129.wav
+  samplerate: 44100
+  samples: 489510
+  date: 2009-06-08T11:33:38Z
+- prompt: w0130a
+  text: He was told he deserved an Academy Award, thrown to the ground, forced to do pushups, and bounced off a wall.
+  file: wav/w0130a.wav
+  samplerate: 44100
+  samples: 424683
+  date: 2009-06-08T11:33:52Z
+- prompt: w0130
+  text: He was told he deserved an Academy Award, thrown to the ground, forced to do pushups, and bounced off a wall.
+  file: wav/w0130.wav
+  samplerate: 44100
+  samples: 424683
+  date: 2009-06-08T11:34:10Z
+- prompt: w0131
+  text: His first job was as a paperboy, in his neighborhood.
+  file: wav/w0131.wav
+  samplerate: 44100
+  samples: 251811
+  date: 2009-06-08T11:34:32Z
+- prompt: w0132
+  text: Its current musical director is Daniel Barenboim.
+  file: wav/w0132.wav
+  samplerate: 44100
+  samples: 239463
+  date: 2009-06-08T11:34:42Z
+- prompt: w0133
+  text: Many down islanders made saint Croix their permanent home, while others eventually returned to their native islands.
+  file: wav/w0133.wav
+  samplerate: 44100
+  samples: 446292
+  date: 2009-06-08T11:35:36Z
+- prompt: w0134
+  text: Thus shortchanged, considering themselves no longer honor bound to lay down arms, the revolutionists rose again.
+  file: wav/w0134.wav
+  samplerate: 44100
+  samples: 433944
+  date: 2009-06-08T11:35:52Z
+- prompt: w0135
+  text: I weep for him, I deeply sympathize.
+  file: wav/w0135.wav
+  samplerate: 44100
+  samples: 199332
+  date: 2009-06-08T11:36:02Z
+- prompt: w0136a
+  text: Feingold even won counties that supported a second term for Republican President George w. Bush.
+  file: wav/w0136a.wav
+  samplerate: 44100
+  samples: 384552
+  date: 2009-06-08T11:36:16Z
+- prompt: w0137a
+  text: Other directors were also just starting to take up this style in one thousand nine hundred fifteen, for instance William s. Hart in Bad Buck of Santa Ynez.
+  file: wav/w0137a.wav
+  samplerate: 44100
+  samples: 566685
+  date: 2009-06-08T11:36:36Z
+- prompt: w0136
+  text: Feingold even won counties that supported a second term for Republican President George w. Bush.
+  file: wav/w0136.wav
+  samplerate: 44100
+  samples: 384552
+  date: 2009-06-08T11:37:02Z
+- prompt: w0137b
+  text: Other directors were also just starting to take up this style in one thousand nine hundred fifteen, for instance William s. Hart in Bad Buck of Santa Ynez.
+  file: wav/w0137b.wav
+  samplerate: 44100
+  samples: 566685
+  date: 2009-06-08T11:37:20Z
+- prompt: w0137c
+  text: Other directors were also just starting to take up this style in one thousand nine hundred fifteen, for instance William s. Hart in Bad Buck of Santa Ynez.
+  file: wav/w0137c.wav
+  samplerate: 44100
+  samples: 566685
+  date: 2009-06-08T11:37:56Z
+- prompt: w0137
+  text: Other directors were also just starting to take up this style in one thousand nine hundred fifteen, for instance William s. Hart in Bad Buck of Santa Ynez.
+  file: wav/w0137.wav
+  samplerate: 44100
+  samples: 566685
+  date: 2009-06-08T11:39:12Z
+- prompt: w0138a
+  text: lower than trash because at least the trash gets recycled.
+  file: wav/w0138a.wav
+  samplerate: 44100
+  samples: 267246
+  date: 2009-06-08T11:39:24Z
+- prompt: w0138
+  text: lower than trash because at least the trash gets recycled.
+  file: wav/w0138.wav
+  samplerate: 44100
+  samples: 267246
+  date: 2009-06-08T11:39:34Z
+- prompt: w0139
+  text: All Per Una items include the three hearts logo, inspired by a postcard seen by Davies while on holiday in Italy.
+  file: wav/w0139.wav
+  samplerate: 44100
+  samples: 437031
+  date: 2009-06-08T11:39:50Z
+- prompt: w0140
+  text: In present day Worcester the Swan Theatre stages a mixture of professional touring and local amateur productions.
+  file: wav/w0140.wav
+  samplerate: 44100
+  samples: 437031
+  date: 2009-06-08T11:40:52Z
+- prompt: w0141a
+  text: While most tables are rectangles, there are novelty tables which are round, hexagonal and even zig zag shaped.
+  file: wav/w0141a.wav
+  samplerate: 44100
+  samples: 427770
+  date: 2009-06-08T11:41:06Z
+- prompt: w0141
+  text: While most tables are rectangles, there are novelty tables which are round, hexagonal and even zig zag shaped.
+  file: wav/w0141.wav
+  samplerate: 44100
+  samples: 427770
+  date: 2009-06-08T11:41:22Z
+- prompt: w0142
+  text: On thirteenth May of the same year, Leon co operated with Mark Lui to compose the song eight thousand eight hundred fifty eight.
+  file: wav/w0142.wav
+  samplerate: 44100
+  samples: 483336
+  date: 2009-06-08T11:42:08Z
+- prompt: w0143a
+  text: In two thousand one, guitarist Brian Damage Forsythe joined Rhino Bucket, being announced as so in early two thousand two.
+  file: wav/w0143a.wav
+  samplerate: 44100
+  samples: 464814
+  date: 2009-06-08T11:42:24Z
+- prompt: w0143
+  text: In two thousand one, guitarist Brian Damage Forsythe joined Rhino Bucket, being announced as so in early two thousand two.
+  file: wav/w0143.wav
+  samplerate: 44100
+  samples: 464814
+  date: 2009-06-08T11:43:30Z
+- prompt: w0144
+  text: The M U I is not formally a government body.
+  file: wav/w0144.wav
+  samplerate: 44100
+  samples: 217854
+  date: 2009-06-08T11:43:42Z
+- prompt: w0145
+  text: I also don't see how I could breathe like that.
+  file: wav/w0145.wav
+  samplerate: 44100
+  samples: 233289
+  date: 2009-06-08T11:43:52Z
+- prompt: w0146a
+  text: As these Commando groups withdrew and headed for the pier to embark they discovered how the remainder of the force was faring.
+  file: wav/w0146a.wav
+  samplerate: 44100
+  samples: 477162
+  date: 2009-06-08T11:44:08Z
+- prompt: w0146b
+  text: As these Commando groups withdrew and headed for the pier to embark they discovered how the remainder of the force was faring.
+  file: wav/w0146b.wav
+  samplerate: 44100
+  samples: 477162
+  date: 2009-06-08T11:44:26Z
+- prompt: w0146
+  text: As these Commando groups withdrew and headed for the pier to embark they discovered how the remainder of the force was faring.
+  file: wav/w0146.wav
+  samplerate: 44100
+  samples: 477162
+  date: 2009-06-08T11:44:42Z
+- prompt: w0147
+  text: In one thousand nine hundred sixty Ben Dehoyos Founded the Ballroom Dance Company and was the director for ten years.
+  file: wav/w0147.wav
+  samplerate: 44100
+  samples: 449379
+  date: 2009-06-08T11:44:58Z
+- prompt: w0148
+  text: Some mountain ash, hawthorn, spruce and fir are also present.
+  file: wav/w0148.wav
+  samplerate: 44100
+  samples: 276507
+  date: 2009-06-08T11:45:10Z
+- prompt: w0149
+  text: He is later joined by the Maharaja, Snowy and the Thompson twins.
+  file: wav/w0149.wav
+  samplerate: 44100
+  samples: 288855
+  date: 2009-06-08T11:45:22Z
+- prompt: w0150a
+  text: Bonjour Monsieur Le Corbusier.
+  file: wav/w0150a.wav
+  samplerate: 44100
+  samples: 180810
+  date: 2009-06-08T11:45:32Z
+- prompt: w0150
+  text: Bonjour Monsieur Le Corbusier.
+  file: wav/w0150.wav
+  samplerate: 44100
+  samples: 180810
+  date: 2009-06-08T11:46:08Z
+- prompt: w0151
+  text: For instance, eight seven six four two would be referred to as a rough eight, but eight five four three two would be referred to as a smooth eight.
+  file: wav/w0151.wav
+  samplerate: 44100
+  samples: 541989
+  date: 2009-06-08T11:46:26Z
+- prompt: w0152a
+  text: Thence he put forth a witty and effective reply to John Saltmarsh, who had attacked his views on, ecclesiastical reform.
+  file: wav/w0152a.wav
+  samplerate: 44100
+  samples: 458640
+  date: 2009-06-08T11:47:06Z
+- prompt: w0152
+  text: Thence he put forth a witty and effective reply to John Saltmarsh, who had attacked his views on, ecclesiastical reform.
+  file: wav/w0152.wav
+  samplerate: 44100
+  samples: 458640
+  date: 2009-06-08T11:47:24Z
+- prompt: w0153a
+  text: Chadian forces were able to force the Libyans to retreat from the Aouzou Strip in one thousand nine hundred eighty seven.
+  file: wav/w0153a.wav
+  samplerate: 44100
+  samples: 461727
+  date: 2009-06-08T11:48:18Z
+- prompt: w0153
+  text: Chadian forces were able to force the Libyans to retreat from the Aouzou Strip in one thousand nine hundred eighty seven.
+  file: wav/w0153.wav
+  samplerate: 44100
+  samples: 461727
+  date: 2009-06-08T11:48:40Z
+- prompt: w0154
+  text: Haffner died in one thousand eight hundred thirty, but his enterprise was continued by his stepson, Ernst Adolf Bottcher.
+  file: wav/w0154.wav
+  samplerate: 44100
+  samples: 461727
+  date: 2009-06-08T11:49:24Z
+- prompt: w0155
+  text: Camouflage green is used in camouflage.
+  file: wav/w0155.wav
+  samplerate: 44100
+  samples: 208593
+  date: 2009-06-08T11:49:34Z
+- prompt: w0156a
+  text: The origin of the word Paiute is unclear.
+  file: wav/w0156a.wav
+  samplerate: 44100
+  samples: 214767
+  date: 2009-06-08T11:49:46Z
+- prompt: w0156
+  text: The origin of the word Paiute is unclear.
+  file: wav/w0156.wav
+  samplerate: 44100
+  samples: 214767
+  date: 2009-06-08T11:50:42Z
+- prompt: w0157
+  text: Under the direction of doctor David Bowden and Charles Latshaw, this orchestra has been broadcast nationwide multiple times.
+  file: wav/w0157.wav
+  samplerate: 44100
+  samples: 470988
+  date: 2009-06-08T11:50:58Z
+- prompt: w0158
+  text: State Senator Andrew Rice announced he will run against Inhofe.
+  file: wav/w0158.wav
+  samplerate: 44100
+  samples: 282681
+  date: 2009-06-08T11:51:10Z
+- prompt: w0159
+  text: Utah Idaho Montana Auxiliary routes
+  file: wav/w0159.wav
+  samplerate: 44100
+  samples: 196245
+  date: 2009-06-08T11:51:20Z
+- prompt: w0160a
+  text: Israeli Prime Minister Yitzhak Rabin telephoned mister Arafat, describing the attack as a loathsome, criminal act of murder.
+  file: wav/w0160a.wav
+  samplerate: 44100
+  samples: 470988
+  date: 2009-06-08T11:51:36Z
+- prompt: w0160b
+  text: Israeli Prime Minister Yitzhak Rabin telephoned mister Arafat, describing the attack as a loathsome, criminal act of murder.
+  file: wav/w0160b.wav
+  samplerate: 44100
+  samples: 470988
+  date: 2009-06-08T11:52:16Z
+- prompt: w0160c
+  text: Israeli Prime Minister Yitzhak Rabin telephoned mister Arafat, describing the attack as a loathsome, criminal act of murder.
+  file: wav/w0160c.wav
+  samplerate: 44100
+  samples: 470988
+  date: 2009-06-08T11:52:44Z
+- prompt: w0160d
+  text: Israeli Prime Minister Yitzhak Rabin telephoned mister Arafat, describing the attack as a loathsome, criminal act of murder.
+  file: wav/w0160d.wav
+  samplerate: 44100
+  samples: 470988
+  date: 2009-06-08T11:53:12Z
+- prompt: w0160
+  text: Israeli Prime Minister Yitzhak Rabin telephoned mister Arafat, describing the attack as a loathsome, criminal act of murder.
+  file: wav/w0160.wav
+  samplerate: 44100
+  samples: 470988
+  date: 2009-06-08T11:53:44Z
+- prompt: w0161
+  text: The Wilderness Trail followed on July sixth, another Fox film.
+  file: wav/w0161.wav
+  samplerate: 44100
+  samples: 279594
+  date: 2009-06-08T11:53:56Z
+- prompt: w0162
+  text: On November twenty one, one thousand nine hundred eighty three, five months past his ninety sixth birthday, he married Joy Valderrama.
+  file: wav/w0162.wav
+  samplerate: 44100
+  samples: 501858
+  date: 2009-06-08T11:54:14Z
+- prompt: w0163a
+  text: On the banks of the Hron he wrote his philosophical work Meditations.
+  file: wav/w0163a.wav
+  samplerate: 44100
+  samples: 301203
+  date: 2009-06-08T11:54:26Z
+- prompt: w0163
+  text: On the banks of the Hron he wrote his philosophical work Meditations.
+  file: wav/w0163.wav
+  samplerate: 44100
+  samples: 301203
+  date: 2009-06-08T11:55:08Z
+- prompt: w0164
+  text: Inside special instruments were used, with black on beige displays.
+  file: wav/w0164.wav
+  samplerate: 44100
+  samples: 295029
+  date: 2009-06-08T11:55:20Z
+- prompt: w0165a
+  text: Another important book in that literary genre is Edgar Rice Burroughs one thousand nine hundred eighteen novel The Land That Time Forgot.
+  file: wav/w0165a.wav
+  samplerate: 44100
+  samples: 511119
+  date: 2009-06-08T11:55:38Z
+- prompt: w0165b
+  text: Another important book in that literary genre is Edgar Rice Burroughs one thousand nine hundred eighteen novel The Land That Time Forgot.
+  file: wav/w0165b.wav
+  samplerate: 44100
+  samples: 511119
+  date: 2009-06-08T11:56:00Z
+- prompt: w0165
+  text: Another important book in that literary genre is Edgar Rice Burroughs one thousand nine hundred eighteen novel The Land That Time Forgot.
+  file: wav/w0165.wav
+  samplerate: 44100
+  samples: 511119
+  date: 2009-06-08T11:56:16Z
+- prompt: w0166
+  text: With the perverse nature of a teenage boy on speed.
+  file: wav/w0166.wav
+  samplerate: 44100
+  samples: 245637
+  date: 2009-06-08T11:56:28Z
+- prompt: w0167a
+  text: 'In one thousand nine hundred ninety three, Ringo filmed a documentary for
+    the Disney Channel entitled Ringo Starr: Coming Home.'
+  file: wav/w0167a.wav
+  samplerate: 44100
+  samples: 480249
+  date: 2009-06-08T11:56:44Z
+- prompt: w0167
+  text: 'In one thousand nine hundred ninety three, Ringo filmed a documentary for
+    the Disney Channel entitled Ringo Starr: Coming Home.'
+  file: wav/w0167.wav
+  samplerate: 44100
+  samples: 480249
+  date: 2009-06-08T11:57:12Z
+- prompt: w0168a
+  text: Other important painters include Carlos Garay, and Roque Zelaya.
+  file: wav/w0168a.wav
+  samplerate: 44100
+  samples: 285768
+  date: 2009-06-08T11:57:24Z
+- prompt: w0168
+  text: Other important painters include Carlos Garay, and Roque Zelaya.
+  file: wav/w0168.wav
+  samplerate: 44100
+  samples: 285768
+  date: 2009-06-08T11:57:34Z
+- prompt: w0169a
+  text: 'Zadeh also notes in the same interview: Obstinacy and tenacity.'
+  file: wav/w0169a.wav
+  samplerate: 44100
+  samples: 282681
+  date: 2009-06-08T11:57:46Z
+- prompt: w0169b
+  text: 'Zadeh also notes in the same interview: Obstinacy and tenacity.'
+  file: wav/w0169b.wav
+  samplerate: 44100
+  samples: 282681
+  date: 2009-06-08T11:58:06Z
+- prompt: w0169
+  text: 'Zadeh also notes in the same interview: Obstinacy and tenacity.'
+  file: wav/w0169.wav
+  samplerate: 44100
+  samples: 282681
+  date: 2009-06-08T11:58:24Z
+- prompt: w0170a
+  text: As his name suggests, he is a wolf chimera.
+  file: wav/w0170a.wav
+  samplerate: 44100
+  samples: 220941
+  date: 2009-06-08T11:58:34Z
+- prompt: w0170b
+  text: As his name suggests, he is a wolf chimera.
+  file: wav/w0170b.wav
+  samplerate: 44100
+  samples: 220941
+  date: 2009-06-08T11:58:56Z
+- prompt: w0171
+  text: Chiyoda was lost with all hands.
+  file: wav/w0171.wav
+  samplerate: 44100
+  samples: 186984
+  date: 2009-06-08T11:59:06Z
+- prompt: w0172
+  text: Da Ai continues to operate today.
+  file: wav/w0172.wav
+  samplerate: 44100
+  samples: 190071
+  date: 2009-06-08T11:59:16Z
+- prompt: w0170
+  text: As his name suggests, he is a wolf chimera.
+  file: wav/w0170.wav
+  samplerate: 44100
+  samples: 220941
+  date: 2009-06-08T11:59:56Z
+- prompt: w0173
+  text: She was replaced by a returning Louie Bethune.
+  file: wav/w0173.wav
+  samplerate: 44100
+  samples: 230202
+  date: 2009-06-08T12:00:26Z
+- prompt: w0174
+  text: Law Ottoman legal system accepted the Religious law over its subjects.
+  file: wav/w0174.wav
+  samplerate: 44100
+  samples: 304290
+  date: 2009-06-08T12:00:44Z
+- prompt: w0175a
+  text: As a dedication to this event he chooses the name Societe des Automobiles Alpine for the new founded company to develop cars on his own.
+  file: wav/w0175a.wav
+  samplerate: 44100
+  samples: 508032
+  date: 2009-06-08T12:01:02Z
+- prompt: w0175
+  text: As a dedication to this event he chooses the name Societe des Automobiles Alpine for the new founded company to develop cars on his own.
+  file: wav/w0175.wav
+  samplerate: 44100
+  samples: 508032
+  date: 2009-06-08T12:01:50Z
+- prompt: w0176a
+  text: Unfortunately, in one thousand eight hundred fifty seven, fifty seven passengers were killed when a train derailed near the Desjardins Canal.
+  file: wav/w0176a.wav
+  samplerate: 44100
+  samples: 523467
+  date: 2009-06-08T12:02:06Z
+- prompt: w0176
+  text: Unfortunately, in one thousand eight hundred fifty seven, fifty seven passengers were killed when a train derailed near the Desjardins Canal.
+  file: wav/w0176.wav
+  samplerate: 44100
+  samples: 523467
+  date: 2009-06-08T12:02:34Z
+- prompt: w0177
+  text: That, at least, strikes me as fairly loathsome.
+  file: wav/w0177.wav
+  samplerate: 44100
+  samples: 233289
+  date: 2009-06-08T12:02:46Z
+- prompt: w0178a
+  text: I was just a little too rambunctious and shot my mouth off once too often.
+  file: wav/w0178a.wav
+  samplerate: 44100
+  samples: 316638
+  date: 2009-06-08T12:02:58Z
+- prompt: w0178b
+  text: I was just a little too rambunctious and shot my mouth off once too often.
+  file: wav/w0178b.wav
+  samplerate: 44100
+  samples: 316638
+  date: 2009-06-08T12:03:10Z
+- prompt: w0178
+  text: I was just a little too rambunctious and shot my mouth off once too often.
+  file: wav/w0178.wav
+  samplerate: 44100
+  samples: 316638
+  date: 2009-06-08T12:03:20Z
+- prompt: w0179
+  text: He is also known for his television endorsements for Lowes menswear.
+  file: wav/w0179.wav
+  samplerate: 44100
+  samples: 298116
+  date: 2009-06-08T12:03:34Z
+- prompt: w0180
+  text: Not so easy to type with hooves, is it?
+  file: wav/w0180.wav
+  samplerate: 44100
+  samples: 208593
+  date: 2009-06-08T12:03:44Z
+- prompt: w0181a
+  text: But their history is unique in its strangeness.
+  file: wav/w0181a.wav
+  samplerate: 44100
+  samples: 233289
+  date: 2009-06-08T12:03:54Z
+- prompt: w0181
+  text: But their history is unique in its strangeness.
+  file: wav/w0181.wav
+  samplerate: 44100
+  samples: 233289
+  date: 2009-06-08T12:04:06Z
+- prompt: w0182
+  text: In two thousand six, the corporation that runs the park also changed its name from the Societe du parc des Iles to the Societe du parc jean drapeau.
+  file: wav/w0182.wav
+  samplerate: 44100
+  samples: 545076
+  date: 2009-06-08T12:05:32Z
+- prompt: w0183
+  text: Rescued by his friend Guy Laroche, he joined his tiny, tiny fashion house.
+  file: wav/w0183.wav
+  samplerate: 44100
+  samples: 316638
+  date: 2009-06-08T12:05:44Z
+- prompt: w0184
+  text: Current and former players of either team often become residents of Voorhees.
+  file: wav/w0184.wav
+  samplerate: 44100
+  samples: 325899
+  date: 2009-06-08T12:05:58Z
+- prompt: w0185
+  text: The one, Yakov, has the gift of technical prowess.
+  file: wav/w0185.wav
+  samplerate: 44100
+  samples: 242550
+  date: 2009-06-08T12:06:08Z
+- prompt: w0186
+  text: For this, classes are usually separated into girl only and boy only subgroups.
+  file: wav/w0186.wav
+  samplerate: 44100
+  samples: 328986
+  date: 2009-06-08T12:06:22Z
+- prompt: w0187a
+  text: The first Chinese truck and car was made in Changchun.
+  file: wav/w0187a.wav
+  samplerate: 44100
+  samples: 254898
+  date: 2009-06-08T12:06:32Z
+- prompt: w0187b
+  text: The first Chinese truck and car was made in Changchun.
+  file: wav/w0187b.wav
+  samplerate: 44100
+  samples: 254898
+  date: 2009-06-08T12:07:08Z
+- prompt: w0187
+  text: The first Chinese truck and car was made in Changchun.
+  file: wav/w0187.wav
+  samplerate: 44100
+  samples: 254898
+  date: 2009-06-08T12:07:16Z
+- prompt: w0188
+  text: Ah, monsieur, to live in the bosom of the sea.
+  file: wav/w0188.wav
+  samplerate: 44100
+  samples: 230202
+  date: 2009-06-08T12:07:28Z
+- prompt: w0189a
+  text: Mugabe visited China on October thirteen and met with Prime Minister Zhao Ziyang.
+  file: wav/w0189a.wav
+  samplerate: 44100
+  samples: 338247
+  date: 2009-06-08T12:07:40Z
+- prompt: w0189
+  text: Mugabe visited China on October thirteen and met with Prime Minister Zhao Ziyang.
+  file: wav/w0189.wav
+  samplerate: 44100
+  samples: 338247
+  date: 2009-06-08T12:08:50Z
+- prompt: w0190
+  text: Used rejected instead of abhorred.
+  file: wav/w0190.wav
+  samplerate: 44100
+  samples: 193158
+  date: 2009-06-08T12:09:00Z
+- prompt: w0191
+  text: Among many contributors, Epson, hewlett packard and Canon can claim a substantial share of the credit for the development of the modern inkjet.
+  file: wav/w0191.wav
+  samplerate: 44100
+  samples: 529641
+  date: 2009-06-08T12:09:18Z
+- prompt: w0192
+  text: They are often made of brightly colored silk or satin with rich Chinese embroidery.
+  file: wav/w0192.wav
+  samplerate: 44100
+  samples: 344421
+  date: 2009-06-08T12:09:30Z
+- prompt: w0193
+  text: This new bread was called matza.
+  file: wav/w0193.wav
+  samplerate: 44100
+  samples: 186984
+  date: 2009-06-08T12:09:40Z
+- prompt: w0194a
+  text: 'Collegeville, m n: Liturgical Press, one thousand nine hundred ninety five.'
+  file: wav/w0194a.wav
+  samplerate: 44100
+  samples: 319725
+  date: 2009-06-08T12:09:54Z
+- prompt: w0194
+  text: 'Collegeville, m n: Liturgical Press, one thousand nine hundred ninety five.'
+  file: wav/w0194.wav
+  samplerate: 44100
+  samples: 319725
+  date: 2009-06-08T12:10:14Z
+- prompt: w0195
+  text: Nancy then called the management office to have the rug moved into their storeroom.
+  file: wav/w0195.wav
+  samplerate: 44100
+  samples: 344421
+  date: 2009-06-08T12:10:28Z
+- prompt: w0196
+  text: For example CY serials are usually used on Crafted in China Squiers.
+  file: wav/w0196.wav
+  samplerate: 44100
+  samples: 298116
+  date: 2009-06-08T12:11:26Z
+- prompt: w0197
+  text: Sign of the eastern mole, the woodchuck, the common raccoon and the white tailed deer were seen.
+  file: wav/w0197.wav
+  samplerate: 44100
+  samples: 384552
+  date: 2009-06-08T12:11:40Z
+- prompt: w0198a
+  text: On Astroturf, players have to change shoes.
+  file: wav/w0198a.wav
+  samplerate: 44100
+  samples: 220941
+  date: 2009-06-08T12:11:50Z
+- prompt: w0198
+  text: On Astroturf, players have to change shoes.
+  file: wav/w0198.wav
+  samplerate: 44100
+  samples: 220941
+  date: 2009-06-08T12:12:28Z
+- prompt: w0199
+  text: She walks, she bathes, she eats, but she does not speak, and does not respond to those around her.
+  file: wav/w0199.wav
+  samplerate: 44100
+  samples: 390726
+  date: 2009-06-08T12:12:42Z
+- prompt: w0200
+  text: In one paper the authors draw an analogy with gambling.
+  file: wav/w0200.wav
+  samplerate: 44100
+  samples: 257985
+  date: 2009-06-08T12:12:54Z
+- prompt: w0201
+  text: Its den smells strongly of the Bobcat.
+  file: wav/w0201.wav
+  samplerate: 44100
+  samples: 205506
+  date: 2009-06-08T12:13:04Z
+- prompt: w0202
+  text: They soon after called these Grand Prix races simply, f zero.
+  file: wav/w0202.wav
+  samplerate: 44100
+  samples: 276507
+  date: 2009-06-08T12:13:16Z
+- prompt: w0203
+  text: This operator carries h one into h zero.
+  file: wav/w0203.wav
+  samplerate: 44100
+  samples: 211680
+  date: 2009-06-08T12:13:26Z
+- prompt: w0204
+  text: First, both genres have been coined black music.
+  file: wav/w0204.wav
+  samplerate: 44100
+  samples: 236376
+  date: 2009-06-08T12:13:36Z
+- prompt: w0205
+  text: In response to the question Which side does Abner part his hair on, Capp would answer, Both.
+  file: wav/w0205.wav
+  samplerate: 44100
+  samples: 372204
+  date: 2009-06-08T12:13:50Z
+- prompt: w0206a
+  text: I have at no point during this strange milieu of accusations and innuendo personally attacked or harassed anyone.
+  file: wav/w0206a.wav
+  samplerate: 44100
+  samples: 437031
+  date: 2009-06-08T12:14:06Z
+- prompt: w0206
+  text: I have at no point during this strange milieu of accusations and innuendo personally attacked or harassed anyone.
+  file: wav/w0206.wav
+  samplerate: 44100
+  samples: 437031
+  date: 2009-06-08T12:14:40Z
+- prompt: w0207
+  text: Other forms of cannabis such as hashish, hash oil, etc. are still highly penalized.
+  file: wav/w0207.wav
+  samplerate: 44100
+  samples: 344421
+  date: 2009-06-08T12:14:54Z
+- prompt: w0208
+  text: Its capital was Braunschweig.
+  file: wav/w0208.wav
+  samplerate: 44100
+  samples: 177723
+  date: 2009-06-08T12:15:02Z
+- prompt: w0209
+  text: First off, Hideo Kojima is a well known perfectionist.
+  file: wav/w0209.wav
+  samplerate: 44100
+  samples: 254898
+  date: 2009-06-08T12:15:14Z
+- prompt: w0210
+  text: During that period he made twelve national representative appearances for Kiwis.
+  file: wav/w0210.wav
+  samplerate: 44100
+  samples: 335160
+  date: 2009-06-08T12:15:28Z
+- prompt: w0211
+  text: Ambassadorship Zhang is the face of Maybelline, Garnier and shangri la Hotel and Resort Group.
+  file: wav/w0211.wav
+  samplerate: 44100
+  samples: 378378
+  date: 2009-06-08T12:16:16Z
+- prompt: w0212a
+  text: Give thou unto me my mouth that I may speak with it.
+  file: wav/w0212a.wav
+  samplerate: 44100
+  samples: 248724
+  date: 2009-06-08T12:16:28Z
+- prompt: w0212
+  text: Give thou unto me my mouth that I may speak with it.
+  file: wav/w0212.wav
+  samplerate: 44100
+  samples: 248724
+  date: 2009-06-08T12:16:48Z
+- prompt: w0213
+  text: Processing of Oolong Oolong tea undergoes a few delicate processes in order to produce the unique aroma and taste.
+  file: wav/w0213.wav
+  samplerate: 44100
+  samples: 440118
+  date: 2009-06-08T12:17:04Z
+- prompt: w0214
+  text: Let me know if you encounter any other talk page changes he makes.
+  file: wav/w0214.wav
+  samplerate: 44100
+  samples: 291942
+  date: 2009-06-08T12:17:16Z
+- prompt: w0215
+  text: Lending criteria have been tightened following the passing of Money Laundry Law eighty in two thousand two and Banking Law eighty eight in two thousand three.
+  file: wav/w0215.wav
+  samplerate: 44100
+  samples: 575946
+  date: 2009-06-08T12:17:34Z
+- prompt: w0216
+  text: Residents of Indiana are known as Hoosiers.
+  file: wav/w0216.wav
+  samplerate: 44100
+  samples: 220941
+  date: 2009-06-08T12:17:44Z
+- prompt: w0217
+  text: Santos beat Santos Athletic Club three to zero.
+  file: wav/w0217.wav
+  samplerate: 44100
+  samples: 233289
+  date: 2009-06-08T12:18:10Z
+- prompt: w0218a
+  text: All but thirty of the works initially displayed came from the collection of Eli and Edythe Broad.
+  file: wav/w0218a.wav
+  samplerate: 44100
+  samples: 387639
+  date: 2009-06-08T12:18:24Z
+- prompt: w0218
+  text: All but thirty of the works initially displayed came from the collection of Eli and Edythe Broad.
+  file: wav/w0218.wav
+  samplerate: 44100
+  samples: 387639
+  date: 2009-06-08T12:19:18Z
+- prompt: w0219a
+  text: On July twenty two, two thousand five, Soong, unopposed, was reelected chairman of the p f p.
+  file: wav/w0219a.wav
+  samplerate: 44100
+  samples: 375291
+  date: 2009-06-08T12:19:32Z
+- prompt: w0219
+  text: On July twenty two, two thousand five, Soong, unopposed, was reelected chairman of the p f p.
+  file: wav/w0219.wav
+  samplerate: 44100
+  samples: 375291
+  date: 2009-06-08T12:19:54Z
+- prompt: w0220
+  text: Most E strings are unwound, either plain or gold plated steel.
+  file: wav/w0220.wav
+  samplerate: 44100
+  samples: 279594
+  date: 2009-06-08T12:20:06Z
+- prompt: w0221a
+  text: The American Theatre Wing and The Broadway League jointly present and administer the awards.
+  file: wav/w0221a.wav
+  samplerate: 44100
+  samples: 372204
+  date: 2009-06-08T12:20:20Z
+- prompt: w0221
+  text: The American Theatre Wing and The Broadway League jointly present and administer the awards.
+  file: wav/w0221.wav
+  samplerate: 44100
+  samples: 372204
+  date: 2009-06-08T12:20:34Z
+- prompt: w0222
+  text: 'Main crew Executive Producers: Kevin Abbott, Mindy Schultheis, Michael Hanel,
+    Matt Berry.'
+  file: wav/w0222.wav
+  samplerate: 44100
+  samples: 362943
+  date: 2009-06-08T12:21:16Z
+- prompt: w0223
+  text: For a precise definition of identity criteria, see Gupta.
+  file: wav/w0223.wav
+  samplerate: 44100
+  samples: 264159
+  date: 2009-06-08T12:21:28Z
+- prompt: w0224
+  text: Both p c s are in the same workgroup.
+  file: wav/w0224.wav
+  samplerate: 44100
+  samples: 202419
+  date: 2009-06-08T12:21:38Z
+- prompt: w0225
+  text: Many of the fonts listed here came in several sub varieties.
+  file: wav/w0225.wav
+  samplerate: 44100
+  samples: 273420
+  date: 2009-06-08T12:21:50Z
+- prompt: w0226
+  text: After five days, Kathleen calls Stahr.
+  file: wav/w0226.wav
+  samplerate: 44100
+  samples: 205506
+  date: 2009-06-08T12:22:00Z
+- prompt: w0227a
+  text: The style of the National Theatre building, described by Mark Girouard as an aesthetic of broken forms at the time of opening.
+  file: wav/w0227a.wav
+  samplerate: 44100
+  samples: 477162
+  date: 2009-06-08T12:22:50Z
+- prompt: w0227b
+  text: The style of the National Theatre building, described by Mark Girouard as an aesthetic of broken forms at the time of opening.
+  file: wav/w0227b.wav
+  samplerate: 44100
+  samples: 477162
+  date: 2009-06-08T12:25:10Z
+- prompt: w0227c
+  text: The style of the National Theatre building, described by Mark Girouard as an aesthetic of broken forms at the time of opening.
+  file: wav/w0227c.wav
+  samplerate: 44100
+  samples: 477162
+  date: 2009-06-08T12:26:04Z
+- prompt: w0227
+  text: The style of the National Theatre building, described by Mark Girouard as an aesthetic of broken forms at the time of opening.
+  file: wav/w0227.wav
+  samplerate: 44100
+  samples: 477162
+  date: 2009-06-08T12:26:24Z
+- prompt: pop061
+  text: So, what's happening at the moment?
+  file: wav/pop061.wav
+  samplerate: 44100
+  samples: 196245
+  date: 2009-06-09T07:01:02Z
+- prompt: pop062
+  text: So what else would make you happy?
+  file: wav/pop062.wav
+  samplerate: 44100
+  samples: 193158
+  date: 2009-06-09T07:01:12Z
+- prompt: pop063a
+  text: Tell me what you're really looking forward to.
+  file: wav/pop063a.wav
+  samplerate: 44100
+  samples: 186543
+  date: 2009-06-09T07:01:22Z
+- prompt: pop063
+  text: Tell me what you're really looking forward to.
+  file: wav/pop063.wav
+  samplerate: 44100
+  samples: 230202
+  date: 2009-06-09T07:01:56Z
+- prompt: pop064
+  text: Do go on, I love hearing all this happiness.
+  file: wav/pop064.wav
+  samplerate: 44100
+  samples: 224028
+  date: 2009-06-09T07:02:06Z
+- prompt: pop065
+  text: Who would you like to talk to?
+  file: wav/pop065.wav
+  samplerate: 44100
+  samples: 180810
+  date: 2009-06-09T07:02:12Z
+- prompt: pop066
+  text: Worse things happen at sea.
+  file: wav/pop066.wav
+  samplerate: 44100
+  samples: 171549
+  date: 2009-06-09T07:02:20Z
+- prompt: pop067
+  text: It's not that bad.
+  file: wav/pop067.wav
+  samplerate: 44100
+  samples: 143766
+  date: 2009-06-09T07:02:28Z
+- prompt: pop068
+  text: You need a good, long rest.
+  file: wav/pop068.wav
+  samplerate: 44100
+  samples: 171549
+  date: 2009-06-09T07:02:34Z
+- prompt: pop069
+  text: Hold on a minute.
+  file: wav/pop069.wav
+  samplerate: 44100
+  samples: 140679
+  date: 2009-06-09T07:02:42Z
+- prompt: pop070
+  text: Pull yourself together!
+  file: wav/pop070.wav
+  samplerate: 44100
+  samples: 159201
+  date: 2009-06-09T07:02:48Z
+- prompt: pop071
+  text: Every cloud has a silver lining.
+  file: wav/pop071.wav
+  samplerate: 44100
+  samples: 186984
+  date: 2009-06-09T07:02:56Z
+- prompt: pop072
+  text: Look on the bright side!
+  file: wav/pop072.wav
+  samplerate: 44100
+  samples: 162288
+  date: 2009-06-09T07:03:04Z
+- prompt: pop073
+  text: Everything will work out, you'll see!
+  file: wav/pop073.wav
+  samplerate: 44100
+  samples: 202419
+  date: 2009-06-09T07:03:12Z
+- prompt: pop074
+  text: Give me just one happy thought and you'll feel better.
+  file: wav/pop074.wav
+  samplerate: 44100
+  samples: 254898
+  date: 2009-06-09T07:03:22Z
+- prompt: pop075
+  text: It's never that bad.
+  file: wav/pop075.wav
+  samplerate: 44100
+  samples: 149940
+  date: 2009-06-09T07:03:28Z
+- prompt: pop076
+  text: Things have a way of sorting themselves out.
+  file: wav/pop076.wav
+  samplerate: 44100
+  samples: 224028
+  date: 2009-06-09T07:03:36Z
+- prompt: pop077
+  text: Don't feel bad.
+  file: wav/pop077.wav
+  samplerate: 44100
+  samples: 134505
+  date: 2009-06-09T07:03:44Z
+- prompt: pop078
+  text: Think about your best holiday ever, that'll make you feel good.
+  file: wav/pop078.wav
+  samplerate: 44100
+  samples: 282681
+  date: 2009-06-09T07:03:54Z
+- prompt: pop079
+  text: I'd love to hear about it.
+  file: wav/pop079.wav
+  samplerate: 44100
+  samples: 168462
+  date: 2009-06-09T07:04:00Z
+- prompt: pop080
+  text: Don't worry, the whole world can't be bad, it's just the way you feel at the moment.
+  file: wav/pop080.wav
+  samplerate: 44100
+  samples: 347508
+  date: 2009-06-09T07:04:12Z
+- prompt: pop081
+  text: That will change.
+  file: wav/pop081.wav
+  samplerate: 44100
+  samples: 140679
+  date: 2009-06-09T07:04:20Z
+- prompt: pop082
+  text: What would cheer you up?
+  file: wav/pop082.wav
+  samplerate: 44100
+  samples: 162288
+  date: 2009-06-09T07:04:26Z
+- prompt: pop083
+  text: Think of something positive!
+  file: wav/pop083.wav
+  samplerate: 44100
+  samples: 174636
+  date: 2009-06-09T07:04:34Z
+- prompt: pop084
+  text: What would cheer you up right now?
+  file: wav/pop084.wav
+  samplerate: 44100
+  samples: 193158
+  date: 2009-06-09T07:04:42Z
+- prompt: pop085
+  text: When do you think it will happen?
+  file: wav/pop085.wav
+  samplerate: 44100
+  samples: 190071
+  date: 2009-06-09T07:04:50Z
+- prompt: pop086
+  text: When?
+  file: wav/pop086.wav
+  samplerate: 44100
+  samples: 103635
+  date: 2009-06-09T07:04:56Z
+- prompt: pop087
+  text: It sounds as if you've done really well.
+  file: wav/pop087.wav
+  samplerate: 44100
+  samples: 211680
+  date: 2009-06-09T07:05:04Z
+- prompt: pop088
+  text: What would make you feel happy in the future?
+  file: wav/pop088.wav
+  samplerate: 44100
+  samples: 227115
+  date: 2009-06-09T07:05:48Z
+- prompt: pop089
+  text: Tell me what makes you feel really happy.
+  file: wav/pop089.wav
+  samplerate: 44100
+  samples: 214767
+  date: 2009-06-09T07:05:56Z
+- prompt: pop090
+  text: Did things get better?
+  file: wav/pop090.wav
+  samplerate: 44100
+  samples: 156114
+  date: 2009-06-09T07:06:02Z
+- prompt: pop091
+  text: Smile, it will make you feel so much better.
+  file: wav/pop091.wav
+  samplerate: 44100
+  samples: 224028
+  date: 2009-06-09T07:06:12Z
+- prompt: pop092
+  text: There must be good things that you remember!
+  file: wav/pop092.wav
+  samplerate: 44100
+  samples: 224028
+  date: 2009-06-09T07:06:20Z
+- prompt: pop093
+  text: Cheer up.
+  file: wav/pop093.wav
+  samplerate: 44100
+  samples: 115983
+  date: 2009-06-09T07:06:26Z
+- prompt: pop094
+  text: Just have some fun.
+  file: wav/pop094.wav
+  samplerate: 44100
+  samples: 146853
+  date: 2009-06-09T07:06:34Z
+- prompt: pop095
+  text: I think you should feel really happy today.
+  file: wav/pop095.wav
+  samplerate: 44100
+  samples: 220941
+  date: 2009-06-09T07:06:42Z
+- prompt: pop096
+  text: That sounds very positive.
+  file: wav/pop096.wav
+  samplerate: 44100
+  samples: 168462
+  date: 2009-06-09T07:06:50Z
+- prompt: pop097
+  text: That should make you very happy.
+  file: wav/pop097.wav
+  samplerate: 44100
+  samples: 186984
+  date: 2009-06-09T07:06:56Z
+- prompt: pop098
+  text: I think you've done really well.
+  file: wav/pop098.wav
+  samplerate: 44100
+  samples: 186984
+  date: 2009-06-09T07:07:04Z
+- prompt: pop099
+  text: There must be something that you're really looking forward to.
+  file: wav/pop099.wav
+  samplerate: 44100
+  samples: 279594
+  date: 2009-06-09T07:07:14Z
+- prompt: pop100
+  text: You can look forward to that!
+  file: wav/pop100.wav
+  samplerate: 44100
+  samples: 177723
+  date: 2009-06-09T07:07:22Z
+- prompt: pop101
+  text: So what makes you happy?
+  file: wav/pop101.wav
+  samplerate: 44100
+  samples: 162288
+  date: 2009-06-09T07:07:30Z
+- prompt: pop102
+  text: Who cares?
+  file: wav/pop102.wav
+  samplerate: 44100
+  samples: 119070
+  date: 2009-06-09T07:07:36Z
+- prompt: pop103
+  text: Maybe you should lighten up a bit.
+  file: wav/pop103.wav
+  samplerate: 44100
+  samples: 193158
+  date: 2009-06-09T07:07:44Z
+- prompt: pop104
+  text: Don't you think that's a bit boring?
+  file: wav/pop104.wav
+  samplerate: 44100
+  samples: 199332
+  date: 2009-06-09T07:07:52Z
+- prompt: pop105
+  text: So what would put you in a really good mood?
+  file: wav/pop105.wav
+  samplerate: 44100
+  samples: 224028
+  date: 2009-06-09T07:08:00Z
+- prompt: pop106
+  text: Oh come on, let your hair down and be happy!
+  file: wav/pop106.wav
+  samplerate: 44100
+  samples: 224028
+  date: 2009-06-09T07:08:08Z
+- prompt: pop107
+  text: Come on, let go a bit.
+  file: wav/pop107.wav
+  samplerate: 44100
+  samples: 156114
+  date: 2009-06-09T07:08:16Z
+- prompt: pop108
+  text: Tell me about the last time you were really happy.
+  file: wav/pop108.wav
+  samplerate: 44100
+  samples: 242550
+  date: 2009-06-09T07:08:24Z
+- prompt: pop109a
+  text: What's good in your life at the moment?
+  file: wav/pop109a.wav
+  samplerate: 44100
+  samples: 119952
+  date: 2009-06-09T07:08:32Z
+- prompt: pop109
+  text: What's good in your life at the moment?
+  file: wav/pop109.wav
+  samplerate: 44100
+  samples: 208593
+  date: 2009-06-09T07:09:38Z
+- prompt: pop110
+  text: What do you think about it?
+  file: wav/pop110.wav
+  samplerate: 44100
+  samples: 171549
+  date: 2009-06-09T07:09:46Z
+- prompt: pop111
+  text: What do you mean?
+  file: wav/pop111.wav
+  samplerate: 44100
+  samples: 140679
+  date: 2009-06-09T07:09:52Z
+- prompt: pop112
+  text: So what would you like to do?
+  file: wav/pop112.wav
+  samplerate: 44100
+  samples: 177723
+  date: 2009-06-09T07:10:00Z
+- prompt: pop113
+  text: That sounds interesting, tell me more.
+  file: wav/pop113.wav
+  samplerate: 44100
+  samples: 205506
+  date: 2009-06-09T07:10:08Z
+- prompt: pop114
+  text: Why do you say that?
+  file: wav/pop114.wav
+  samplerate: 44100
+  samples: 149940
+  date: 2009-06-09T07:10:16Z
+- prompt: pop115a
+  text: How did we get on to this subject?
+  file: wav/pop115a.wav
+  samplerate: 44100
+  samples: 169344
+  date: 2009-06-09T07:10:22Z
+- prompt: pop115
+  text: How did we get on to this subject?
+  file: wav/pop115.wav
+  samplerate: 44100
+  samples: 193158
+  date: 2009-06-09T07:10:50Z
+- prompt: pop116
+  text: You've certainly got your head screwed on.
+  file: wav/pop116.wav
+  samplerate: 44100
+  samples: 217854
+  date: 2009-06-09T07:11:00Z
+- prompt: pop117
+  text: You sure are Mr dependable.
+  file: wav/pop117.wav
+  samplerate: 44100
+  samples: 171549
+  date: 2009-06-09T07:11:06Z
+- prompt: pop118
+  text: You sure are Ms dependable.
+  file: wav/pop118.wav
+  samplerate: 44100
+  samples: 171549
+  date: 2009-06-09T07:11:14Z
+- prompt: pop119
+  text: You sure are very dependable.
+  file: wav/pop119.wav
+  samplerate: 44100
+  samples: 177723
+  date: 2009-06-09T07:11:22Z
+- prompt: pop120
+  text: You'll never let anyone down, that's for sure!
+  file: wav/pop120.wav
+  samplerate: 44100
+  samples: 230202
+  date: 2009-06-09T07:11:30Z
+- prompt: pop121
+  text: When were you happiest?
+  file: wav/pop121.wav
+  samplerate: 44100
+  samples: 159201
+  date: 2009-06-09T07:11:38Z
+- prompt: pop122
+  text: What have you got to lose?
+  file: wav/pop122.wav
+  samplerate: 44100
+  samples: 168462
+  date: 2009-06-09T07:11:46Z
+- prompt: pop124
+  text: Tell me more.
+  file: wav/pop124.wav
+  samplerate: 44100
+  samples: 128331
+  date: 2009-06-09T07:12:00Z
+- prompt: pop125
+  text: Hey, that sounds lovely!
+  file: wav/pop125.wav
+  samplerate: 44100
+  samples: 162288
+  date: 2009-06-09T07:12:06Z
+- prompt: pop126
+  text: I'd love to hear more.
+  file: wav/pop126.wav
+  samplerate: 44100
+  samples: 156114
+  date: 2009-06-09T07:12:14Z
+- prompt: pop127
+  text: Everything seems better when you can smile.
+  file: wav/pop127.wav
+  samplerate: 44100
+  samples: 220941
+  date: 2009-06-09T07:12:22Z
+- prompt: pop128
+  text: You did the right thing!
+  file: wav/pop128.wav
+  samplerate: 44100
+  samples: 162288
+  date: 2009-06-09T07:12:30Z
+- prompt: pop129
+  text: You’ve lost me there.
+  file: wav/pop129.wav
+  samplerate: 44100
+  samples: 153027
+  date: 2009-06-09T07:12:36Z
+- prompt: pop130
+  text: I’m glad to hear that.
+  file: wav/pop130.wav
+  samplerate: 44100
+  samples: 156114
+  date: 2009-06-09T07:12:44Z
+- prompt: pop131
+  text: Have you any interesting gossip then?
+  file: wav/pop131.wav
+  samplerate: 44100
+  samples: 202419
+  date: 2009-06-09T07:12:52Z
+- prompt: pop132
+  text: Go on, tell me your news!
+  file: wav/pop132.wav
+  samplerate: 44100
+  samples: 165375
+  date: 2009-06-09T07:12:58Z
+- prompt: pop133
+  text: Fine, but can't you think of anything more exciting? 
+  file: wav/pop133.wav
+  samplerate: 44100
+  samples: 251811
+  date: 2009-06-09T07:13:08Z
+- prompt: pop134
+  text: It sounds as if everything is going right.
+  file: wav/pop134.wav
+  samplerate: 44100
+  samples: 217854
+  date: 2009-06-09T07:13:16Z
+- prompt: pop135
+  text: Is there something that has put you in such a good mood?
+  file: wav/pop135.wav
+  samplerate: 44100
+  samples: 261072
+  date: 2009-06-09T07:13:26Z
+- prompt: pop136
+  text: Wow!
+  file: wav/pop136.wav
+  samplerate: 44100
+  samples: 100548
+  date: 2009-06-09T07:13:32Z
+- prompt: pop137
+  text: Hey.
+  file: wav/pop137.wav
+  samplerate: 44100
+  samples: 100548
+  date: 2009-06-09T07:13:38Z
+- prompt: pop139
+  text: I think there's light at the end of the tunnel.
+  file: wav/pop139.wav
+  samplerate: 44100
+  samples: 233289
+  date: 2009-06-09T07:13:52Z
+- prompt: pop140
+  text: That’s really interesting, go on!
+  file: wav/pop140.wav
+  samplerate: 44100
+  samples: 190071
+  date: 2009-06-09T07:14:00Z
+- prompt: pop141
+  text: Tell me what makes you happy.
+  file: wav/pop141.wav
+  samplerate: 44100
+  samples: 177723
+  date: 2009-06-09T07:14:08Z
+- prompt: pop142
+  text: Tell me about people that make you happy.
+  file: wav/pop142.wav
+  samplerate: 44100
+  samples: 214767
+  date: 2009-06-09T07:14:16Z
+- prompt: pop143
+  text: Tell me about places that make you happy.
+  file: wav/pop143.wav
+  samplerate: 44100
+  samples: 214767
+  date: 2009-06-09T07:14:24Z
+- prompt: pop144
+  text: Tell me about issues that make you happy.
+  file: wav/pop144.wav
+  samplerate: 44100
+  samples: 214767
+  date: 2009-06-09T07:14:34Z
+- prompt: pop138
+  text: Oh my!
+  file: wav/pop138.wav
+  samplerate: 44100
+  samples: 106722
+  date: 2009-06-09T07:15:52Z
+- prompt: pop123
+  text: What's the worst that can happen?
+  file: wav/pop123.wav
+  samplerate: 44100
+  samples: 190071
+  date: 2009-06-09T07:16:46Z
+- prompt: w0228
+  text: Muscle cells exhibit another specialized function of smooth E R.
+  file: wav/w0228.wav
+  samplerate: 44100
+  samples: 282681
+  date: 2009-06-09T07:17:42Z
+- prompt: w0229
+  text: The idea of many minds was suggested early on by Zeh in one thousand nine hundred ninety five.
+  file: wav/w0229.wav
+  samplerate: 44100
+  samples: 378378
+  date: 2009-06-09T07:18:42Z
+- prompt: w0230a
+  text: Note that the scene has more claims to be art, despite being nauseating, than designer food.
+  file: wav/w0230a.wav
+  samplerate: 44100
+  samples: 372204
+  date: 2009-06-09T07:18:58Z
+- prompt: w0230b
+  text: Note that the scene has more claims to be art, despite being nauseating, than designer food.
+  file: wav/w0230b.wav
+  samplerate: 44100
+  samples: 372204
+  date: 2009-06-09T07:19:14Z
+- prompt: w0230
+  text: Note that the scene has more claims to be art, despite being nauseating, than designer food.
+  file: wav/w0230.wav
+  samplerate: 44100
+  samples: 372204
+  date: 2009-06-09T07:19:36Z
+- prompt: w0231
+  text: In fact, lighthouses often replaced lightships.
+  file: wav/w0231.wav
+  samplerate: 44100
+  samples: 233289
+  date: 2009-06-09T07:19:48Z
+- prompt: w0232
+  text: One of the classrooms was used for a lunchroom.
+  file: wav/w0232.wav
+  samplerate: 44100
+  samples: 233289
+  date: 2009-06-09T07:20:00Z
+- prompt: w0233
+  text: The lights continue to flash throughout regardless.
+  file: wav/w0233.wav
+  samplerate: 44100
+  samples: 245637
+  date: 2009-06-09T07:20:12Z
+- prompt: w0234
+  text: We do smaller chunks of info than E B because screen reading is a different experience than paper reading.
+  file: wav/w0234.wav
+  samplerate: 44100
+  samples: 412335
+  date: 2009-06-09T07:20:28Z
+- prompt: w0235
+  text: Jorge Posada hit a double off Kim, but Kim grounded out Shane Spencer and struck out Chuck Knoblauch.
+  file: wav/w0235.wav
+  samplerate: 44100
+  samples: 399987
+  date: 2009-06-09T07:21:44Z
+- prompt: w0236
+  text: Scott wrote in relative isolation and only visited India twice during the genesis of the Raj Quartet.
+  file: wav/w0236.wav
+  samplerate: 44100
+  samples: 399987
+  date: 2009-06-09T07:22:14Z
+- prompt: w0237
+  text: His unquenchable spirit makes the other prisoners idolize him.
+  file: wav/w0237.wav
+  samplerate: 44100
+  samples: 279594
+  date: 2009-06-09T07:22:32Z
+- prompt: w0238
+  text: The process was not a smooth one.
+  file: wav/w0238.wav
+  samplerate: 44100
+  samples: 190071
+  date: 2009-06-09T07:22:42Z
+- prompt: w0239
+  text: Mattel lost the lawsuit and was ordered to pay one point eight million dollars in costs to mister Forsythe.
+  file: wav/w0239.wav
+  samplerate: 44100
+  samples: 418509
+  date: 2009-06-09T07:23:36Z
+- prompt: w0240
+  text: By the time they took their screen test, the chemistry between them was breathtaking according to Bergstein.
+  file: wav/w0240.wav
+  samplerate: 44100
+  samples: 421596
+  date: 2009-06-09T07:23:54Z
+- prompt: w0241
+  text: Currently, morning assemblies are held at a new area called the Raffles Square instead of the Astroturf.
+  file: wav/w0241.wav
+  samplerate: 44100
+  samples: 409248
+  date: 2009-06-09T07:24:10Z
+- prompt: w0242
+  text: John Forsythe played Al Manheim, Barbara Rush was Kit Sargent, and Dina Merrill was Laurette Harrington.
+  file: wav/w0242.wav
+  samplerate: 44100
+  samples: 409248
+  date: 2009-06-09T07:25:04Z
+- prompt: w0243
+  text: The document informs that highly specialized muscle of the electric ray fish generates electricity.
+  file: wav/w0243.wav
+  samplerate: 44100
+  samples: 393813
+  date: 2009-06-09T07:25:48Z
+- prompt: w0244a
+  text: Leap years EB claims in its leap year article that years divisible by four thousand may be non leap years.
+  file: wav/w0244a.wav
+  samplerate: 44100
+  samples: 4410
+  date: 2009-06-09T07:25:54Z
+- prompt: w0244
+  text: Leap years EB claims in its leap year article that years divisible by four thousand may be non leap years.
+  file: wav/w0244.wav
+  samplerate: 44100
+  samples: 415422
+  date: 2009-06-09T07:27:58Z
+- prompt: w0245
+  text: McLachlan, r. p. Sullivan, and h.Zhao.
+  file: wav/w0245.wav
+  samplerate: 44100
+  samples: 205506
+  date: 2009-06-09T07:28:46Z
+- prompt: w0246
+  text: 'I don''t wish to take that risk: In the first place, questions concerning
+    Avril Lavigne should go to the Entertainment desk, not to the Miscellaneous desk.'
+  file: wav/w0246.wav
+  samplerate: 44100
+  samples: 563598
+  date: 2009-06-09T07:29:30Z
+- prompt: w0247
+  text: Hui emphasized her decision to depict the suffering of Vietnamese refugees based on extensive interviews she conducted in Hong Kong.
+  file: wav/w0247.wav
+  samplerate: 44100
+  samples: 495684
+  date: 2009-06-09T07:29:48Z
+- prompt: w0248
+  text: Ha, yeah it doesn't taste like real Grapes.
+  file: wav/w0248.wav
+  samplerate: 44100
+  samples: 220941
+  date: 2009-06-09T07:30:00Z
+- prompt: w0249a
+  text: The wood of all the species is close grained with satiny texture and capable of taking a fine polish; its fuel value is fair.
+  file: wav/w0249a.wav
+  samplerate: 44100
+  samples: 147294
+  date: 2009-06-09T07:30:10Z
+- prompt: w0249
+  text: The wood of all the species is close grained with satiny texture and capable of taking a fine polish; its fuel value is fair.
+  file: wav/w0249.wav
+  samplerate: 44100
+  samples: 474075
+  date: 2009-06-09T07:31:18Z
+- prompt: w0250a
+  text: In the following days at the Parc des Expositions, detainees were subject to inhumane treatments.
+  file: wav/w0250a.wav
+  samplerate: 44100
+  samples: 274302
+  date: 2009-06-09T07:31:30Z
+- prompt: w0250
+  text: In the following days at the Parc des Expositions, detainees were subject to inhumane treatments.
+  file: wav/w0250.wav
+  samplerate: 44100
+  samples: 387639
+  date: 2009-06-09T07:31:56Z
+- prompt: w0251
+  text: It was founded in one thousand nine hundred thirty by Marcel Bloch as Societe des Avions Marcel Bloch or m b.
+  file: wav/w0251.wav
+  samplerate: 44100
+  samples: 424683
+  date: 2009-06-09T07:32:12Z
+- prompt: w0252a
+  text: 'The civility and good faith of which could be considered questionable: Yeah
+    I did say Some and I had known that doesn''t mean all are.'
+  file: wav/w0252a.wav
+  samplerate: 44100
+  samples: 406602
+  date: 2009-06-09T07:32:28Z
+- prompt: w0252
+  text: 'The civility and good faith of which could be considered questionable: Yeah
+    I did say Some and I had known that doesn''t mean all are.'
+  file: wav/w0252.wav
+  samplerate: 44100
+  samples: 498771
+  date: 2009-06-09T07:33:42Z
+- prompt: w0253
+  text: Traditionally dim sum restaurants stop serving bamboo basket dishes after yum cha hour and begin offering an entirely different menu in the evening.
+  file: wav/w0253.wav
+  samplerate: 44100
+  samples: 545076
+  date: 2009-06-09T07:34:00Z
+- prompt: w0254
+  text: When he wrote it, he had not seen the real life Zhang for several decades.
+  file: wav/w0254.wav
+  samplerate: 44100
+  samples: 316638
+  date: 2009-06-09T07:34:42Z
+- prompt: w0255
+  text: The capital of Slovenia is Ljubljana.
+  file: wav/w0255.wav
+  samplerate: 44100
+  samples: 202419
+  date: 2009-06-09T07:35:54Z
+- prompt: w0256
+  text: The contract was awarded to the Korean firm Daewoo.
+  file: wav/w0256.wav
+  samplerate: 44100
+  samples: 245637
+  date: 2009-06-09T07:36:06Z
+- prompt: w0257a
+  text: He went to Ed Sullivan and personally asked him to please promise to re book Giselle.
+  file: wav/w0257a.wav
+  samplerate: 44100
+  samples: 218736
+  date: 2009-06-09T07:36:18Z
+- prompt: w0257
+  text: He went to Ed Sullivan and personally asked him to please promise to re book Giselle.
+  file: wav/w0257.wav
+  samplerate: 44100
+  samples: 350595
+  date: 2009-06-09T07:36:52Z
+- prompt: w0258
+  text: The sound film was invented by the Hungarian Denes Mihaly in one thousand nine hundred eighteen.
+  file: wav/w0258.wav
+  samplerate: 44100
+  samples: 384552
+  date: 2009-06-09T07:37:48Z
+- prompt: w0259
+  text: You carry your own joy with you wherever you go.
+  file: wav/w0259.wav
+  samplerate: 44100
+  samples: 236376
+  date: 2009-06-09T07:38:00Z
+- prompt: w0260a
+  text: In addition to being rare creatures they are perhaps not often featured in many fantasy milieu for this reason.
+  file: wav/w0260a.wav
+  samplerate: 44100
+  samples: 351477
+  date: 2009-06-09T07:38:16Z
+- prompt: w0260
+  text: In addition to being rare creatures they are perhaps not often featured in many fantasy milieu for this reason.
+  file: wav/w0260.wav
+  samplerate: 44100
+  samples: 430857
+  date: 2009-06-09T07:38:40Z
+- prompt: w0261a
+  text: At the same time, Hu gave a public show of support to Hong Kong Chief Executive Tung chee hwa after gauging public mood in Hong Kong.
+  file: wav/w0261a.wav
+  samplerate: 44100
+  samples: 340893
+  date: 2009-06-09T07:39:46Z
+- prompt: w0261
+  text: At the same time, Hu gave a public show of support to Hong Kong Chief Executive Tung chee hwa after gauging public mood in Hong Kong.
+  file: wav/w0261.wav
+  samplerate: 44100
+  samples: 498771
+  date: 2009-06-09T07:40:12Z
+- prompt: w0262a
+  text: Its NATO reporting name is S A eight Gecko.
+  file: wav/w0262a.wav
+  samplerate: 44100
+  samples: 217854
+  date: 2009-06-09T07:40:24Z
+- prompt: w0262b
+  text: Its NATO reporting name is S A eight Gecko.
+  file: wav/w0262b.wav
+  samplerate: 44100
+  samples: 186102
+  date: 2009-06-09T07:41:12Z
+- prompt: w0262
+  text: Its NATO reporting name is S A eight Gecko.
+  file: wav/w0262.wav
+  samplerate: 44100
+  samples: 217854
+  date: 2009-06-09T07:41:20Z
+- prompt: w0263a
+  text: She decided to name them Didier and Gilles.
+  file: wav/w0263a.wav
+  samplerate: 44100
+  samples: 142002
+  date: 2009-06-09T07:41:30Z
+- prompt: w0263
+  text: She decided to name them Didier and Gilles.
+  file: wav/w0263.wav
+  samplerate: 44100
+  samples: 220941
+  date: 2009-06-09T07:42:10Z
+- prompt: w0264
+  text: Some black cartridges have Super Game Boy enhancements.
+  file: wav/w0264.wav
+  samplerate: 44100
+  samples: 257985
+  date: 2009-06-09T07:42:22Z
+- prompt: w0265a
+  text: This, known also as the Old North Road, was a major coaching route to the north, exiting the City at Bishopsgate.
+  file: wav/w0265a.wav
+  samplerate: 44100
+  samples: 164052
+  date: 2009-06-09T07:42:34Z
+- prompt: w0265b
+  text: This, known also as the Old North Road, was a major coaching route to the north, exiting the City at Bishopsgate.
+  file: wav/w0265b.wav
+  samplerate: 44100
+  samples: 247401
+  date: 2009-06-09T07:43:00Z
+- prompt: w0265
+  text: This, known also as the Old North Road, was a major coaching route to the north, exiting the City at Bishopsgate.
+  file: wav/w0265.wav
+  samplerate: 44100
+  samples: 437031
+  date: 2009-06-09T07:43:26Z
+- prompt: w0266
+  text: Forsythe, Tom Food Chain Barbie.
+  file: wav/w0266.wav
+  samplerate: 44100
+  samples: 186984
+  date: 2009-06-09T07:43:38Z
+- prompt: w0267
+  text: The old swords were unearthed, and pistols, they were cleaned off, and made ready.
+  file: wav/w0267.wav
+  samplerate: 44100
+  samples: 341334
+  date: 2009-06-09T07:44:02Z
+- prompt: w0268
+  text: However, they continued to actively hunt and fish around the island over the years, until World War two broke out.
+  file: wav/w0268.wav
+  samplerate: 44100
+  samples: 440118
+  date: 2009-06-09T07:44:20Z
+- prompt: w0269
+  text: Dinosaurs don't Die, by Ann Coates, Longman.
+  file: wav/w0269.wav
+  samplerate: 44100
+  samples: 224028
+  date: 2009-06-09T07:44:30Z
+- prompt: w0270a
+  text: All these videos were directed by Howard Greenhalgh, who continued to work with Pet Shop Boys well into the next decade.
+  file: wav/w0270a.wav
+  samplerate: 44100
+  samples: 458640
+  date: 2009-06-09T07:44:48Z
+- prompt: w0270
+  text: All these videos were directed by Howard Greenhalgh, who continued to work with Pet Shop Boys well into the next decade.
+  file: wav/w0270.wav
+  samplerate: 44100
+  samples: 458640
+  date: 2009-06-09T07:45:24Z
+- prompt: w0271a
+  text: His second marriage was to Marlene Schwarz, with whom he has two children, Julia Hobsbawm and Andy Hobsbawm.
+  file: wav/w0271a.wav
+  samplerate: 44100
+  samples: 421596
+  date: 2009-06-09T07:45:40Z
+- prompt: w0271b
+  text: His second marriage was to Marlene Schwarz, with whom he has two children, Julia Hobsbawm and Andy Hobsbawm.
+  file: wav/w0271b.wav
+  samplerate: 44100
+  samples: 421596
+  date: 2009-06-09T07:46:14Z
+- prompt: w0271
+  text: His second marriage was to Marlene Schwarz, with whom he has two children, Julia Hobsbawm and Andy Hobsbawm.
+  file: wav/w0271.wav
+  samplerate: 44100
+  samples: 421596
+  date: 2009-06-09T07:46:46Z
+- prompt: w0272
+  text: If he defaulted, he paid fivefold.
+  file: wav/w0272.wav
+  samplerate: 44100
+  samples: 193158
+  date: 2009-06-09T07:46:56Z
+- prompt: w0273a
+  text: An estimated one point seven million Cambodians or twenty per cent of the population died during Khmer Rouge Regime.
+  file: wav/w0273a.wav
+  samplerate: 44100
+  samples: 373086
+  date: 2009-06-09T07:47:44Z
+- prompt: w0273b
+  text: An estimated one point seven million Cambodians or twenty per cent of the population died during Khmer Rouge Regime.
+  file: wav/w0273b.wav
+  samplerate: 44100
+  samples: 340452
+  date: 2009-06-09T07:48:30Z
+- prompt: w0034
+  text: Tamara i. Hladik wrote that the story crafts a universe where lesser novels promulgate excuses for sequels.
+  file: wav/w0034.wav
+  samplerate: 44100
+  samples: 418509
+  date: 2009-06-09T07:49:46Z
+- prompt: w0274a
+  text: In the English subtitled version, the concierge, Madeleine Wallace, remarks that her husband ran off to Panama.
+  file: wav/w0274a.wav
+  samplerate: 44100
+  samples: 246519
+  date: 2009-06-09T07:50:32Z
+- prompt: w0274
+  text: In the English subtitled version, the concierge, Madeleine Wallace, remarks that her husband ran off to Panama.
+  file: wav/w0274.wav
+  samplerate: 44100
+  samples: 430857
+  date: 2009-06-09T07:50:56Z
+- prompt: w0275a
+  text: Shah Alam is served by many primary and secondary schools.
+  file: wav/w0275a.wav
+  samplerate: 44100
+  samples: 81585
+  date: 2009-06-09T07:51:06Z
+- prompt: w0275
+  text: Shah Alam is served by many primary and secondary schools.
+  file: wav/w0275.wav
+  samplerate: 44100
+  samples: 267246
+  date: 2009-06-09T07:51:34Z
+- prompt: w0276
+  text: In this milieu, federal powers have developed slowly.
+  file: wav/w0276.wav
+  samplerate: 44100
+  samples: 251811
+  date: 2009-06-09T07:51:46Z
+- prompt: w0277
+  text: These were first used for public displays on lampposts, street lights, and telephone poles in cities and towns.
+  file: wav/w0277.wav
+  samplerate: 44100
+  samples: 430857
+  date: 2009-06-09T07:52:02Z
+- prompt: w0278a
+  text: Pea soup without qualification usually means a perfectly smooth puree.
+  file: wav/w0278a.wav
+  samplerate: 44100
+  samples: 296448
+  date: 2009-06-09T07:52:16Z
+- prompt: w0278
+  text: Pea soup without qualification usually means a perfectly smooth puree.
+  file: wav/w0278.wav
+  samplerate: 44100
+  samples: 304290
+  date: 2009-06-09T07:52:54Z
+- prompt: w0279
+  text: Her own screenplays are mostly in the crime, legal thriller, and sci fi genres.
+  file: wav/w0279.wav
+  samplerate: 44100
+  samples: 332073
+  date: 2009-06-09T07:53:16Z
+- prompt: w0280
+  text: Other large lakes include Lough Erne and Lough Corrib.
+  file: wav/w0280.wav
+  samplerate: 44100
+  samples: 254898
+  date: 2009-06-09T07:53:30Z
+- prompt: w0281
+  text: God brings good, while the demons bring evil.
+  file: wav/w0281.wav
+  samplerate: 44100
+  samples: 227115
+  date: 2009-06-09T07:53:42Z
+- prompt: w0282
+  text: There are two block long eighth and eleventh Streets and a four block ninth Street.
+  file: wav/w0282.wav
+  samplerate: 44100
+  samples: 344421
+  date: 2009-06-09T07:53:56Z
+- prompt: w0283
+  text: A large yellow bow eighty foot long and thirty feet wide was attached to the outside of the Superdome, while miniature bows were given to fans.
+  file: wav/w0283.wav
+  samplerate: 44100
+  samples: 529641
+  date: 2009-06-09T07:54:14Z
+- prompt: w0284a
+  text: On the show, he publicly married Susie Sprague.
+  file: wav/w0284a.wav
+  samplerate: 44100
+  samples: 119952
+  date: 2009-06-09T07:54:24Z
+- prompt: w0284
+  text: On the show, he publicly married Susie Sprague.
+  file: wav/w0284.wav
+  samplerate: 44100
+  samples: 233289
+  date: 2009-06-09T07:54:32Z
+- prompt: w0285a
+  text: Moshe was much younger than the other boys.
+  file: wav/w0285a.wav
+  samplerate: 44100
+  samples: 125244
+  date: 2009-06-09T07:54:42Z
+- prompt: w0285
+  text: Moshe was much younger than the other boys.
+  file: wav/w0285.wav
+  samplerate: 44100
+  samples: 220941
+  date: 2009-06-09T07:54:56Z
+- prompt: w0286a
+  text: This work was followed upon by Langevin.
+  file: wav/w0286a.wav
+  samplerate: 44100
+  samples: 147294
+  date: 2009-06-09T07:55:06Z
+- prompt: w0286
+  text: This work was followed upon by Langevin.
+  file: wav/w0286.wav
+  samplerate: 44100
+  samples: 211680
+  date: 2009-06-09T07:55:42Z
+- prompt: w0287a
+  text: Rusty Staub, Le Grand Orange, was the hitting hero for the Expos, going four for five with three doubles and a homer.
+  file: wav/w0287a.wav
+  samplerate: 44100
+  samples: 147294
+  date: 2009-06-09T07:56:30Z
+- prompt: w0287
+  text: Rusty Staub, Le Grand Orange, was the hitting hero for the Expos, going four for five with three doubles and a homer.
+  file: wav/w0287.wav
+  samplerate: 44100
+  samples: 449379
+  date: 2009-06-09T07:56:58Z
+- prompt: w0288
+  text: In addition, the Strike Rouge uses a natural use operating system and a pilot assisting artificial intelligence.
+  file: wav/w0288.wav
+  samplerate: 44100
+  samples: 433944
+  date: 2009-06-09T07:57:14Z
+- prompt: w0289
+  text: He had a camouflage outfit on, Gibbs recalled.
+  file: wav/w0289.wav
+  samplerate: 44100
+  samples: 230202
+  date: 2009-06-09T07:57:26Z
+- prompt: w0290
+  text: As for strangeness, well I admit I possess that quality.
+  file: wav/w0290.wav
+  samplerate: 44100
+  samples: 261072
+  date: 2009-06-09T07:57:40Z
+- prompt: w0291
+  text: But the teasing he suffered, coupled with a bad temper, and following Hoyt around like a puppy dog, left room for Hoyt to get absolute control.
+  file: wav/w0291.wav
+  samplerate: 44100
+  samples: 529641
+  date: 2009-06-09T07:57:58Z
+- prompt: w0292
+  text: They grab her and slowly walk away from the bears.
+  file: wav/w0292.wav
+  samplerate: 44100
+  samples: 242550
+  date: 2009-06-09T07:58:10Z
+- prompt: w0293
+  text: Film crew members held a rope across the pool for her, with which she could lift her face out of the water to breathe between takes.
+  file: wav/w0293.wav
+  samplerate: 44100
+  samples: 495684
+  date: 2009-06-09T07:58:48Z
+- prompt: w0294
+  text: Raj Thackeray asserts that m n s could not have vandalized the pictures, seeing as how he and his members revere Bal Thackeray.
+  file: wav/w0294.wav
+  samplerate: 44100
+  samples: 480249
+  date: 2009-06-09T07:59:42Z
+- prompt: w0295
+  text: The area is high plains terrain, dry with short grass prairie and sagebrush.
+  file: wav/w0295.wav
+  samplerate: 44100
+  samples: 322812
+  date: 2009-06-09T08:00:02Z
+- prompt: w0296
+  text: In one thousand nine hundred sixty three, Zapata Petroleum merged with South Penn Oil and other companies to become Pennzoil.
+  file: wav/w0296.wav
+  samplerate: 44100
+  samples: 474075
+  date: 2009-06-09T08:01:02Z
+- prompt: w0297a
+  text: It is also regularly the location for touring opera and ballet companies including the Kirov, Bolshoi, and La Scala.
+  file: wav/w0297a.wav
+  samplerate: 44100
+  samples: 219177
+  date: 2009-06-09T08:01:52Z
+- prompt: w0297
+  text: It is also regularly the location for touring opera and ballet companies including the Kirov, Bolshoi, and La Scala.
+  file: wav/w0297.wav
+  samplerate: 44100
+  samples: 446292
+  date: 2009-06-09T08:02:46Z
+- prompt: w0298
+  text: Is there any box that can show I am?
+  file: wav/w0298.wav
+  samplerate: 44100
+  samples: 199332
+  date: 2009-06-09T08:02:58Z
+- prompt: w0299
+  text: As soon as Jacob left the tent, Esau arrived and exposed the deception.
+  file: wav/w0299.wav
+  samplerate: 44100
+  samples: 307377
+  date: 2009-06-09T08:03:12Z
+- prompt: w0300
+  text: The barrage lasted from noon until sundown.
+  file: wav/w0300.wav
+  samplerate: 44100
+  samples: 220941
+  date: 2009-06-09T08:03:24Z
+- prompt: w0301
+  text: Offices of many Nassau agencies are located both in the southern portion of the village and neighboring Garden City, New York.
+  file: wav/w0301.wav
+  samplerate: 44100
+  samples: 477162
+  date: 2009-06-09T08:03:40Z
+- prompt: w0302
+  text: Since the amount was well below the minimum bid, the decision to sell the airline fell upon bankruptcy judge Luiz Roberto Ayoub.
+  file: wav/w0302.wav
+  samplerate: 44100
+  samples: 483336
+  date: 2009-06-09T08:04:30Z
+- prompt: w0303
+  text: Joy Behar appeared as herself in the episode.
+  file: wav/w0303.wav
+  samplerate: 44100
+  samples: 227115
+  date: 2009-06-09T08:04:56Z
+- prompt: w0304
+  text: This severely reduced the income of the community in Dijon.
+  file: wav/w0304.wav
+  samplerate: 44100
+  samples: 270333
+  date: 2009-06-09T08:05:08Z
+- prompt: w0305a
+  text: Operation outside its design envelope will shorten the switch life very drastically.
+  file: wav/w0305a.wav
+  samplerate: 44100
+  samples: 252252
+  date: 2009-06-09T08:05:22Z
+- prompt: w0305
+  text: Operation outside its design envelope will shorten the switch life very drastically.
+  file: wav/w0305.wav
+  samplerate: 44100
+  samples: 347508
+  date: 2009-06-09T08:05:32Z
+- prompt: w0306
+  text: Ullrich fought back in the time trial.
+  file: wav/w0306.wav
+  samplerate: 44100
+  samples: 205506
+  date: 2009-06-09T08:06:14Z
+- prompt: w0307
+  text: Berger removes his trousers to reveal a loincloth.
+  file: wav/w0307.wav
+  samplerate: 44100
+  samples: 242550
+  date: 2009-06-09T08:06:26Z
+- prompt: w0308
+  text: Instead he waited and beat Voigt in the sprint.
+  file: wav/w0308.wav
+  samplerate: 44100
+  samples: 233289
+  date: 2009-06-09T08:06:38Z
+- prompt: w0309
+  text: During this period he wrote his third book with Jacque Fresco, a book on futurism entitled Looking Forward.
+  file: wav/w0309.wav
+  samplerate: 44100
+  samples: 418509
+  date: 2009-06-09T08:06:54Z
+- prompt: w0310a
+  text: A total of four hundred eighty five were built in Japan, as the l two d Type zero transport.
+  file: wav/w0310a.wav
+  samplerate: 44100
+  samples: 372204
+  date: 2009-06-09T08:07:10Z
+- prompt: w0310b
+  text: A total of four hundred eighty five were built in Japan, as the l two d Type zero transport.
+  file: wav/w0310b.wav
+  samplerate: 44100
+  samples: 257985
+  date: 2009-06-09T08:07:28Z
+- prompt: w0310
+  text: A total of four hundred eighty five were built in Japan, as the l two d Type zero transport.
+  file: wav/w0310.wav
+  samplerate: 44100
+  samples: 372204
+  date: 2009-06-09T08:07:42Z
+- prompt: w0311
+  text: For more information, see the page Jehovah.
+  file: wav/w0311.wav
+  samplerate: 44100
+  samples: 220941
+  date: 2009-06-09T08:07:54Z
+- prompt: w0313
+  text: His companion is Watchful, the porter of the House Beautiful.
+  file: wav/w0313.wav
+  samplerate: 44100
+  samples: 276507
+  date: 2009-06-09T08:09:12Z
+- prompt: w0312
+  text: To combat this problem, a creator deity, tu chai pai, separated the Earth from the heavens by blowing on rubbed tobacco three times.
+  file: wav/w0312.wav
+  samplerate: 44100
+  samples: 495684
+  date: 2009-06-09T08:09:56Z
+- prompt: w0314
+  text: Heathcliff becomes only more bitter and vengeful.
+  file: wav/w0314.wav
+  samplerate: 44100
+  samples: 239463
+  date: 2009-06-09T08:10:10Z
+- prompt: w0315a
+  text: Production of the Vega totaled over two point nine million vehicles, all built at the Lordstown, Ohio g m Assembly Plant.
+  file: wav/w0315a.wav
+  samplerate: 44100
+  samples: 425124
+  date: 2009-06-09T08:10:28Z
+- prompt: w0315b
+  text: Production of the Vega totaled over two point nine million vehicles, all built at the Lordstown, Ohio g m Assembly Plant.
+  file: wav/w0315b.wav
+  samplerate: 44100
+  samples: 305172
+  date: 2009-06-09T08:10:44Z
+- prompt: w0315
+  text: Production of the Vega totaled over two point nine million vehicles, all built at the Lordstown, Ohio g m Assembly Plant.
+  file: wav/w0315.wav
+  samplerate: 44100
+  samples: 461727
+  date: 2009-06-09T08:11:04Z
+- prompt: w0316
+  text: The class action lawsuit was filed in Miller County, Arkansas by Dallas attorneys, Steve Malouf, Joel Fineberg, and Dean Gresham.
+  file: wav/w0316.wav
+  samplerate: 44100
+  samples: 486423
+  date: 2009-06-09T08:12:10Z
+- prompt: w0317
+  text: A rider may wear protective leather leggings called chaps.
+  file: wav/w0317.wav
+  samplerate: 44100
+  samples: 267246
+  date: 2009-06-09T08:12:32Z
+- prompt: w0318a
+  text: The f twenty two is capable of functioning as a mini awacs.
+  file: wav/w0318a.wav
+  samplerate: 44100
+  samples: 270333
+  date: 2009-06-09T08:12:46Z
+- prompt: w0318
+  text: The f twenty two is capable of functioning as a mini awacs.
+  file: wav/w0318.wav
+  samplerate: 44100
+  samples: 270333
+  date: 2009-06-09T08:13:12Z
+- prompt: w0319
+  text: In particular, Gupta period Buddhist art was to be influential in most of East and Southeast Asia.
+  file: wav/w0319.wav
+  samplerate: 44100
+  samples: 390726
+  date: 2009-06-09T08:13:28Z
+- prompt: w0320
+  text: Socialism is an attack on the right to breathe freely.
+  file: wav/w0320.wav
+  samplerate: 44100
+  samples: 254898
+  date: 2009-06-09T08:13:40Z
+- prompt: w0321a
+  text: They want to make a sacred cow out of him.
+  file: wav/w0321a.wav
+  samplerate: 44100
+  samples: 115983
+  date: 2009-06-09T08:13:50Z
+- prompt: w0321
+  text: They want to make a sacred cow out of him.
+  file: wav/w0321.wav
+  samplerate: 44100
+  samples: 217854
+  date: 2009-06-09T08:14:02Z
+- prompt: w0322
+  text: The food supply was lost and the massive army of Yuan Shao collapsed.
+  file: wav/w0322.wav
+  samplerate: 44100
+  samples: 301203
+  date: 2009-06-09T08:14:16Z
+- prompt: w0323
+  text: Santiago and Ayuso joined the practices on July five, two thousand eight.
+  file: wav/w0323.wav
+  samplerate: 44100
+  samples: 313551
+  date: 2009-06-09T08:14:32Z
+- prompt: w0324a
+  text: 'It raises the question: Have Ming Pao values denatured?'
+  file: wav/w0324a.wav
+  samplerate: 44100
+  samples: 148176
+  date: 2009-06-09T08:14:44Z
+- prompt: w0324
+  text: 'It raises the question: Have Ming Pao values denatured?'
+  file: wav/w0324.wav
+  samplerate: 44100
+  samples: 257985
+  date: 2009-06-09T08:14:54Z
+- prompt: w0325a
+  text: Dewitt hired James Kerr as his surveyor.
+  file: wav/w0325a.wav
+  samplerate: 44100
+  samples: 211680
+  date: 2009-06-09T08:15:08Z
+- prompt: w0325
+  text: Dewitt hired James Kerr as his surveyor.
+  file: wav/w0325.wav
+  samplerate: 44100
+  samples: 211680
+  date: 2009-06-09T08:15:48Z
+- prompt: w0326
+  text: The eggs are mottled and camouflaged.
+  file: wav/w0326.wav
+  samplerate: 44100
+  samples: 202419
+  date: 2009-06-09T08:16:00Z
+- prompt: w0327
+  text: KARR was later manufactured by Aoshima.
+  file: wav/w0327.wav
+  samplerate: 44100
+  samples: 208593
+  date: 2009-06-09T08:16:38Z
+- prompt: w0328
+  text: Houses here range greatly in size and age, and it is the most diverse neighborhood in the city.
+  file: wav/w0328.wav
+  samplerate: 44100
+  samples: 381465
+  date: 2009-06-09T08:16:54Z
+- prompt: w0329
+  text: She sailed under Captain Hodgson.
+  file: wav/w0329.wav
+  samplerate: 44100
+  samples: 190071
+  date: 2009-06-09T08:17:08Z
+- prompt: w0330
+  text: The Doctor enters the egg storeroom, and is disturbed that they have no nutritional mucus.
+  file: wav/w0330.wav
+  samplerate: 44100
+  samples: 366030
+  date: 2009-06-09T08:17:24Z
+- prompt: w0331a
+  text: Fall then leased the rights of the oil to Harry f. Sinclair of the original Sinclair Oil, then known as Mammoth Oil, without competitive bidding.
+  file: wav/w0331a.wav
+  samplerate: 44100
+  samples: 336483
+  date: 2009-06-09T08:17:40Z
+- prompt: w0331b
+  text: Fall then leased the rights of the oil to Harry f. Sinclair of the original Sinclair Oil, then known as Mammoth Oil, without competitive bidding.
+  file: wav/w0331b.wav
+  samplerate: 44100
+  samples: 148617
+  date: 2009-06-09T08:18:06Z
+- prompt: w0331
+  text: Fall then leased the rights of the oil to Harry f. Sinclair of the original Sinclair Oil, then known as Mammoth Oil, without competitive bidding.
+  file: wav/w0331.wav
+  samplerate: 44100
+  samples: 535815
+  date: 2009-06-09T08:18:22Z
+- prompt: w0332
+  text: An African Methodist Episcopal Church was organized at the home of Irvin Allen, who built a one room log church building on his property.
+  file: wav/w0332.wav
+  samplerate: 44100
+  samples: 511119
+  date: 2009-06-09T08:18:58Z
+- prompt: w0333
+  text: No oil was ever shipped under this arrangement.
+  file: wav/w0333.wav
+  samplerate: 44100
+  samples: 233289
+  date: 2009-06-09T08:19:12Z
+- prompt: w0334a
+  text: For this reason should'nt campaign contributions not be squelched?
+  file: wav/w0334a.wav
+  samplerate: 44100
+  samples: 288855
+  date: 2009-06-09T08:20:08Z
+- prompt: w0334
+  text: For this reason should'nt campaign contributions not be squelched?
+  file: wav/w0334.wav
+  samplerate: 44100
+  samples: 288855
+  date: 2009-06-09T08:20:28Z
+- prompt: w0335
+  text: A park in nearby Oil City honors his memory.
+  file: wav/w0335.wav
+  samplerate: 44100
+  samples: 224028
+  date: 2009-06-09T08:20:40Z
+- prompt: w0336
+  text: Many chefs and restaurateurs who saw that video dropped foie gras from their menus.
+  file: wav/w0336.wav
+  samplerate: 44100
+  samples: 344421
+  date: 2009-06-09T08:21:14Z
+- prompt: w0337
+  text: Astro resembles wooden boy Pinocchio.
+  file: wav/w0337.wav
+  samplerate: 44100
+  samples: 202419
+  date: 2009-06-09T08:21:26Z
+- prompt: w0338
+  text: Brite and husband Chris DeBarr, a chef, run a de facto cat rescue and have, at any given time, between fifteen and twenty cats.
+  file: wav/w0338.wav
+  samplerate: 44100
+  samples: 480249
+  date: 2009-06-09T08:21:44Z
+- prompt: w0339
+  text: Thurow goes on to note that When it comes to actually measuring profits, some difficult accounting issues arise.
+  file: wav/w0339.wav
+  samplerate: 44100
+  samples: 433944
+  date: 2009-06-09T08:22:02Z
+- prompt: w0340
+  text: A tunnel is an underground passageway.
+  file: wav/w0340.wav
+  samplerate: 44100
+  samples: 205506
+  date: 2009-06-09T08:22:14Z
+- prompt: w0341
+  text: And the life she leads may foreshadow yours.
+  file: wav/w0341.wav
+  samplerate: 44100
+  samples: 224028
+  date: 2009-06-09T08:22:28Z
+- prompt: w0342
+  text: A biography is not the same as a dossier.
+  file: wav/w0342.wav
+  samplerate: 44100
+  samples: 214767
+  date: 2009-06-09T08:22:40Z
+- prompt: w0343a
+  text: The Orient Express is the name of a long distance passenger train originally operated by the Compagnie Internationale des wagons lits.
+  file: wav/w0343a.wav
+  samplerate: 44100
+  samples: 496566
+  date: 2009-06-09T08:23:00Z
+- prompt: w0343b
+  text: The Orient Express is the name of a long distance passenger train originally operated by the Compagnie Internationale des wagons lits.
+  file: wav/w0343b.wav
+  samplerate: 44100
+  samples: 501858
+  date: 2009-06-09T08:24:02Z
+- prompt: w0343
+  text: The Orient Express is the name of a long distance passenger train originally operated by the Compagnie Internationale des wagons lits.
+  file: wav/w0343.wav
+  samplerate: 44100
+  samples: 501858
+  date: 2009-06-09T08:24:30Z
+- prompt: w0344a
+  text: ': Monsanto merges with Pharmacia and Upjohn.'
+  file: wav/w0344a.wav
+  samplerate: 44100
+  samples: 170667
+  date: 2009-06-09T08:24:42Z
+- prompt: w0344b
+  text: ': Monsanto merges with Pharmacia and Upjohn.'
+  file: wav/w0344b.wav
+  samplerate: 44100
+  samples: 175518
+  date: 2009-06-09T08:25:00Z
+- prompt: w0344c
+  text: ': Monsanto merges with Pharmacia and Upjohn.'
+  file: wav/w0344c.wav
+  samplerate: 44100
+  samples: 131072
+  date: 2009-06-09T08:25:20Z
+- prompt: w0344
+  text: ': Monsanto merges with Pharmacia and Upjohn.'
+  file: wav/w0344.wav
+  samplerate: 44100
+  samples: 224028
+  date: 2009-06-09T08:26:20Z
+- prompt: w0345a
+  text: And Maharaja wanted her back.
+  file: wav/w0345a.wav
+  samplerate: 44100
+  samples: 177723
+  date: 2009-06-09T08:26:34Z
+- prompt: w0346a
+  text: For more than a century, Compagnie Generale des Eaux remained largely focused on the water sector.
+  file: wav/w0346a.wav
+  samplerate: 44100
+  samples: 148176
+  date: 2009-06-09T08:26:50Z
+- prompt: w0345
+  text: And Maharaja wanted her back.
+  file: wav/w0345.wav
+  samplerate: 44100
+  samples: 177723
+  date: 2009-06-09T09:01:42Z
+- prompt: w0346
+  text: For more than a century, Compagnie Generale des Eaux remained largely focused on the water sector.
+  file: wav/w0346.wav
+  samplerate: 44100
+  samples: 390726
+  date: 2009-06-09T09:02:10Z
+- prompt: w0347
+  text: Festivals such as Reh are celebrated to control the peace and prosperity of the people.
+  file: wav/w0347.wav
+  samplerate: 44100
+  samples: 356769
+  date: 2009-06-09T09:02:42Z
+- prompt: w0348
+  text: Collars receded from around the neck down to around the top of the bosom.
+  file: wav/w0348.wav
+  samplerate: 44100
+  samples: 313551
+  date: 2009-06-09T09:03:12Z
+- prompt: w0349
+  text: McClure introduces himself by saying, Hi, I'm Troy McClure.
+  file: wav/w0349.wav
+  samplerate: 44100
+  samples: 270333
+  date: 2009-06-09T09:04:00Z
+- prompt: w0350
+  text: Basketball games often draw over thirty thousand fans, and football games over forty thousand.
+  file: wav/w0350.wav
+  samplerate: 44100
+  samples: 378378
+  date: 2009-06-09T09:04:14Z
+- prompt: w0351
+  text: Wells gave York her first grandchild, Rafferty, in two thousand seven.
+  file: wav/w0351.wav
+  samplerate: 44100
+  samples: 304290
+  date: 2009-06-09T09:04:28Z
+- prompt: w0352
+  text: Their roots dig deep into the Earth.
+  file: wav/w0352.wav
+  samplerate: 44100
+  samples: 199332
+  date: 2009-06-09T09:04:40Z
+- prompt: w0353
+  text: Offhand, here is one link which discusses it.
+  file: wav/w0353.wav
+  samplerate: 44100
+  samples: 227115
+  date: 2009-06-09T09:05:00Z
+- prompt: w0354
+  text: East Campus Iowa has set up an Eastern campus in Troy, in the former Baker Middle School building.
+  file: wav/w0354.wav
+  samplerate: 44100
+  samples: 387639
+  date: 2009-06-09T09:05:16Z
+- prompt: w0355a
+  text: More importantly, objects change shape when subjected to forces.
+  file: wav/w0355a.wav
+  samplerate: 44100
+  samples: 131418
+  date: 2009-06-09T09:05:50Z
+- prompt: w0355
+  text: More importantly, objects change shape when subjected to forces.
+  file: wav/w0355.wav
+  samplerate: 44100
+  samples: 285768
+  date: 2009-06-09T09:06:02Z
+- prompt: w0356
+  text: Aran is the hot boy of the Academy.
+  file: wav/w0356.wav
+  samplerate: 44100
+  samples: 196245
+  date: 2009-06-09T09:06:14Z
+- prompt: w0357
+  text: Personal life Cao is married to Kim Hoang.
+  file: wav/w0357.wav
+  samplerate: 44100
+  samples: 217854
+  date: 2009-06-09T09:06:26Z
+- prompt: w0358a
+  text: Jain literature describes these states in detail.
+  file: wav/w0358a.wav
+  samplerate: 44100
+  samples: 202419
+  date: 2009-06-09T09:06:36Z
+- prompt: w0358
+  text: Jain literature describes these states in detail.
+  file: wav/w0358.wav
+  samplerate: 44100
+  samples: 239463
+  date: 2009-06-09T09:06:58Z
+- prompt: w0359
+  text: On the recording of her Covent Garden farewell, in tears, she even thanks the dear Stagehands.
+  file: wav/w0359.wav
+  samplerate: 44100
+  samples: 378378
+  date: 2009-06-09T09:07:14Z
+- prompt: w0360
+  text: Married in black, you will wish yourself back.
+  file: wav/w0360.wav
+  samplerate: 44100
+  samples: 230202
+  date: 2009-06-09T09:07:26Z
+- prompt: w0361
+  text: Because of his illness, he was forced to sleep in a straight back chair in order to breathe comfortably.
+  file: wav/w0361.wav
+  samplerate: 44100
+  samples: 409248
+  date: 2009-06-09T09:07:42Z
+- prompt: w0362
+  text: He was never to reach Jerusalem.
+  file: wav/w0362.wav
+  samplerate: 44100
+  samples: 186984
+  date: 2009-06-09T09:07:52Z
+- prompt: w0363a
+  text: Gamba needed to win, and have cross town rivals Cerezo Osaka draw or lose.
+  file: wav/w0363a.wav
+  samplerate: 44100
+  samples: 175077
+  date: 2009-06-09T09:08:04Z
+- prompt: w0363
+  text: Gamba needed to win, and have cross town rivals Cerezo Osaka draw or lose.
+  file: wav/w0363.wav
+  samplerate: 44100
+  samples: 316638
+  date: 2009-06-09T09:08:24Z
+- prompt: w0364
+  text: The unfocused blur outside the depth of field is sometimes used for artistic effect in photography.
+  file: wav/w0364.wav
+  samplerate: 44100
+  samples: 393813
+  date: 2009-06-09T09:08:56Z
+- prompt: w0365
+  text: The original slogan was an admonition and an invitation to Drive the Safeway; Buy the Safeway.
+  file: wav/w0365.wav
+  samplerate: 44100
+  samples: 378378
+  date: 2009-06-09T09:09:22Z
+- prompt: w0366
+  text: An English translation was by Giacomo Leoni in the early eighteenth century.
+  file: wav/w0366.wav
+  samplerate: 44100
+  samples: 322812
+  date: 2009-06-09T09:10:20Z
+- prompt: w0367a
+  text: The true number of victims in the anthrax outbreak at Sverdlovsk, about east of Moscow, is not known.
+  file: wav/w0367a.wav
+  samplerate: 44100
+  samples: 247401
+  date: 2009-06-09T09:10:46Z
+- prompt: w0367
+  text: The true number of victims in the anthrax outbreak at Sverdlovsk, about east of Moscow, is not known.
+  file: wav/w0367.wav
+  samplerate: 44100
+  samples: 399987
+  date: 2009-06-09T09:11:42Z
+- prompt: w0368
+  text: He was deeply antagonistic to the British Raj of India.
+  file: wav/w0368.wav
+  samplerate: 44100
+  samples: 257985
+  date: 2009-06-09T09:11:54Z
+- prompt: w0369
+  text: The Cowboys defeated the Hoosiers, twenty eight to six, in the one thousand nine hundred eighty nine dual.
+  file: wav/w0369.wav
+  samplerate: 44100
+  samples: 415422
+  date: 2009-06-09T09:12:28Z
+- prompt: w0370
+  text: Also, a common way to say one in Mandarin is as yao.
+  file: wav/w0370.wav
+  samplerate: 44100
+  samples: 248724
+  date: 2009-06-09T09:12:40Z
+- prompt: w0371
+  text: The largest foreign investors are Daewoo, coca cola Amatil and Metro AG.
+  file: wav/w0371.wav
+  samplerate: 44100
+  samples: 310464
+  date: 2009-06-09T09:12:54Z
+- prompt: w0372
+  text: With this support Li gained numerous victories leading to the surrender of Suzhou.
+  file: wav/w0372.wav
+  samplerate: 44100
+  samples: 341334
+  date: 2009-06-09T09:13:30Z
+- prompt: w0373
+  text: Be nice about it and give a quick reason why you think it would be helpful to your.
+  file: wav/w0373.wav
+  samplerate: 44100
+  samples: 344421
+  date: 2009-06-09T09:13:44Z
+- prompt: w0374
+  text: During this period Huerta and Villa became rivals.
+  file: wav/w0374.wav
+  samplerate: 44100
+  samples: 242550
+  date: 2009-06-09T09:13:56Z
+- prompt: w0375
+  text: The Asch conformity experiments took place at Swarthmore.
+  file: wav/w0375.wav
+  samplerate: 44100
+  samples: 264159
+  date: 2009-06-09T09:14:08Z
+- prompt: w0376
+  text: This is not a soapbox, you should know that.
+  file: wav/w0376.wav
+  samplerate: 44100
+  samples: 224028
+  date: 2009-06-09T09:14:20Z
+- prompt: w0377
+  text: But the flames spread quite quickly and were soon unquenchable.
+  file: wav/w0377.wav
+  samplerate: 44100
+  samples: 282681
+  date: 2009-06-09T09:14:34Z
+- prompt: w0378
+  text: South Zhejiang is mountainous and ill suited for farming, and has traditionally been poor and underdeveloped.
+  file: wav/w0378.wav
+  samplerate: 44100
+  samples: 424683
+  date: 2009-06-09T09:14:50Z
+- prompt: w0379
+  text: Brooke Burke also appears in the commercial as a cowgirl.
+  file: wav/w0379.wav
+  samplerate: 44100
+  samples: 264159
+  date: 2009-06-09T09:15:02Z
+- prompt: w0380
+  text: Kennedy identified it as the Deutschland.
+  file: wav/w0380.wav
+  samplerate: 44100
+  samples: 214767
+  date: 2009-06-09T09:15:14Z
+- prompt: w0381
+  text: They draw out the irrational paranoia in otherwise intelligent, balanced people.
+  file: wav/w0381.wav
+  samplerate: 44100
+  samples: 335160
+  date: 2009-06-09T09:15:28Z
+- prompt: w0382
+  text: He also played in a televised pro celebrity golf match opposite Bruce Forsyth.
+  file: wav/w0382.wav
+  samplerate: 44100
+  samples: 328986
+  date: 2009-06-09T09:15:42Z
+- prompt: w0383
+  text: After dinner, Chow walks her back to her apartment.
+  file: wav/w0383.wav
+  samplerate: 44100
+  samples: 245637
+  date: 2009-06-09T09:15:54Z
+- prompt: w0384
+  text: The t shirt simply said I scored with Osgood.
+  file: wav/w0384.wav
+  samplerate: 44100
+  samples: 227115
+  date: 2009-06-09T09:16:06Z
+- prompt: w0385
+  text: Real person slash gained popularity with the rise of the pop music industry.
+  file: wav/w0385.wav
+  samplerate: 44100
+  samples: 322812
+  date: 2009-06-09T09:16:20Z
+- prompt: w0386
+  text: When the piper arrives, Keith challenges him.
+  file: wav/w0386.wav
+  samplerate: 44100
+  samples: 227115
+  date: 2009-06-09T09:16:50Z
+- prompt: w0387
+  text: The village contains many old stone cottages, many of them thatched.
+  file: wav/w0387.wav
+  samplerate: 44100
+  samples: 298116
+  date: 2009-06-09T09:17:04Z
+- prompt: w0388
+  text: Decline Vox grew very big very fast.
+  file: wav/w0388.wav
+  samplerate: 44100
+  samples: 199332
+  date: 2009-06-09T09:17:16Z
+- prompt: w0389
+  text: The post war era was dominated by Gottlieb.
+  file: wav/w0389.wav
+  samplerate: 44100
+  samples: 220941
+  date: 2009-06-09T09:17:44Z
+- prompt: w0390
+  text: The rivals from Ljubljana won the match three to six.
+  file: wav/w0390.wav
+  samplerate: 44100
+  samples: 251811
+  date: 2009-06-09T09:18:16Z
+- prompt: w0391
+  text: Vegetarian banh bao are also available.
+  file: wav/w0391.wav
+  samplerate: 44100
+  samples: 208593
+  date: 2009-06-09T09:18:26Z
+- prompt: w0392a
+  text: After twelve years of service, Mui resigned in one thousand nine hundred ninety and was succeeded by p. k.Yeung.
+  file: wav/w0392a.wav
+  samplerate: 44100
+  samples: 433944
+  date: 2009-06-09T09:18:42Z
+- prompt: w0392
+  text: After twelve years of service, Mui resigned in one thousand nine hundred ninety and was succeeded by p. k.Yeung.
+  file: wav/w0392.wav
+  samplerate: 44100
+  samples: 433944
+  date: 2009-06-09T09:19:08Z
+- prompt: w0393
+  text: The Andretti clan finished fifth.
+  file: wav/w0393.wav
+  samplerate: 44100
+  samples: 190071
+  date: 2009-06-09T09:19:20Z
+- prompt: w0394
+  text: Abby tells Luka how much she loves him and they kiss.
+  file: wav/w0394.wav
+  samplerate: 44100
+  samples: 251811
+  date: 2009-06-09T09:19:32Z
+- prompt: w0395
+  text: Nathan was a classmate of fellow patriot spy Benjamin Tallmadge.
+  file: wav/w0395.wav
+  samplerate: 44100
+  samples: 285768
+  date: 2009-06-09T09:19:46Z
+- prompt: w0396a
+  text: Also note that the victim is mentioned as Tanja s. in the article, but her full name is given beneath her picture.
+  file: wav/w0396a.wav
+  samplerate: 44100
+  samples: 440118
+  date: 2009-06-09T09:20:02Z
+- prompt: w0396b
+  text: Also note that the victim is mentioned as Tanja s. in the article, but her full name is given beneath her picture.
+  file: wav/w0396b.wav
+  samplerate: 44100
+  samples: 208593
+  date: 2009-06-09T09:20:30Z
+- prompt: w0396
+  text: Also note that the victim is mentioned as Tanja s. in the article, but her full name is given beneath her picture.
+  file: wav/w0396.wav
+  samplerate: 44100
+  samples: 440118
+  date: 2009-06-09T09:21:16Z
+- prompt: w0397
+  text: This is substantiated by the state abbreviations n t and T A used within the show.
+  file: wav/w0397.wav
+  samplerate: 44100
+  samples: 338247
+  date: 2009-06-09T09:21:30Z
+- prompt: w0398
+  text: The show began in early two thousand four with host Alex Behan.
+  file: wav/w0398.wav
+  samplerate: 44100
+  samples: 282681
+  date: 2009-06-09T09:21:54Z
+- prompt: w0399
+  text: However, the clothier pressed charges.
+  file: wav/w0399.wav
+  samplerate: 44100
+  samples: 205506
+  date: 2009-06-09T09:22:06Z
+- prompt: w0400
+  text: The now cancelled British television series, Today with Des and Mel, was based on Live.
+  file: wav/w0400.wav
+  samplerate: 44100
+  samples: 356769
+  date: 2009-06-09T09:22:20Z
+- prompt: w0401
+  text: Unleashed against such dull creature comforts is the vengeful, unearthly energy of workers both manual and creative.
+  file: wav/w0401.wav
+  samplerate: 44100
+  samples: 446292
+  date: 2009-06-09T09:23:02Z
+- prompt: w0402
+  text: Sandy comes to Will, with her toothbrush.
+  file: wav/w0402.wav
+  samplerate: 44100
+  samples: 214767
+  date: 2009-06-09T09:23:14Z
+- prompt: w0403
+  text: Lines can vary from smooth to sketchy.
+  file: wav/w0403.wav
+  samplerate: 44100
+  samples: 205506
+  date: 2009-06-09T09:23:26Z
+- prompt: w0404
+  text: He goofs around and ends up tearing it in two.
+  file: wav/w0404.wav
+  samplerate: 44100
+  samples: 230202
+  date: 2009-06-09T09:23:38Z
+- prompt: w0405a
+  text: Female students from the college section wear a beige short sleeved blouse and a beige skirt.
+  file: wav/w0405a.wav
+  samplerate: 44100
+  samples: 268569
+  date: 2009-06-09T09:23:58Z
+- prompt: w0405b
+  text: Female students from the college section wear a beige short sleeved blouse and a beige skirt.
+  file: wav/w0405b.wav
+  samplerate: 44100
+  samples: 164493
+  date: 2009-06-09T09:24:10Z
+- prompt: w0405
+  text: Female students from the college section wear a beige short sleeved blouse and a beige skirt.
+  file: wav/w0405.wav
+  samplerate: 44100
+  samples: 375291
+  date: 2009-06-09T09:25:00Z
+- prompt: w0406
+  text: Sabotage or human error was ruled out.
+  file: wav/w0406.wav
+  samplerate: 44100
+  samples: 205506
+  date: 2009-06-09T09:25:10Z
+- prompt: w0407
+  text: Bigfoot, they call him bigfoot.
+  file: wav/w0407.wav
+  samplerate: 44100
+  samples: 183897
+  date: 2009-06-09T09:25:22Z
+- prompt: w0408a
+  text: He enjoyed the book so much that he wrote Mac Rauch a letter asking permission to adapt it into a film.
+  file: wav/w0408a.wav
+  samplerate: 44100
+  samples: 252252
+  date: 2009-06-09T09:25:34Z
+- prompt: w0408
+  text: He enjoyed the book so much that he wrote Mac Rauch a letter asking permission to adapt it into a film.
+  file: wav/w0408.wav
+  samplerate: 44100
+  samples: 406161
+  date: 2009-06-09T09:26:46Z
+- prompt: w0409
+  text: Scripts were written by Bradbury, Tony Puryear, and Terry Hayes.
+  file: wav/w0409.wav
+  samplerate: 44100
+  samples: 285768
+  date: 2009-06-09T09:27:00Z
+- prompt: w0410
+  text: Northern China, including Shandong, was overrun.
+  file: wav/w0410.wav
+  samplerate: 44100
+  samples: 236376
+  date: 2009-06-09T09:27:12Z
+- prompt: w0411
+  text: And when your man of war comes, let him destroy our houses.
+  file: wav/w0411.wav
+  samplerate: 44100
+  samples: 270333
+  date: 2009-06-09T09:27:24Z
+- prompt: w0412
+  text: No genre before or since has been able to achieve a similar market share.
+  file: wav/w0412.wav
+  samplerate: 44100
+  samples: 313551
+  date: 2009-06-09T09:27:38Z
+- prompt: w0413
+  text: Later it was organized as Plantation number seven and at times called Bowdoin and New Bowdoin.
+  file: wav/w0413.wav
+  samplerate: 44100
+  samples: 369117
+  date: 2009-06-09T09:28:22Z
+- prompt: w0414
+  text: On his second day he found a vein, and staked it with another prospector, Alex Longwell.
+  file: wav/w0414.wav
+  samplerate: 44100
+  samples: 359856
+  date: 2009-06-09T09:28:36Z
+- prompt: w0415
+  text: Main entrance exhibit themes change monthly.
+  file: wav/w0415.wav
+  samplerate: 44100
+  samples: 224028
+  date: 2009-06-09T09:28:48Z
+- prompt: w0416
+  text: They never saw each other after that day.
+  file: wav/w0416.wav
+  samplerate: 44100
+  samples: 214767
+  date: 2009-06-09T09:29:00Z
+- prompt: w0417
+  text: Dijon, meanwhile, has been hiding in the vault.
+  file: wav/w0417.wav
+  samplerate: 44100
+  samples: 233289
+  date: 2009-06-09T09:29:12Z
+- prompt: w0418
+  text: Sophia Jane Goulden chastised her daughter for throwing herself at Richard, and urged her without success to exhibit more aloofness.
+  file: wav/w0418.wav
+  samplerate: 44100
+  samples: 495684
+  date: 2009-06-09T09:29:46Z
+- prompt: w0419
+  text: The end of the soft imperative form is often elongated and generally followed by ya or na.
+  file: wav/w0419.wav
+  samplerate: 44100
+  samples: 366030
+  date: 2009-06-09T09:30:02Z
+- prompt: w0420
+  text: Culture Mandarin dialects are spoken in Shandong.
+  file: wav/w0420.wav
+  samplerate: 44100
+  samples: 239463
+  date: 2009-06-09T09:30:14Z
+- prompt: w0421
+  text: When she confessed this to Matsuura, he sent her to New York for training.
+  file: wav/w0421.wav
+  samplerate: 44100
+  samples: 316638
+  date: 2009-06-09T09:31:12Z
+- prompt: w0422
+  text: Arkansas arrived in Omaha in as dramatic fashion as they left it.
+  file: wav/w0422.wav
+  samplerate: 44100
+  samples: 288855
+  date: 2009-06-09T09:32:00Z
+- prompt: w0423a
+  text: Ropes or cords draw up, become taut, when wet.
+  file: wav/w0423a.wav
+  samplerate: 44100
+  samples: 125244
+  date: 2009-06-09T09:32:08Z
+- prompt: w0423
+  text: Ropes or cords draw up, become taut, when wet.
+  file: wav/w0423.wav
+  samplerate: 44100
+  samples: 230202
+  date: 2009-06-09T09:32:18Z
+- prompt: w0424
+  text: The blade is usually made of polyurethane.
+  file: wav/w0424.wav
+  samplerate: 44100
+  samples: 217854
+  date: 2009-06-09T09:32:30Z
+- prompt: w0425
+  text: The balance behaved strangely.
+  file: wav/w0425.wav
+  samplerate: 44100
+  samples: 180810
+  date: 2009-06-09T09:32:40Z
+- prompt: w0426
+  text: Cao Cao himself barely escaped the encounter.
+  file: wav/w0426.wav
+  samplerate: 44100
+  samples: 227115
+  date: 2009-06-09T09:32:52Z
+- prompt: w0427
+  text: The boss is a giant, soap throwing toy octopus.
+  file: wav/w0427.wav
+  samplerate: 44100
+  samples: 233289
+  date: 2009-06-09T09:33:04Z
+- prompt: w0428
+  text: However, each genre has many sub genres as well.
+  file: wav/w0428.wav
+  samplerate: 44100
+  samples: 236376
+  date: 2009-06-09T09:33:16Z
+- prompt: w0429
+  text: The format was also supported by Grundig and Loewe.
+  file: wav/w0429.wav
+  samplerate: 44100
+  samples: 245637
+  date: 2009-06-09T09:33:28Z
+- prompt: w0430
+  text: 'It simply doesn''t: I don''t care if it has an assessment.'
+  file: wav/w0430.wav
+  samplerate: 44100
+  samples: 261072
+  date: 2009-06-09T09:33:40Z
+- prompt: w0431
+  text: He would have been a superb Chancellor.
+  file: wav/w0431.wav
+  samplerate: 44100
+  samples: 208593
+  date: 2009-06-09T09:33:52Z
+- prompt: w0432
+  text: He just cares that I work for Goddard Claussen.
+  file: wav/w0432.wav
+  samplerate: 44100
+  samples: 233289
+  date: 2009-06-09T09:34:04Z
+- prompt: w0433
+  text: From this date the original terminal, Bishopsgate, closed to passengers.
+  file: wav/w0433.wav
+  samplerate: 44100
+  samples: 310464
+  date: 2009-06-09T09:34:16Z
+- prompt: w0434
+  text: The other branch was the Visigoths.
+  file: wav/w0434.wav
+  samplerate: 44100
+  samples: 196245
+  date: 2009-06-09T09:34:28Z
+- prompt: w0435
+  text: Ghee was used in well to do families and on festive occasions.
+  file: wav/w0435.wav
+  samplerate: 44100
+  samples: 279594
+  date: 2009-06-09T09:34:42Z
+- prompt: w0436
+  text: The couple have three children and a grandchild.
+  file: wav/w0436.wav
+  samplerate: 44100
+  samples: 236376
+  date: 2009-06-09T09:34:54Z
+- prompt: w0437
+  text: This problem is often called wow, though turntable and motor problems can also cause pitch only wow.
+  file: wav/w0437.wav
+  samplerate: 44100
+  samples: 396900
+  date: 2009-06-09T09:35:08Z
+- prompt: w0438a
+  text: Vandervoort is not scheduled to return as a regular for the eighth season, but will appear as a guest star in at least one episode.
+  file: wav/w0438a.wav
+  samplerate: 44100
+  samples: 224469
+  date: 2009-06-09T09:35:20Z
+- prompt: w0438b
+  text: Vandervoort is not scheduled to return as a regular for the eighth season, but will appear as a guest star in at least one episode.
+  file: wav/w0438b.wav
+  samplerate: 44100
+  samples: 478485
+  date: 2009-06-09T09:36:04Z
+- prompt: w0438
+  text: Vandervoort is not scheduled to return as a regular for the eighth season, but will appear as a guest star in at least one episode.
+  file: wav/w0438.wav
+  samplerate: 44100
+  samples: 492597
+  date: 2009-06-09T09:36:22Z
+- prompt: w0439a
+  text: Peter guessed Bobcat, when it was indeed bjork.
+  file: wav/w0439a.wav
+  samplerate: 44100
+  samples: 180369
+  date: 2009-06-09T09:36:32Z
+- prompt: w0439
+  text: Peter guessed Bobcat, when it was indeed bjork.
+  file: wav/w0439.wav
+  samplerate: 44100
+  samples: 233289
+  date: 2009-06-09T09:36:42Z
+- prompt: w0440
+  text: Spotted a bit of a weird thing just now.
+  file: wav/w0440.wav
+  samplerate: 44100
+  samples: 211680
+  date: 2009-06-09T09:36:52Z
+- prompt: w0441
+  text: People with O I either have less collagen than normal or the quality is poorer than normal.
+  file: wav/w0441.wav
+  samplerate: 44100
+  samples: 366030
+  date: 2009-06-09T09:37:08Z
+- prompt: w0442
+  text: Directed by John Woo, it stars Chow yun fat, Ti Lung and Leslie Cheung.
+  file: wav/w0442.wav
+  samplerate: 44100
+  samples: 307377
+  date: 2009-06-09T09:37:54Z
+- prompt: w0443
+  text: I have no issue with people being devout.
+  file: wav/w0443.wav
+  samplerate: 44100
+  samples: 214767
+  date: 2009-06-09T09:38:06Z
+- prompt: w0444a
+  text: Having dropped Ullrich, Armstrong was quick to attack himself and the group pulled away from Ullrich.
+  file: wav/w0444a.wav
+  samplerate: 44100
+  samples: 307818
+  date: 2009-06-09T09:38:18Z
+- prompt: w0444
+  text: Having dropped Ullrich, Armstrong was quick to attack himself and the group pulled away from Ullrich.
+  file: wav/w0444.wav
+  samplerate: 44100
+  samples: 399987
+  date: 2009-06-09T09:38:40Z
+- prompt: w0445
+  text: He was a former son in law of Sir Winston Churchill and his father was Sir Abe Bailey.
+  file: wav/w0445.wav
+  samplerate: 44100
+  samples: 353682
+  date: 2009-06-09T09:38:56Z
+- prompt: w0446
+  text: With the creation of Northvale, Harrington Township was dissolved.
+  file: wav/w0446.wav
+  samplerate: 44100
+  samples: 291942
+  date: 2009-06-09T09:39:08Z
+- prompt: w0447
+  text: Also because of their aloofness, this barrier doesn't allow them to use their social skills and behavior to help them pursue relationships.
+  file: wav/w0447.wav
+  samplerate: 44100
+  samples: 517293
+  date: 2009-06-09T09:39:28Z
+- prompt: w0448
+  text: Time for a breakfast pie I think.
+  file: wav/w0448.wav
+  samplerate: 44100
+  samples: 190071
+  date: 2009-06-09T09:39:46Z
+- prompt: w0449
+  text: The Confessions of Nat Turner, a novel by William Styron, won the Pulitzer Prize for Fiction in one thousand nine hundred sixty eight.
+  file: wav/w0449.wav
+  samplerate: 44100
+  samples: 501858
+  date: 2009-06-09T09:40:28Z
+- prompt: w0450
+  text: The relative percentage of each varies from oil to oil, determining the properties of each oil.
+  file: wav/w0450.wav
+  samplerate: 44100
+  samples: 381465
+  date: 2009-06-09T09:40:42Z
+- prompt: w0451
+  text: They change color, head and mouth shape.
+  file: wav/w0451.wav
+  samplerate: 44100
+  samples: 211680
+  date: 2009-06-09T09:40:54Z
+- prompt: w0452
+  text: Males tend to rub other males, while cubs and females rub females.
+  file: wav/w0452.wav
+  samplerate: 44100
+  samples: 291942
+  date: 2009-06-09T09:41:08Z
+- prompt: w0453
+  text: His next confirmed stops will be in Beijing and Shenzhen.
+  file: wav/w0453.wav
+  samplerate: 44100
+  samples: 264159
+  date: 2009-06-09T09:41:20Z
+- prompt: w0454
+  text: Different groups draw very different conclusions as to how they should be treated.
+  file: wav/w0454.wav
+  samplerate: 44100
+  samples: 341334
+  date: 2009-06-09T09:41:34Z
+- prompt: w0455
+  text: No Church property could be bequeathed.
+  file: wav/w0455.wav
+  samplerate: 44100
+  samples: 208593
+  date: 2009-06-09T09:42:12Z
+- prompt: w0456
+  text: Piss up a Rope can be heard playing in the garage near the start of the movie u turn.
+  file: wav/w0456.wav
+  samplerate: 44100
+  samples: 350595
+  date: 2009-06-09T09:43:08Z
+- prompt: w0457
+  text: The sixty forty split had long irked Costello.
+  file: wav/w0457.wav
+  samplerate: 44100
+  samples: 230202
+  date: 2009-06-09T09:43:32Z
+- prompt: w0458
+  text: Then Ryan is disqualified for eye gouging.
+  file: wav/w0458.wav
+  samplerate: 44100
+  samples: 217854
+  date: 2009-06-09T09:43:44Z
+- prompt: w0459
+  text: Its first judges were General Rufus Putnam, General Benjamin Tupper, and Colonel Archibald Crary.
+  file: wav/w0459.wav
+  samplerate: 44100
+  samples: 387639
+  date: 2009-06-09T09:44:54Z
+- prompt: w0460
+  text: But the key to the party is in its leader, so I suggest you might like to read about Vladimir Zhirinovsky.
+  file: wav/w0460.wav
+  samplerate: 44100
+  samples: 415422
+  date: 2009-06-09T09:45:58Z
+- prompt: w0461
+  text: None of the place names match real life geography.
+  file: wav/w0461.wav
+  samplerate: 44100
+  samples: 242550
+  date: 2009-06-09T09:46:10Z
+- prompt: w0462
+  text: Viewed with the benefit of hindsight, these tactics were clearly misjudged.
+  file: wav/w0462.wav
+  samplerate: 44100
+  samples: 319725
+  date: 2009-06-09T09:46:24Z
+- prompt: w0463
+  text: The site specific play ran off broadway at the historic Frying Pan Lightship, docked in New York harbor.
+  file: wav/w0463.wav
+  samplerate: 44100
+  samples: 421596
+  date: 2009-06-09T09:47:22Z
+- prompt: w0464
+  text: For Boston, for Boston, For Thee and Thine alone.
+  file: wav/w0464.wav
+  samplerate: 44100
+  samples: 239463
+  date: 2009-06-09T09:47:34Z
+- prompt: w0465
+  text: He goes back to Suzhou, barely able to live through starvation.
+  file: wav/w0465.wav
+  samplerate: 44100
+  samples: 282681
+  date: 2009-06-09T09:48:28Z
+- prompt: w0466
+  text: This was located at the home of Owen Lovejoy.
+  file: wav/w0466.wav
+  samplerate: 44100
+  samples: 227115
+  date: 2009-06-09T09:48:40Z
+- prompt: w0467
+  text: They must stand proudly and bow only like the English do.
+  file: wav/w0467.wav
+  samplerate: 44100
+  samples: 264159
+  date: 2009-06-09T09:48:52Z
+- prompt: w0468
+  text: Markgraf, however, was often ill.
+  file: wav/w0468.wav
+  samplerate: 44100
+  samples: 190071
+  date: 2009-06-09T09:49:04Z
+- prompt: w0469
+  text: I wish Kaiser Bill could have seen him sizzle.
+  file: wav/w0469.wav
+  samplerate: 44100
+  samples: 230202
+  date: 2009-06-09T09:49:30Z
+- prompt: w0470
+  text: Some key words always draw blank screens.
+  file: wav/w0470.wav
+  samplerate: 44100
+  samples: 214767
+  date: 2009-06-09T09:49:40Z
+- prompt: w0471
+  text: Ljubljana thus became the undisputed center of Slovenian culture, a position maintained thereafter.
+  file: wav/w0471.wav
+  samplerate: 44100
+  samples: 393813
+  date: 2009-06-09T09:50:58Z
+- prompt: w0472
+  text: He almost always ends these columns with a strange email, followed by the statement Yup, these are my readers.
+  file: wav/w0472.wav
+  samplerate: 44100
+  samples: 427770
+  date: 2009-06-09T09:51:26Z
+- prompt: w0473
+  text: Tian entered, executed Li Changchun, and put up a defense.
+  file: wav/w0473.wav
+  samplerate: 44100
+  samples: 267246
+  date: 2009-06-09T09:51:38Z
+- prompt: w0474
+  text: Northwestern Demons never yield.
+  file: wav/w0474.wav
+  samplerate: 44100
+  samples: 186984
+  date: 2009-06-09T09:51:50Z
+- prompt: w0475
+  text: during the reign of King Macbeth.
+  file: wav/w0475.wav
+  samplerate: 44100
+  samples: 190071
+  date: 2009-06-09T09:52:00Z
+- prompt: w0476
+  text: Illinois eight is marked as an east west road.
+  file: wav/w0476.wav
+  samplerate: 44100
+  samples: 230202
+  date: 2009-06-09T09:52:12Z
+- prompt: w0477
+  text: In one thousand eight hundred seventy one, he decided on a location in the Bavarian town of Bayreuth.
+  file: wav/w0477.wav
+  samplerate: 44100
+  samples: 399987
+  date: 2009-06-09T09:52:28Z
+- prompt: w0478
+  text: The Khmer Rouge advanced during one thousand nine hundred seventy three.
+  file: wav/w0478.wav
+  samplerate: 44100
+  samples: 310464
+  date: 2009-06-09T09:53:22Z
+- prompt: w0479
+  text: Modified tung oil and phenolic resins are often used.
+  file: wav/w0479.wav
+  samplerate: 44100
+  samples: 251811
+  date: 2009-06-09T09:53:50Z
+- prompt: w0480a
+  text: She maintains a strong love hate relationship with Fleischman.
+  file: wav/w0480a.wav
+  samplerate: 44100
+  samples: 230202
+  date: 2009-06-09T09:54:02Z
+- prompt: w0480
+  text: She maintains a strong love hate relationship with Fleischman.
+  file: wav/w0480.wav
+  samplerate: 44100
+  samples: 279594
+  date: 2009-06-09T09:54:22Z
+- prompt: w0481a
+  text: The EH update came a year later bringing the new Red motor, providing better performance than the previous Grey motor.
+  file: wav/w0481a.wav
+  samplerate: 44100
+  samples: 108927
+  date: 2009-06-09T09:54:30Z
+- prompt: w0481
+  text: The EH update came a year later bringing the new Red motor, providing better performance than the previous Grey motor.
+  file: wav/w0481.wav
+  samplerate: 44100
+  samples: 452466
+  date: 2009-06-09T09:54:58Z
+- prompt: w0482
+  text: The Pink Ladies sit on one side of the lunchroom, and the Burger Palace Boys sit on the other.
+  file: wav/w0482.wav
+  samplerate: 44100
+  samples: 378378
+  date: 2009-06-09T09:55:14Z
+- prompt: w0483
+  text: Is it required by law or just a tradition?
+  file: wav/w0483.wav
+  samplerate: 44100
+  samples: 217854
+  date: 2009-06-09T09:55:26Z
+- prompt: w0484
+  text: She crooks her finger twenty thousand contented men lay down.
+  file: wav/w0484.wav
+  samplerate: 44100
+  samples: 276507
+  date: 2009-06-09T09:55:38Z
+- prompt: w0485
+  text: Two additional high schools are located outside of Longwood, but draw some students from within the city limits.
+  file: wav/w0485.wav
+  samplerate: 44100
+  samples: 433944
+  date: 2009-06-09T09:55:56Z
+- prompt: w0486
+  text: Seed has also been found in cow manure.
+  file: wav/w0486.wav
+  samplerate: 44100
+  samples: 208593
+  date: 2009-06-09T09:56:06Z
+- prompt: w0487
+  text: If we draw it, we get a parabola.
+  file: wav/w0487.wav
+  samplerate: 44100
+  samples: 190071
+  date: 2009-06-09T09:56:18Z
+- prompt: w0488
+  text: Upon entering the camp, the partisans found only ruins, soot, smoke, and dead bodies.
+  file: wav/w0488.wav
+  samplerate: 44100
+  samples: 350595
+  date: 2009-06-09T09:56:42Z
+- prompt: w0489
+  text: Baton Rouge has a very successful rugby team, the Baton Rouge Redfish.
+  file: wav/w0489.wav
+  samplerate: 44100
+  samples: 304290
+  date: 2009-06-09T09:57:10Z
+- prompt: w0490a
+  text: Show is performed in front of stage in the showroom.
+  file: wav/w0490a.wav
+  samplerate: 44100
+  samples: 170226
+  date: 2009-06-09T09:57:20Z
+- prompt: w0490
+  text: Show is performed in front of stage in the showroom.
+  file: wav/w0490.wav
+  samplerate: 44100
+  samples: 248724
+  date: 2009-06-09T09:57:32Z
+- prompt: w0491
+  text: His reason for wearing the mask was not expressly divulged, but in one episode, Lights!
+  file: wav/w0491.wav
+  samplerate: 44100
+  samples: 356769
+  date: 2009-06-09T09:57:46Z
+- prompt: w0492a
+  text: He has been offered the Governorship of Maharashtra instead.
+  file: wav/w0492a.wav
+  samplerate: 44100
+  samples: 273420
+  date: 2009-06-09T09:57:58Z
+- prompt: w0493a
+  text: Due to neighborhood autonomy, some roads suddenly change names without warning.
+  file: wav/w0493a.wav
+  samplerate: 44100
+  samples: 296352
+  date: 2009-06-09T09:58:12Z
+- prompt: w0492
+  text: He has been offered the Governorship of Maharashtra instead.
+  file: wav/w0492.wav
+  samplerate: 44100
+  samples: 273420
+  date: 2009-06-09T09:58:42Z
+- prompt: w0493
+  text: Due to neighborhood autonomy, some roads suddenly change names without warning.
+  file: wav/w0493.wav
+  samplerate: 44100
+  samples: 332073
+  date: 2009-06-09T09:59:12Z
+- prompt: w0494
+  text: It was designed by Auguste Perret.
+  file: wav/w0494.wav
+  samplerate: 44100
+  samples: 193158
+  date: 2009-06-09T10:00:04Z
+- prompt: w0495
+  text: Zagreb is also the Episcopal see of the Metropolitan of Zagreb, Ljubljana and all of Italy of the Serbian Orthodox Church.
+  file: wav/w0495.wav
+  samplerate: 44100
+  samples: 464814
+  date: 2009-06-09T10:01:28Z
+- prompt: w0496
+  text: The successor to Delors was Jacques Santer.
+  file: wav/w0496.wav
+  samplerate: 44100
+  samples: 220941
+  date: 2009-06-09T10:02:02Z
+- prompt: w0497a
+  text: We really should'nt have genre categories for genres without articles.
+  file: wav/w0497a.wav
+  samplerate: 44100
+  samples: 230202
+  date: 2009-06-09T10:02:14Z
+- prompt: w0497
+  text: We really should'nt have genre categories for genres without articles.
+  file: wav/w0497.wav
+  samplerate: 44100
+  samples: 301203
+  date: 2009-06-09T10:02:24Z
+- prompt: w0498
+  text: Hall joked that the two were in Africa with Dave Chappelle.
+  file: wav/w0498.wav
+  samplerate: 44100
+  samples: 270333
+  date: 2009-06-09T10:03:52Z
+- prompt: w0499
+  text: I wish people would stop with doing this.
+  file: wav/w0499.wav
+  samplerate: 44100
+  samples: 214767
+  date: 2009-06-09T10:04:04Z
+- prompt: w0500
+  text: Like the Elizabeth, the Nautilus had a smooth voyage across the ocean.
+  file: wav/w0500.wav
+  samplerate: 44100
+  samples: 304290
+  date: 2009-06-09T10:04:16Z
+- prompt: w0273
+  text: An estimated one point seven million Cambodians or twenty per cent of the population died during Khmer Rouge Regime.
+  file: wav/w0273.wav
+  samplerate: 44100
+  samples: 446292
+  date: 2009-06-09T10:07:20Z
+- prompt: topic41
+  text: What do you do for a living?
+  file: wav/topic41.wav
+  samplerate: 44100
+  samples: 174636
+  date: 2009-06-09T10:08:30Z
+- prompt: topic42
+  text: Do you like your work?
+  file: wav/topic42.wav
+  samplerate: 44100
+  samples: 156114
+  date: 2009-06-09T10:08:36Z
+- prompt: topic43
+  text: How do you get on with your boss?
+  file: wav/topic43.wav
+  samplerate: 44100
+  samples: 190071
+  date: 2009-06-09T10:08:44Z
+- prompt: topic44
+  text: Have you got any plans for holidays?
+  file: wav/topic44.wav
+  samplerate: 44100
+  samples: 199332
+  date: 2009-06-09T10:08:52Z
+- prompt: topic45
+  text: Where would you like to go on holidays?
+  file: wav/topic45.wav
+  samplerate: 44100
+  samples: 208593
+  date: 2009-06-09T10:09:00Z
+- prompt: topic46
+  text: Tell me about your nicest holidays.
+  file: wav/topic46.wav
+  samplerate: 44100
+  samples: 196245
+  date: 2009-06-09T10:09:08Z
+- prompt: topic47
+  text: Is there anything you would like to add to that?
+  file: wav/topic47.wav
+  samplerate: 44100
+  samples: 236376
+  date: 2009-06-09T10:09:18Z
+- prompt: topic48
+  text: Is that all you have to say on the matter?
+  file: wav/topic48.wav
+  samplerate: 44100
+  samples: 217854
+  date: 2009-06-09T10:09:26Z
+- prompt: topic49
+  text: Do you enjoy doing it?
+  file: wav/topic49.wav
+  samplerate: 44100
+  samples: 156114
+  date: 2009-06-09T10:09:34Z
+- prompt: topic50
+  text: What do you like about them?
+  file: wav/topic50.wav
+  samplerate: 44100
+  samples: 174636
+  date: 2009-06-09T10:09:40Z
+- prompt: topic51
+  text: What would you say is typical?
+  file: wav/topic51.wav
+  samplerate: 44100
+  samples: 180810
+  date: 2009-06-09T10:09:48Z
+- prompt: topic52
+  text: What is it that you like most about them?
+  file: wav/topic52.wav
+  samplerate: 44100
+  samples: 214767
+  date: 2009-06-09T10:09:56Z
+- prompt: topic53
+  text: Will you enjoy doing that?
+  file: wav/topic53.wav
+  samplerate: 44100
+  samples: 168462
+  date: 2009-06-09T10:10:04Z
+- prompt: topic54
+  text: Do you think it is feasible to do that?
+  file: wav/topic54.wav
+  samplerate: 44100
+  samples: 208593
+  date: 2009-06-09T10:10:12Z
+- prompt: topic55
+  text: Okay, so can you tell me what your favourite things to do on holiday are?
+  file: wav/topic55.wav
+  samplerate: 44100
+  samples: 313551
+  date: 2009-06-09T10:10:38Z
+- prompt: topic56
+  text: So what would be your favourite places to go?
+  file: wav/topic56.wav
+  samplerate: 44100
+  samples: 227115
+  date: 2009-06-09T10:10:46Z
+- prompt: topic57
+  text: So what are your favourite TV series?
+  file: wav/topic57.wav
+  samplerate: 44100
+  samples: 202419
+  date: 2009-06-09T10:10:54Z
+- prompt: topic58
+  text: So what is your favourite kind of music?
+  file: wav/topic58.wav
+  samplerate: 44100
+  samples: 211680
+  date: 2009-06-09T10:11:04Z
+- prompt: topic59
+  text: What are your favourite things to eat?
+  file: wav/topic59.wav
+  samplerate: 44100
+  samples: 205506
+  date: 2009-06-09T10:11:12Z
+- prompt: topic60
+  text: What is your favourite music?
+  file: wav/topic60.wav
+  samplerate: 44100
+  samples: 177723
+  date: 2009-06-09T10:11:20Z
+- prompt: topic61
+  text: Tell me what are your favourite clothes?
+  file: wav/topic61.wav
+  samplerate: 44100
+  samples: 211680
+  date: 2009-06-09T10:11:28Z
+- prompt: topic62
+  text: What is your favourite technological trick or piece of equipment?
+  file: wav/topic62.wav
+  samplerate: 44100
+  samples: 288855
+  date: 2009-06-09T10:11:38Z
+- prompt: topic63
+  text: From all the places you have been to, which is your favourite city?
+  file: wav/topic63.wav
+  samplerate: 44100
+  samples: 295029
+  date: 2009-06-09T10:11:48Z
+- prompt: topic64
+  text: What is your favourite sport to watch?
+  file: wav/topic64.wav
+  samplerate: 44100
+  samples: 205506
+  date: 2009-06-09T10:11:56Z
+- prompt: topic65
+  text: Do you ever wonder if you are completely normal?
+  file: wav/topic65.wav
+  samplerate: 44100
+  samples: 236376
+  date: 2009-06-09T10:12:06Z
+- prompt: topic66
+  text: Do you ever feel that you use too many long words?
+  file: wav/topic66.wav
+  samplerate: 44100
+  samples: 242550
+  date: 2009-06-09T10:12:14Z
+- prompt: topic67
+  text: How did you meet your wife?
+  file: wav/topic67.wav
+  samplerate: 44100
+  samples: 171549
+  date: 2009-06-09T10:12:22Z
+- prompt: topic68
+  text: How long after you met her did you marry her?
+  file: wav/topic68.wav
+  samplerate: 44100
+  samples: 227115
+  date: 2009-06-09T10:12:30Z
+- prompt: topic69
+  text: Did you plan on having children or was it an accident?
+  file: wav/topic69.wav
+  samplerate: 44100
+  samples: 254898
+  date: 2009-06-09T10:12:40Z
+- prompt: topic70
+  text: Who is the most beautiful woman you know?
+  file: wav/topic70.wav
+  samplerate: 44100
+  samples: 214767
+  date: 2009-06-09T10:12:48Z
+- prompt: topic71
+  text: Which city are you most looking forward to bringing your children to?
+  file: wav/topic71.wav
+  samplerate: 44100
+  samples: 301203
+  date: 2009-06-09T10:12:58Z
+- prompt: topic72
+  text: What aspect of parenting are you most looking forward to?
+  file: wav/topic72.wav
+  samplerate: 44100
+  samples: 264159
+  date: 2009-06-09T10:13:08Z
+- prompt: topic73
+  text: What aspect are you least looking forward to?
+  file: wav/topic73.wav
+  samplerate: 44100
+  samples: 227115
+  date: 2009-06-09T10:13:18Z
+- prompt: topic74
+  text: Are you looking forward or not looking forward to them learning to drive?
+  file: wav/topic74.wav
+  samplerate: 44100
+  samples: 313551
+  date: 2009-06-09T10:13:28Z
+- prompt: topic75
+  text: What is your opinion about American Football?
+  file: wav/topic75.wav
+  samplerate: 44100
+  samples: 227115
+  date: 2009-06-09T10:13:36Z
+- prompt: topic76
+  text: Have you learnt any new sports when you have been travelling?
+  file: wav/topic76.wav
+  samplerate: 44100
+  samples: 276507
+  date: 2009-06-09T10:13:46Z
+- prompt: topic77
+  text: How was your experience learning to drive with your parents?
+  file: wav/topic77.wav
+  samplerate: 44100
+  samples: 273420
+  date: 2009-06-09T10:13:56Z
+- prompt: pop145
+  text: What sort of things make you happy?
+  file: wav/pop145.wav
+  samplerate: 44100
+  samples: 196245
+  date: 2009-06-09T10:17:18Z
+- prompt: pop146
+  text: What sort of things?
+  file: wav/pop146.wav
+  samplerate: 44100
+  samples: 149940
+  date: 2009-06-09T10:17:26Z
+- prompt: w0501
+  text: David wasn't very smooth socially.
+  file: wav/w0501.wav
+  samplerate: 44100
+  samples: 193158
+  date: 2009-06-09T11:12:28Z
+- prompt: w0502a
+  text: I think Voltaire may have been another with Tolstoy.
+  file: wav/w0502a.wav
+  samplerate: 44100
+  samples: 180810
+  date: 2009-06-09T11:12:40Z
+- prompt: w0502b
+  text: I think Voltaire may have been another with Tolstoy.
+  file: wav/w0502b.wav
+  samplerate: 44100
+  samples: 152586
+  date: 2009-06-09T11:12:54Z
+- prompt: w0502c
+  text: I think Voltaire may have been another with Tolstoy.
+  file: wav/w0502c.wav
+  samplerate: 44100
+  samples: 181251
+  date: 2009-06-09T11:13:02Z
+- prompt: w0502
+  text: I think Voltaire may have been another with Tolstoy.
+  file: wav/w0502.wav
+  samplerate: 44100
+  samples: 248724
+  date: 2009-06-09T11:13:12Z
+- prompt: w0503
+  text: Madeline and Helen beg Ernest to repair their incredibly damaged bodies.
+  file: wav/w0503.wav
+  samplerate: 44100
+  samples: 310464
+  date: 2009-06-09T11:13:46Z
+- prompt: w0504
+  text: Soil is used in making spinach.
+  file: wav/w0504.wav
+  samplerate: 44100
+  samples: 183897
+  date: 2009-06-09T11:13:58Z
+- prompt: w0505
+  text: It would not be the same with Elisabeth Schwartzkopf.
+  file: wav/w0505.wav
+  samplerate: 44100
+  samples: 251811
+  date: 2009-06-09T11:14:34Z
+- prompt: w0506
+  text: He can do that sort of thing now.
+  file: wav/w0506.wav
+  samplerate: 44100
+  samples: 190071
+  date: 2009-06-09T11:14:46Z
+- prompt: w0507a
+  text: I think there is some genre elitism here.
+  file: wav/w0507a.wav
+  samplerate: 44100
+  samples: 153468
+  date: 2009-06-09T11:14:56Z
+- prompt: w0507
+  text: I think there is some genre elitism here.
+  file: wav/w0507.wav
+  samplerate: 44100
+  samples: 214767
+  date: 2009-06-09T11:15:10Z
+- prompt: w0508
+  text: Reverting a legitimate question on from Amsterdam on his talk page as vandalism is particulary nauseating.
+  file: wav/w0508.wav
+  samplerate: 44100
+  samples: 415422
+  date: 2009-06-09T11:15:26Z
+- prompt: w0509
+  text: Another feature of the wing was its washout.
+  file: wav/w0509.wav
+  samplerate: 44100
+  samples: 224028
+  date: 2009-06-09T11:15:36Z
+- prompt: w0510
+  text: It also had a fifth column that opened and Karl Gerhard stepped out.
+  file: wav/w0510.wav
+  samplerate: 44100
+  samples: 298116
+  date: 2009-06-09T11:15:50Z
+- prompt: w0511
+  text: The authors were Alan Hodgson, Ian Thomas, Gwen Thomas and John Ward.
+  file: wav/w0511.wav
+  samplerate: 44100
+  samples: 301203
+  date: 2009-06-09T11:16:04Z
+- prompt: w0512
+  text: Electors pledged to a dead candidate are free to vote for whomever they wish just as electors pledged to a live candidate are.
+  file: wav/w0512.wav
+  samplerate: 44100
+  samples: 477162
+  date: 2009-06-09T11:16:20Z
+- prompt: w0513
+  text: The I sectors are numbered i eight through i eighteen.
+  file: wav/w0513.wav
+  samplerate: 44100
+  samples: 254898
+  date: 2009-06-09T11:16:34Z
+- prompt: w0514
+  text: The basic hip game outfit consisted of a loincloth, sometimes augmented with leather hip guards.
+  file: wav/w0514.wav
+  samplerate: 44100
+  samples: 384552
+  date: 2009-06-09T11:16:48Z
+- prompt: w0515
+  text: 'Variants: Section source: Baugher.'
+  file: wav/w0515.wav
+  samplerate: 44100
+  samples: 193158
+  date: 2009-06-09T11:17:00Z
+- prompt: w0516a
+  text: In terms of sheer ability I think Gilles was on a different plane to the other drivers.
+  file: wav/w0516a.wav
+  samplerate: 44100
+  samples: 351477
+  date: 2009-06-09T11:17:14Z
+- prompt: w0516
+  text: In terms of sheer ability I think Gilles was on a different plane to the other drivers.
+  file: wav/w0516.wav
+  samplerate: 44100
+  samples: 356769
+  date: 2009-06-09T11:17:32Z
+- prompt: w0517
+  text: Senior horses who age out of the junior horse divisions at age six must be shown in a curb.
+  file: wav/w0517.wav
+  samplerate: 44100
+  samples: 369117
+  date: 2009-06-09T11:17:48Z
+- prompt: w0518
+  text: In place of a garage there was a carport.
+  file: wav/w0518.wav
+  samplerate: 44100
+  samples: 214767
+  date: 2009-06-09T11:17:58Z
+- prompt: w0519
+  text: I for one often get the oops effect.
+  file: wav/w0519.wav
+  samplerate: 44100
+  samples: 199332
+  date: 2009-06-09T11:18:10Z
+- prompt: w0520
+  text: That name was corrupted to Montville.
+  file: wav/w0520.wav
+  samplerate: 44100
+  samples: 202419
+  date: 2009-06-09T11:18:22Z
+- prompt: w0521a
+  text: If a tip is left mushroomed, the shots will be less consistent and may lead to more miscues and scratches.
+  file: wav/w0521a.wav
+  samplerate: 44100
+  samples: 415422
+  date: 2009-06-09T11:18:38Z
+- prompt: w0521
+  text: If a tip is left mushroomed, the shots will be less consistent and may lead to more miscues and scratches.
+  file: wav/w0521.wav
+  samplerate: 44100
+  samples: 415422
+  date: 2009-06-09T11:18:50Z
+- prompt: w0522
+  text: In addition, some held the media responsible of giving Raj undue publicity.
+  file: wav/w0522.wav
+  samplerate: 44100
+  samples: 319725
+  date: 2009-06-09T11:19:22Z
+- prompt: w0523
+  text: Aberdeen replaced him with Roy Aitken.
+  file: wav/w0523.wav
+  samplerate: 44100
+  samples: 205506
+  date: 2009-06-09T11:19:32Z
+- prompt: w0524
+  text: The mig thirty one was sought after for a variety of long range missions.
+  file: wav/w0524.wav
+  samplerate: 44100
+  samples: 313551
+  date: 2009-06-09T11:19:46Z
+- prompt: w0525
+  text: 'The buses that serve South Chicago are:'
+  file: wav/w0525.wav
+  samplerate: 44100
+  samples: 208593
+  date: 2009-06-09T11:19:58Z
+- prompt: w0526
+  text: Just how long I don't have the answer.
+  file: wav/w0526.wav
+  samplerate: 44100
+  samples: 205506
+  date: 2009-06-09T11:20:10Z
+- prompt: w0527
+  text: Senators John McCain and Russ Feingold are supporters.
+  file: wav/w0527.wav
+  samplerate: 44100
+  samples: 254898
+  date: 2009-06-09T11:20:22Z
+- prompt: w0528
+  text: The Souls of the East follow thee, and the Souls of the West praise thee.
+  file: wav/w0528.wav
+  samplerate: 44100
+  samples: 313551
+  date: 2009-06-09T11:20:36Z
+- prompt: w0529
+  text: To be a Yuppie is to be a loathsome undesirable creature.
+  file: wav/w0529.wav
+  samplerate: 44100
+  samples: 264159
+  date: 2009-06-09T11:20:48Z
+- prompt: w0530
+  text: However, he is best known today for his numerous large genre scenes depicting The King Drinks and As the Old Sing, So Pipe the Young.
+  file: wav/w0530.wav
+  samplerate: 44100
+  samples: 498771
+  date: 2009-06-09T11:21:06Z
+- prompt: w0531
+  text: The DeWolf family was among the earliest settlers of Bristol.
+  file: wav/w0531.wav
+  samplerate: 44100
+  samples: 276507
+  date: 2009-06-09T11:21:28Z
+- prompt: w0532
+  text: Artist and author Grey was also an artist who painted in both oils and watercolors.
+  file: wav/w0532.wav
+  samplerate: 44100
+  samples: 344421
+  date: 2009-06-09T11:21:44Z
+- prompt: w0533
+  text: Spins are judged on correctness, smoothness, and cadence.
+  file: wav/w0533.wav
+  samplerate: 44100
+  samples: 264159
+  date: 2009-06-09T11:21:56Z
+- prompt: w0534
+  text: They change regularly and can vary by channel.
+  file: wav/w0534.wav
+  samplerate: 44100
+  samples: 230202
+  date: 2009-06-09T11:22:08Z
+- prompt: w0535
+  text: The governor can exercise complete executive authority if they wish through blanket powers reserved to them in the constitution.
+  file: wav/w0535.wav
+  samplerate: 44100
+  samples: 483336
+  date: 2009-06-09T11:22:26Z
+- prompt: w0536
+  text: Now you get bands like Fall Out Boy that are basically created in the studio.
+  file: wav/w0536.wav
+  samplerate: 44100
+  samples: 325899
+  date: 2009-06-09T11:22:40Z
+- prompt: w0537
+  text: He plays a card player who mentors a headstrong protege.
+  file: wav/w0537.wav
+  samplerate: 44100
+  samples: 261072
+  date: 2009-06-09T11:22:52Z
+- prompt: w0538
+  text: His uncle is retired professional wrestler Jacques Rougeau.
+  file: wav/w0538.wav
+  samplerate: 44100
+  samples: 270333
+  date: 2009-06-09T11:23:04Z
+- prompt: w0539
+  text: While in college, Crow sang in a local band, Cashmere.
+  file: wav/w0539.wav
+  samplerate: 44100
+  samples: 254898
+  date: 2009-06-09T11:23:18Z
+- prompt: w0540
+  text: Therefore we take this as the definition of x zero.
+  file: wav/w0540.wav
+  samplerate: 44100
+  samples: 245637
+  date: 2009-06-09T11:23:30Z
+- prompt: w0541
+  text: The latter afforded exceptional shine and smoothness.
+  file: wav/w0541.wav
+  samplerate: 44100
+  samples: 251811
+  date: 2009-06-09T11:23:42Z
+- prompt: w0542
+  text: The model also assumed a solid, smooth Earth.
+  file: wav/w0542.wav
+  samplerate: 44100
+  samples: 227115
+  date: 2009-06-09T11:23:54Z
+- prompt: w0543
+  text: The death of the author of the Roman Bourgeois, however, put an end to this quarrel.
+  file: wav/w0543.wav
+  samplerate: 44100
+  samples: 347508
+  date: 2009-06-09T11:24:08Z
+- prompt: w0544
+  text: In other words there can be many Invoices per Order and many Orders per Invoice.
+  file: wav/w0544.wav
+  samplerate: 44100
+  samples: 335160
+  date: 2009-06-09T11:24:22Z
+- prompt: w0545
+  text: He was very imaginative from his boyhood.
+  file: wav/w0545.wav
+  samplerate: 44100
+  samples: 214767
+  date: 2009-06-09T11:24:34Z
+- prompt: w0546
+  text: Thus it is essentially an epithet.
+  file: wav/w0546.wav
+  samplerate: 44100
+  samples: 193158
+  date: 2009-06-09T11:24:44Z
+- prompt: w0547
+  text: Superb sharpness, shadow details and contrast.
+  file: wav/w0547.wav
+  samplerate: 44100
+  samples: 230202
+  date: 2009-06-09T11:24:56Z
+- prompt: w0548
+  text: However, it has low recurring costs for each part, thus forgings become more economical with more volume.
+  file: wav/w0548.wav
+  samplerate: 44100
+  samples: 412335
+  date: 2009-06-09T11:25:12Z
+- prompt: w0549
+  text: He skated a good long program and finished sixth.
+  file: wav/w0549.wav
+  samplerate: 44100
+  samples: 239463
+  date: 2009-06-09T11:25:24Z
+- prompt: w0550
+  text: The reference desk is not a soapbox.
+  file: wav/w0550.wav
+  samplerate: 44100
+  samples: 199332
+  date: 2009-06-09T11:25:36Z
+- prompt: w0551
+  text: The high low split version of Omaha is called many different names, such as Omaha Eight or better, Omaha HiLo or omaha eight.
+  file: wav/w0551.wav
+  samplerate: 44100
+  samples: 474075
+  date: 2009-06-09T11:26:38Z
+- prompt: w0552
+  text: The naval base at Hanko was to be besieged.
+  file: wav/w0552.wav
+  samplerate: 44100
+  samples: 220941
+  date: 2009-06-09T11:26:48Z
+- prompt: w0553
+  text: 'It spans three genres: suspense thriller, romance, and comedy.'
+  file: wav/w0553.wav
+  samplerate: 44100
+  samples: 279594
+  date: 2009-06-09T11:27:02Z
+- prompt: w0554
+  text: The second single, Bug a Boo, hit the Top forty pop charts.
+  file: wav/w0554.wav
+  samplerate: 44100
+  samples: 270333
+  date: 2009-06-09T11:27:14Z
+- prompt: w0555
+  text: They may also meow at their favourite toy as they play with it.
+  file: wav/w0555.wav
+  samplerate: 44100
+  samples: 282681
+  date: 2009-06-09T11:27:28Z
+- prompt: w0556
+  text: I bet you can build a song around that.
+  file: wav/w0556.wav
+  samplerate: 44100
+  samples: 208593
+  date: 2009-06-09T11:27:38Z
+- prompt: w0557
+  text: This page shows some examples.
+  file: wav/w0557.wav
+  samplerate: 44100
+  samples: 180810
+  date: 2009-06-09T11:27:50Z
+- prompt: w0558
+  text: Later in the war, Jung resigned.
+  file: wav/w0558.wav
+  samplerate: 44100
+  samples: 186984
+  date: 2009-06-09T11:28:00Z
+- prompt: w0559
+  text: While I sympathize, I cannot condone that sort of behavior.
+  file: wav/w0559.wav
+  samplerate: 44100
+  samples: 270333
+  date: 2009-06-09T11:28:14Z
+- prompt: w0560
+  text: Likewise, spirit levels will always be parallel to the geoid.
+  file: wav/w0560.wav
+  samplerate: 44100
+  samples: 276507
+  date: 2009-06-09T11:28:26Z
