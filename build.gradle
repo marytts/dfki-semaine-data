@@ -1,3 +1,23 @@
 group 'de.dfki.mary'
 version '0.1-SNAPSHOT'
 description 'Speech databases for the SEMAINE TTS voices'
+
+import org.yaml.snakeyaml.*
+
+subprojects {
+    task generateYaml {
+        def yamlFile = file("dfki-$project.name-data.yaml")
+        doLast {
+            def wavFiles = fileTree('wav').include('*.wav').files
+            def data = wavFiles.collect { file ->
+                [
+                        prompt: file.name - '.wav',
+                        file  : "wav/$file.name" as String
+                ]
+            }
+            def opts = new DumperOptions()
+            opts.defaultFlowStyle = DumperOptions.FlowStyle.BLOCK
+            yamlFile.text = new Yaml(opts).dump(data)
+        }
+    }
+}
