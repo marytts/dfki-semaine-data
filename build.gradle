@@ -5,8 +5,12 @@ description 'Speech databases for the SEMAINE TTS voices'
 import org.yaml.snakeyaml.*
 
 subprojects {
+    ext {
+        yamlFile = file("dfki-$project.name-data.yaml")
+        flacFile = file("dfki-$project.name-data.flac")
+    }
+
     task processYaml {
-        def yamlFile = file("dfki-$project.name-data.yaml")
         doLast {
             def data = new Yaml().load(yamlFile.text)
             def end = 0.0
@@ -19,6 +23,18 @@ subprojects {
             def opts = new DumperOptions()
             opts.defaultFlowStyle = DumperOptions.FlowStyle.BLOCK
             yamlFile.text = new Yaml(opts).dump(data)
+        }
+    }
+
+    task concatenateAudio(type: Exec) {
+        def listFile = file("wav.txt")
+        commandLine 'ffmpeg', '-f', 'concat', '-i', listFile, '-acodec', 'flac', '-compression_level', 12, flacFile
+        doFirst {
+            listFile.withWriter { writer ->
+                new Yaml().load(yamlFile.text).each {
+                    writer.println "file '$it.file'"
+                }
+            }
         }
     }
 }
