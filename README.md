@@ -1,4 +1,4 @@
-# dfki-semaine-data
+# DFKI SEMAINE Data
 
 Speech databases for the British English TTS voices in the [SEMAINE project](http://www.semaine-project.eu/).
 
@@ -16,6 +16,7 @@ There are four speakers, each acting out a character in a specific expressive sp
 ## Format
 
 The audio data is provided in a single [FLAC](https://xiph.org/flac/) file per subset, recorded at 44.1 kHz sampling frequency with 16 bit per sample.
+
 The textual data is provided in a single [YAML](http://yaml.org/) file per subset.
 These files are a list of utterances, each of which contains
 - a **prompt** code (file basename),
