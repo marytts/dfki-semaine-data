@@ -9,7 +9,9 @@ There are four speakers, each acting out a character in a specific expressive sp
 | Female                                                                    | Male                                                                |
 | :-----------------------------------------------------------------------: | :-----------------------------------------------------------------: |
 | ![](poppy/Poppy-100.jpg)<br>__Poppy__ is outgoing and optimistic          | ![](obadiah/Obadiah-100.jpg)<br>__Obadiah__ is gloomy and depressed |
+| Duration 1h46m49s                                                         | Duration 2h03m53s                                                   |
 | ![](prudence/Prudence-100.jpg)<br>__Prudence__ is pragmatic and practical | ![](spike/Spike-100.jpg)<br>__Spike__ is angry and argumentative    |
+| Duration 3h45m47s                                                         | Duration 2h14m05s                                                   |
 
 ## Format
 
