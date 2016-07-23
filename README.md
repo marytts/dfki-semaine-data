@@ -8,17 +8,25 @@ There are four speakers, each acting out a character in a specific expressive sp
 
 ### Obadiah (male)
 
+![](obadiah/Obadiah-100.jpg)
+
 Obadiah is gloomy and depressed.
 
 ### Poppy (female)
+
+![](poppy/Poppy-100.jpg)
 
 Poppy is outgoing (extraverted) and optimistic.
 
 ### Prudence (female)
 
+![](prudence/Prudence-100.jpg)
+
 Prudence is pragmatic and practical.
 
 ### Spike (male)
+
+![](spike/Spike-100.jpg)
 
 Spike is angry and argumentative.
 
