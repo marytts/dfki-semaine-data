@@ -57,7 +57,7 @@ For example,
 
 ## Downloading the data
 
-Use the links on the [releases](releases) page.
+Use the links on the [releases](../../releases) page.
 
 ## Converting the data
 
