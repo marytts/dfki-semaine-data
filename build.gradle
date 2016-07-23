@@ -8,9 +8,9 @@ subprojects {
         flacFile = file("dfki-$project.name-data.flac")
     }
 
-    task extractText(type: ExtractText)
+    task extractText(type: ExtractText, description: "Extract text files to $buildDir.name/text")
 
-    task extractLab(type: ExtractLab)
+    task extractLab(type: ExtractLab, description: "Extract label files to $buildDir.name/lab")
 
-    task extractWav(type: ExtractWav)
+    task extractWav(type: ExtractWav, description: "Extract audio files to $buildDir.name/wav")
 }
