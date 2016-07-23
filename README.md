@@ -6,29 +6,10 @@ Speech databases for the British English TTS voices in the [SEMAINE project](htt
 
 There are four speakers, each acting out a character in a specific expressive speaking style.
 
-### Obadiah (male)
-
-![](obadiah/Obadiah-100.jpg)
-
-Obadiah is gloomy and depressed.
-
-### Poppy (female)
-
-![](poppy/Poppy-100.jpg)
-
-Poppy is outgoing (extraverted) and optimistic.
-
-### Prudence (female)
-
-![](prudence/Prudence-100.jpg)
-
-Prudence is pragmatic and practical.
-
-### Spike (male)
-
-![](spike/Spike-100.jpg)
-
-Spike is angry and argumentative.
+| Female                                                                    | Male                                                                |
+| :-----------------------------------------------------------------------: | :-----------------------------------------------------------------: |
+| ![](poppy/Poppy-100.jpg)<br>__Poppy__ is outgoing and optimistic          | ![](obadiah/Obadiah-100.jpg)<br>__Obadiah__ is gloomy and depressed |
+| ![](prudence/Prudence-100.jpg)<br>__Prudence__ is pragmatic and practical | ![](spike/Spike-100.jpg)<br>__Spike__ is angry and argumentative    |
 
 ## Format
 
