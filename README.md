@@ -67,3 +67,11 @@ After cloning or downloading and unpacking this repository, run `./gradlew tasks
 ### Prerequisites
 
 You will need [Java](https://www.java.com/) to run the conversion tasks. Extracting the utterances to WAV files also requires [`sox`](http://sox.sourceforge.net/) to be installed.
+
+### Copyright and license
+
+Copyright 2009 [DFKI GmbH](http://dfki.de/).
+
+[![Creative Commons License](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-nc-sa.svg)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
