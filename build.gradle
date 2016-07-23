@@ -41,6 +41,18 @@ subprojects {
         }
     }
 
+    task addMetadataToAudio(type: Exec) {
+        def voiceName = projectDir.name.capitalize()
+        commandLine 'metaflac',
+                '--set-tag=DATE=2009',
+                '--set-tag=CONTACT=DFKI GmbH',
+                '--set-tag=LICENSE=https://creativecommons.org/licenses/by-nc-sa/4.0/',
+                "--set-tag=TITLE=$voiceName",
+                "--set-tag=DESCRIPTION=Speech database for the DFKI $voiceName TTS voices from the SEMAINE project",
+                "--import-picture-from=$voiceName-100.jpg",
+                flacFile
+    }
+
     task extractText(type: ExtractText)
 
     task extractLab(type: ExtractLab)
