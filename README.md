@@ -48,16 +48,16 @@ For example,
 
 ## Downloading the data
 
-Use the links on the [releases](../../releases) page.
+Use the links on the [releases](../../releases) page, or run the `downloadAudio` task (see below).
 
 ## Converting the data
 
-For convenience, the utterances for each subset can be be extracted from the YAML and FLAC files using simple commands.
+For convenience, the utterances for each subset can be be extracted from the YAML and FLAC files using simple commands to run [Gradle](https://gradle.org/) tasks.
 After cloning or downloading and unpacking this repository, run `./gradlew tasks` (or `gradlew tasks` on Windows) for details.
 
 ### Prerequisites
 
-You will need [Java](https://www.java.com/) to run the conversion tasks. Extracting the utterances to WAV files also requires [`sox`](http://sox.sourceforge.net/) to be installed.
+You will need [Java](https://www.java.com/) to run the tasks. Extracting the utterances to WAV files also requires [`sox`](http://sox.sourceforge.net/) to be installed.
 
 ### Copyright and license
 
