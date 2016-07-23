@@ -5,14 +5,14 @@ description 'Speech databases for the SEMAINE TTS voices'
 subprojects {
     ext {
         yamlFile = file("dfki-$project.name-data.yaml")
-        flacFile = file("dfki-$project.name-data.flac")
+        flacFile = file("$buildDir/dfki-$project.name-data.flac")
     }
 
     task extractText(type: ExtractText, description: "Extract text files to $buildDir.name/text")
 
     task extractLab(type: ExtractLab, description: "Extract label files to $buildDir.name/lab")
 
-    task downloadAudio(type: DownloadAudio, description: "Download audio file")
+    task downloadAudio(type: DownloadAudio, description: "Download audio file to $buildDir.name/$flacFile.name")
 
     task extractWav(type: ExtractWav, description: "Extract audio files to $buildDir.name/wav", dependsOn: downloadAudio)
 }
