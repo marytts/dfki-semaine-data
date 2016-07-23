@@ -12,5 +12,7 @@ subprojects {
 
     task extractLab(type: ExtractLab, description: "Extract label files to $buildDir.name/lab")
 
-    task extractWav(type: ExtractWav, description: "Extract audio files to $buildDir.name/wav")
+    task downloadAudio(type: DownloadAudio, description: "Download audio file")
+
+    task extractWav(type: ExtractWav, description: "Extract audio files to $buildDir.name/wav", dependsOn: downloadAudio)
 }
