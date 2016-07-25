@@ -3,7 +3,7 @@ import org.gradle.api.tasks.*
 
 import org.yaml.snakeyaml.Yaml
 
-class ExtractLab extends DefaultTask {
+class ExtractLabEnd extends DefaultTask {
 
     @InputFile
     File yamlFile = project.findProperty('yamlFile')
