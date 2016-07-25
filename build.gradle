@@ -13,11 +13,8 @@ subprojects {
     task processYaml << {
         def data = new Yaml().load(yamlFile.text)
         data.each {
-            def start = 0.0
             it.segments.each {
-                def dur = it.end - start
-                it << [dur: dur.round(6)]
-                start = it.end
+                it.remove 'end'
             }
         }
         def opts = new DumperOptions()
