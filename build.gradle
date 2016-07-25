@@ -1,5 +1,5 @@
 group 'de.dfki.mary'
-version '0.1'
+version '0.2-SNAPSHOT'
 description 'Speech databases for the SEMAINE TTS voices'
 
 import org.yaml.snakeyaml.*
