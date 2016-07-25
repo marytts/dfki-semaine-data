@@ -2,10 +2,24 @@ group 'de.dfki.mary'
 version '0.1'
 description 'Speech databases for the SEMAINE TTS voices'
 
+import org.yaml.snakeyaml.*
+
 subprojects {
     ext {
         yamlFile = file("dfki-$project.name-data.yaml")
         flacFile = file("$buildDir/dfki-$project.name-data.flac")
+    }
+
+    task processYaml << {
+        def data = new Yaml().load(yamlFile.text)
+        data.each {
+            it.segments.each {
+                it.remove 'end'
+            }
+        }
+        def opts = new DumperOptions()
+        opts.defaultFlowStyle = DumperOptions.FlowStyle.BLOCK
+        yamlFile.text = new Yaml(opts).dump(data)
     }
 
     task extractText(type: ExtractText, description: "Extract text files to $buildDir.name/text")
@@ -15,4 +29,8 @@ subprojects {
     task downloadAudio(type: DownloadAudio, description: "Download audio file to $buildDir.name/$flacFile.name")
 
     task extractWav(type: ExtractWav, description: "Extract audio files to $buildDir.name/wav", dependsOn: downloadAudio)
+
+    task clean(description: 'Delete the build directory') << {
+        delete fileTree(buildDir).exclude(flacFile.name)
+    }
 }

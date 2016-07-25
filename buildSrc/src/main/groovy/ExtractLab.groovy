@@ -17,8 +17,10 @@ class ExtractLab extends DefaultTask {
             if (utterance.segments) {
                 project.file("$destDir/${utterance.prompt}.lab").withWriter { writer ->
                     writer.println '#'
+                    def end = 0.0
                     utterance.segments.each { segment ->
-                        writer.println "$segment.end 125 $segment.lab"
+                        end += segment.dur
+                        writer.println "${end.round(6)} 125 $segment.lab"
                     }
                 }
             }

@@ -25,7 +25,7 @@ These files are a list of utterances, each of which contains
 - utterance **start** and **end** times (in seconds) in the FLAC file,
 - optionally, the phonetic **segments**, each of which has
     - a **lab**el (based on [SAMPA](http://www.phon.ucl.ac.uk/home/sampa/english.htm), `_` denotes silence), and
-    - **end** time (in seconds) _relative to that utterance's **start** time_
+    - its **dur**ation (in seconds)
 
 For example,
 ```yaml
@@ -36,15 +36,15 @@ For example,
   end: 7964.07
   segments:
   - lab: _
-    end: 0.99
+    dur: 0.99
   - lab: j
-    end: 1.07134
+    dur: 0.08134
   - lab: E
-    end: 1.2
+    dur: 0.12866
   - lab: s
-    end: 1.465
+    dur: 0.265
   - lab: _
-    end: 3.135
+    dur: 1.67
 ```
 
 ## Downloading the data
