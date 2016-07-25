@@ -27,6 +27,8 @@ subprojects {
 
     task extractText(type: ExtractText, description: "Extract text files to $buildDir.name/text")
 
+    task extractLab(type: ExtractLab, description: "Extract label files to $buildDir.name/lab")
+
     task extractLabEnd(type: ExtractLabEnd, description: "Extract label files to $buildDir.name/lab") {
         destDir = file("$buildDir/lab_end")
     }
