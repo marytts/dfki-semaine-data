@@ -10,18 +10,6 @@ subprojects {
         flacFile = file("$buildDir/dfki-$project.name-data.flac")
     }
 
-    task processYaml << {
-        def data = new Yaml().load(yamlFile.text)
-        data.each {
-            it.segments.each {
-                it.remove 'end'
-            }
-        }
-        def opts = new DumperOptions()
-        opts.defaultFlowStyle = DumperOptions.FlowStyle.BLOCK
-        yamlFile.text = new Yaml(opts).dump(data)
-    }
-
     task extractText(type: ExtractText, description: "Extract text files to $buildDir.name/text")
 
     task extractLab(type: ExtractLab, description: "Extract label files to $buildDir.name/lab")
