@@ -10,6 +10,23 @@ subprojects {
         flacFile = file("$buildDir/dfki-$project.name-data.flac")
     }
 
+    task calculateOffsets(type: Exec) {
+        def scriptFile = file("$rootDir/offsets.praat")
+        commandLine 'praat', '--run', scriptFile
+        doFirst {
+            def dir1 = 'wav'
+            def dir2 = 'wav_16k'
+            def fileSet = fileTree(dir1).include('*.wav').collect {
+                it.name
+            }.intersect(fileTree(dir2).include('*.wav').collect { it.name })
+            def list1File = file("$temporaryDir/wav1.lst")
+            list1File.text = fileSet.collect { file("$project.name/$dir1/$it") }.join('\n')
+            def list2File = file("$temporaryDir/wav2.lst")
+            list2File.text = fileSet.collect { file("$project.name/$dir2/$it") }.join('\n')
+            commandLine += [list1File, list2File]
+        }
+    }
+
     task extractText(type: ExtractText, description: "Extract text files to $buildDir.name/text")
 
     task extractLab(type: ExtractLab, description: "Extract label files to $buildDir.name/lab")
