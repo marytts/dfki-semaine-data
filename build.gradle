@@ -33,8 +33,9 @@ subprojects {
         def data = new Yaml().load(yamlFile.text)
         data.each {
             def prompt = it.prompt
-            if (it.segments) {
-                it.segments[0].dur = (it.segments[0].dur + offsets[prompt]).round(6)
+            if (it.segments && it.segments[0].dur <= 0) {
+                it.segments[1].dur = (it.segments[1].dur + it.segments[0].dur).round(6)
+                it.segments = it.segments.drop(1)
             }
         }
         def opts = new DumperOptions()
