@@ -45,7 +45,7 @@
   end: 31.58
   segments:
   - lab: _
-    dur: 0.655
+    dur: 1.11998
   - lab: h
     dur: 0.100164
   - lab: AI
@@ -71,7 +71,7 @@
   end: 35.19
   segments:
   - lab: _
-    dur: 0.65
+    dur: 0.23498
   - lab: h
     dur: 0.1
   - lab: '{'
@@ -111,7 +111,7 @@
   end: 39.22
   segments:
   - lab: _
-    dur: 0.641497
+    dur: 0.756477
   - lab: w
     dur: 0.113503
   - lab: E
@@ -165,7 +165,7 @@
   end: 42.9
   segments:
   - lab: _
-    dur: 0.683306
+    dur: 0.618286
   - lab: E
     dur: 0.151694
   - lab: m
@@ -211,7 +211,7 @@
   end: 49.1
   segments:
   - lab: _
-    dur: 0.638884
+    dur: 0.553864
   - lab: w
     dur: 0.106116
   - lab: E
@@ -291,7 +291,7 @@
   end: 53.2
   segments:
   - lab: _
-    dur: 0.655
+    dur: 0.58998
   - lab: s
     dur: 0.135
   - lab: '@U'
@@ -335,7 +335,7 @@
   end: 55.97
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.49498
   - lab: I
     dur: 0.035
   - lab: z
@@ -359,7 +359,7 @@
   end: 59.16
   segments:
   - lab: _
-    dur: 0.595
+    dur: 0.31998
   - lab: t
     dur: 0.165
   - lab: E
@@ -391,7 +391,7 @@
   end: 61.37
   segments:
   - lab: _
-    dur: 1.03
+    dur: 0.48498
   - lab: h
     dur: 0.081842
   - lab: AI
@@ -405,7 +405,7 @@
   end: 64.07
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.47498
   - lab: AI
     dur: 0.2
   - lab: m
@@ -427,7 +427,7 @@
   end: 66.91
   segments:
   - lab: _
-    dur: 0.67
+    dur: 0.58498
   - lab: h
     dur: 0.11
   - lab: aU
@@ -449,7 +449,7 @@
   end: 71.15
   segments:
   - lab: _
-    dur: 0.64
+    dur: 0.50498
   - lab: s
     dur: 0.17
   - lab: A
@@ -497,7 +497,7 @@
   end: 74.69
   segments:
   - lab: _
-    dur: 0.67
+    dur: 0.64498
   - lab: m
     dur: 0.11
   - lab: EI
@@ -539,7 +539,7 @@
   end: 78.65
   segments:
   - lab: _
-    dur: 0.655
+    dur: 0.56998
   - lab: h
     dur: 0.08
   - lab: '{'
@@ -581,7 +581,7 @@
   end: 82.05
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.56998
   - lab: A
     dur: 0.12
   - lab: r
@@ -613,7 +613,7 @@
   end: 86.78
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.74998
   - lab: I
     dur: 0.08
   - lab: z
@@ -681,7 +681,7 @@
   end: 99.01
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.93998
   - lab: AI
     dur: 0.1
   - lab: T
@@ -733,7 +733,7 @@
   end: 102.76
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.52998
   - lab: AI
     dur: 0.095
   - lab: k
@@ -777,7 +777,7 @@
   end: 107.42
   segments:
   - lab: _
-    dur: 0.645
+    dur: 0.36998
   - lab: dZ
     dur: 0.09
   - lab: V
@@ -837,7 +837,7 @@
   end: 111.24
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.55998
   - lab: I
     dur: 0.045
   - lab: t
@@ -883,7 +883,7 @@
   end: 114.99
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.48998
   - lab: j
     dur: 0.115
   - lab: u
@@ -923,7 +923,7 @@
   end: 118.25
   segments:
   - lab: _
-    dur: 0.65
+    dur: 0.44498
   - lab: D
     dur: 0.06
   - lab: '@'
@@ -970,7 +970,7 @@
   end: 135.42
   segments:
   - lab: _
-    dur: 0.597076
+    dur: 0.932056
   - lab: T
     dur: 0.095375
   - lab: I
@@ -1026,7 +1026,7 @@
   end: 149.89
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.61998
   - lab: AI
     dur: 0.15
   - lab: V
@@ -1100,7 +1100,7 @@
   end: 153.92
   segments:
   - lab: _
-    dur: 0.655
+    dur: 0.50998
   - lab: I
     dur: 0.055
   - lab: t
@@ -1146,7 +1146,7 @@
   end: 157.39
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.51498
   - lab: I
     dur: 0.08
   - lab: t
@@ -1184,7 +1184,7 @@
   end: 160.93
   segments:
   - lab: _
-    dur: 0.9
+    dur: 0.62498
   - lab: w
     dur: 0.22
   - lab: V
@@ -1228,7 +1228,7 @@
   end: 165.1
   segments:
   - lab: _
-    dur: 0.67
+    dur: 0.50498
   - lab: k
     dur: 0.065
   - lab: '{'
@@ -1278,7 +1278,7 @@
   end: 172.28
   segments:
   - lab: _
-    dur: 0.663708
+    dur: 0.658688
   - lab: k
     dur: 0.092762
   - lab: V
@@ -1384,7 +1384,7 @@
   end: 176.59
   segments:
   - lab: _
-    dur: 0.62
+    dur: 0.36498
   - lab: g
     dur: 0.075
   - lab: '@U'
@@ -1434,7 +1434,7 @@
   end: 180.69
   segments:
   - lab: _
-    dur: 0.665
+    dur: 1.31998
   - lab: t
     dur: 0.09
   - lab: E
@@ -1482,7 +1482,7 @@
   end: 184.72
   segments:
   - lab: _
-    dur: 0.61
+    dur: 0.18498
   - lab: D
     dur: 0.075
   - lab: '{'
@@ -1534,7 +1534,7 @@
   end: 189.38
   segments:
   - lab: _
-    dur: 0.585
+    dur: 0.31998
   - lab: k
     dur: 0.15
   - lab: '{'
@@ -1592,7 +1592,7 @@
   end: 192.71
   segments:
   - lab: _
-    dur: 0.665
+    dur: 0.34998
   - lab: D
     dur: 0.125
   - lab: '{'
@@ -1628,7 +1628,7 @@
   end: 197.09
   segments:
   - lab: _
-    dur: 0.455
+    dur: 0.33998
   - lab: w
     dur: 0.305
   - lab: V
@@ -1680,7 +1680,7 @@
   end: 202.17
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.59498
   - lab: l
     dur: 0.08
   - lab: E
@@ -1751,7 +1751,7 @@
   end: 221.85
   segments:
   - lab: _
-    dur: 0.585317
+    dur: 0.780297
   - lab: T
     dur: 0.111054
   - lab: I
@@ -1919,7 +1919,7 @@
   end: 226.51
   segments:
   - lab: _
-    dur: 0.42
+    dur: 0.25498
   - lab: w
     dur: 0.35
   - lab: V
@@ -1977,7 +1977,7 @@
   end: 232.01
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.56998
   - lab: d
     dur: 0.09
   - lab: u
@@ -2055,7 +2055,7 @@
   end: 236.53
   segments:
   - lab: _
-    dur: 0.615
+    dur: 0.55998
   - lab: d
     dur: 0.085
   - lab: u
@@ -2125,7 +2125,7 @@
   end: 255.76
   segments:
   - lab: _
-    dur: 0.665
+    dur: 0.69998
   - lab: t
     dur: 0.09147
   - lab: E
@@ -2213,7 +2213,7 @@
   end: 262.03
   segments:
   - lab: _
-    dur: 0.65
+    dur: 0.49498
   - lab: d
     dur: 0.075
   - lab: u
@@ -2313,7 +2313,7 @@
   end: 278.67
   segments:
   - lab: _
-    dur: 0.205
+    dur: 0.14998
   - lab: w
     dur: 0.57
   - lab: V
@@ -2389,7 +2389,7 @@
   end: 284.31
   segments:
   - lab: _
-    dur: 0.665
+    dur: 0.53998
   - lab: d
     dur: 0.03
   - lab: u
@@ -2473,7 +2473,7 @@
   end: 298.78
   segments:
   - lab: _
-    dur: 0.455
+    dur: 0.60998
   - lab: w
     dur: 0.295
   - lab: V
@@ -2525,7 +2525,7 @@
   end: 304.77
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.55998
   - lab: I
     dur: 0.08
   - lab: z
@@ -2605,7 +2605,7 @@
   end: 309.43
   segments:
   - lab: _
-    dur: 0.985
+    dur: 0.60998
   - lab: h
     dur: 0.055
   - lab: u
@@ -2659,7 +2659,7 @@
   end: 315.28
   segments:
   - lab: _
-    dur: 0.655
+    dur: 0.77998
   - lab: t
     dur: 0.1
   - lab: E
@@ -2741,7 +2741,7 @@
   end: 320.29
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.81998
   - lab: w
     dur: 0.06
   - lab: V
@@ -2809,7 +2809,7 @@
   end: 325.09
   segments:
   - lab: _
-    dur: 0.646723
+    dur: 0.711703
   - lab: w
     dur: 0.078277
   - lab: V
@@ -2871,7 +2871,7 @@
   end: 330.24
   segments:
   - lab: _
-    dur: 0.67
+    dur: 0.25498
   - lab: w
     dur: 0.08
   - lab: V
@@ -2949,7 +2949,7 @@
   end: 356.54
   segments:
   - lab: _
-    dur: 0.655869
+    dur: 1.030849
   - lab: d
     dur: 0.057487
   - lab: u
@@ -3120,7 +3120,7 @@
   end: 382.39
   segments:
   - lab: _
-    dur: 0.685919
+    dur: 0.880899
   - lab: w
     dur: 0.099295
   - lab: E
@@ -3208,7 +3208,7 @@
   end: 388.38
   segments:
   - lab: _
-    dur: 0.67
+    dur: 0.54498
   - lab: t
     dur: 0.08
   - lab: E
@@ -3290,7 +3290,7 @@
   end: 394.44
   segments:
   - lab: _
-    dur: 0.665
+    dur: 0.53998
   - lab: t
     dur: 0.075
   - lab: E
@@ -3372,7 +3372,7 @@
   end: 401.83
   segments:
   - lab: _
-    dur: 0.659789
+    dur: 0.894769
   - lab: I
     dur: 0.105211
   - lab: f
@@ -3476,7 +3476,7 @@
   end: 410.69
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.97498
   - lab: I
     dur: 0.095
   - lab: f
@@ -3608,7 +3608,7 @@
   end: 418.71
   segments:
   - lab: _
-    dur: 0.667628
+    dur: 0.732608
   - lab: w
     dur: 0.132372
   - lab: V
@@ -3740,7 +3740,7 @@
   end: 424.7
   segments:
   - lab: _
-    dur: 0.665
+    dur: 0.38998
   - lab: w
     dur: 0.12
   - lab: V
@@ -3824,7 +3824,7 @@
   end: 428.52
   segments:
   - lab: _
-    dur: 0.615
+    dur: 0.62998
   - lab: h
     dur: 0.112727
   - lab: u
@@ -3870,7 +3870,7 @@
   end: 433.6
   segments:
   - lab: _
-    dur: 0.635
+    dur: 0.45998
   - lab: t
     dur: 0.105
   - lab: E
@@ -3938,7 +3938,7 @@
   end: 437.49
   segments:
   - lab: _
-    dur: 0.41
+    dur: 0.25498
   - lab: w
     dur: 0.345
   - lab: V
@@ -3984,7 +3984,7 @@
   end: 441.17
   segments:
   - lab: _
-    dur: 0.29
+    dur: -0.00502
   - lab: w
     dur: 0.47
   - lab: V
@@ -4026,7 +4026,7 @@
   end: 445.06
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.57998
   - lab: d
     dur: 0.03
   - lab: u
@@ -4074,7 +4074,7 @@
   end: 450.28
   segments:
   - lab: _
-    dur: 0.66
+    dur: 0.56498
   - lab: t
     dur: 0.075
   - lab: E
@@ -4136,7 +4136,7 @@
   end: 456.9
   segments:
   - lab: _
-    dur: 0.96
+    dur: 0.62498
   - lab: k
     dur: 0.16
   - lab: '{'
@@ -4234,7 +4234,7 @@
   end: 462.33
   segments:
   - lab: _
-    dur: 0.48
+    dur: 0.25498
   - lab: w
     dur: 0.24
   - lab: V
@@ -4312,7 +4312,7 @@
   end: 466.01
   segments:
   - lab: _
-    dur: 0.64
+    dur: 0.09498
   - lab: w
     dur: 0.325
   - lab: V
@@ -4354,7 +4354,7 @@
   end: 469.97
   segments:
   - lab: _
-    dur: 0.52
+    dur: 0.39498
   - lab: w
     dur: 0.22
   - lab: V
@@ -4404,7 +4404,7 @@
   end: 476.17
   segments:
   - lab: _
-    dur: 0.48
+    dur: 0.22498
   - lab: w
     dur: 0.29
   - lab: V
@@ -4514,7 +4514,7 @@
   end: 512.14
   segments:
   - lab: _
-    dur: 0.611448
+    dur: 0.696428
   - lab: D
     dur: 0.074471
   - lab: '@'
@@ -4622,7 +4622,7 @@
   end: 519.67
   segments:
   - lab: _
-    dur: 0.672854
+    dur: 0.867834
   - lab: '{'
     dur: 0.092146
   - lab: t
@@ -4730,7 +4730,7 @@
   end: 524.19
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.50998
   - lab: I
     dur: 0.085
   - lab: m
@@ -4794,7 +4794,7 @@
   end: 528.36
   segments:
   - lab: _
-    dur: 0.29
+    dur: 0.36498
   - lab: w
     dur: 0.015
   - lab: I
@@ -4846,7 +4846,7 @@
   end: 536.24
   segments:
   - lab: _
-    dur: 0.604915
+    dur: 0.879895
   - lab: g
     dur: 0.105828
   - lab: r
@@ -4987,7 +4987,7 @@
   end: 553.82
   segments:
   - lab: _
-    dur: 0.635
+    dur: 0.97998
   - lab: D
     dur: 0.067903
   - lab: '@'
@@ -5131,7 +5131,7 @@
   end: 559.46
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.66998
   - lab: EI
     dur: 0.155
   - lab: k
@@ -5218,7 +5218,7 @@
   end: 577.46
   segments:
   - lab: _
-    dur: 0.64
+    dur: 1.13498
   - lab: h
     dur: 0.085
   - lab: AI
@@ -5374,7 +5374,7 @@
   end: 582.54
   segments:
   - lab: _
-    dur: 0.6
+    dur: 0.39498
   - lab: b
     dur: 0.09
   - lab: V
@@ -5434,7 +5434,7 @@
   end: 593.22
   segments:
   - lab: _
-    dur: 0.552655
+    dur: 1.107635
   - lab: f
     dur: 0.139796
   - lab: I
@@ -5614,7 +5614,7 @@
   end: 599.14
   segments:
   - lab: _
-    dur: 0.66
+    dur: 1.26498
   - lab: s
     dur: 0.167022
   - lab: u
@@ -5718,7 +5718,7 @@
   end: 630.76
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.55998
   - lab: l
     dur: 0.187298
   - lab: j
@@ -5900,7 +5900,7 @@
   end: 642.14
   segments:
   - lab: _
-    dur: 0.667628
+    dur: 0.832608
   - lab: A
     dur: 0.102372
   - lab: n
@@ -6098,7 +6098,7 @@
   end: 652.4
   segments:
   - lab: _
-    dur: 0.67
+    dur: 0.78498
   - lab: r=
     dur: 0.141344
   - lab: l
@@ -6294,7 +6294,7 @@
   end: 663.29
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.93498
   - lab: I
     dur: 0.088229
   - lab: n
@@ -6492,7 +6492,7 @@
   end: 675.16
   segments:
   - lab: _
-    dur: 0.651949
+    dur: 0.766929
   - lab: n
     dur: 0.129345
   - lab: u
@@ -6700,7 +6700,7 @@
   end: 686.47
   segments:
   - lab: _
-    dur: 0.645
+    dur: 0.52998
   - lab: h
     dur: 0.098405
   - lab: aU
@@ -6904,7 +6904,7 @@
   end: 691.13
   segments:
   - lab: _
-    dur: 0.57
+    dur: 0.21498
   - lab: d
     dur: 0.125
   - lab: E
@@ -6962,7 +6962,7 @@
   end: 696.56
   segments:
   - lab: _
-    dur: 0.65
+    dur: 0.40498
   - lab: tS
     dur: 0.125
   - lab: '{'
@@ -7038,7 +7038,7 @@
   end: 700.94
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.19998
   - lab: '{'
     dur: 0.085
   - lab: z
@@ -7099,7 +7099,7 @@
   end: 717.4
   segments:
   - lab: _
-    dur: 0.662402
+    dur: 0.677382
   - lab: AI
     dur: 0.137598
   - lab: d
@@ -7245,7 +7245,7 @@
   end: 734.11
   segments:
   - lab: _
-    dur: 0.635
+    dur: 0.40998
   - lab: D
     dur: 0.045
   - lab: '@'
@@ -7332,7 +7332,7 @@
   end: 744.97
   segments:
   - lab: _
-    dur: 0.315
+    dur: 0.44998
   - lab: w
     dur: 0.395
   - lab: E
@@ -7402,7 +7402,7 @@
   end: 750.54
   segments:
   - lab: _
-    dur: 0.645
+    dur: 0.88998
   - lab: D
     dur: 0.043532
   - lab: '@'
@@ -7478,7 +7478,7 @@
   end: 758.49
   segments:
   - lab: _
-    dur: 0.646723
+    dur: 0.641703
   - lab: D
     dur: 0.050954
   - lab: '@'
@@ -7616,7 +7616,7 @@
   end: 771.98
   segments:
   - lab: _
-    dur: 0.679386
+    dur: 0.934366
   - lab: n
     dur: 0.092763
   - lab: '@U'
@@ -7670,7 +7670,7 @@
   end: 776.64
   segments:
   - lab: _
-    dur: 0.66
+    dur: 0.50498
   - lab: S
     dur: 0.175
   - lab: OI
@@ -7729,7 +7729,7 @@
   end: 789.74
   segments:
   - lab: _
-    dur: 0.6219
+    dur: 0.59688
   - lab: h
     dur: 0.079697
   - lab: i
@@ -7841,7 +7841,7 @@
   end: 810.09
   segments:
   - lab: _
-    dur: 0.62
+    dur: 0.51498
   - lab: D
     dur: 0.065
   - lab: '@'
@@ -7928,7 +7928,7 @@
   end: 828.79
   segments:
   - lab: _
-    dur: 0.325
+    dur: 0.40998
   - lab: D
     dur: 0.372677
   - lab: '@'
@@ -8096,7 +8096,7 @@
   end: 840.45
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.69998
   - lab: I
     dur: 0.06
   - lab: n
@@ -8286,7 +8286,7 @@
   end: 845.18
   segments:
   - lab: _
-    dur: 0.655
+    dur: 0.34998
   - lab: dZ
     dur: 0.09
   - lab: V
@@ -8346,7 +8346,7 @@
   end: 849.91
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.46998
   - lab: b
     dur: 0.015
   - lab: '{'
@@ -8453,7 +8453,7 @@
   end: 921.63
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.51498
   - lab: l
     dur: 0.045
   - lab: E
@@ -8569,7 +8569,7 @@
   end: 932.03
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.45998
   - lab: '@'
     dur: 0.025
   - lab: k
@@ -8747,7 +8747,7 @@
   end: 939.63
   segments:
   - lab: _
-    dur: 0.620593
+    dur: 0.765573
   - lab: D
     dur: 0.065326
   - lab: '@'
@@ -8867,7 +8867,7 @@
   end: 947.79
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.86498
   - lab: l
     dur: 0.086923
   - lab: u
@@ -8997,7 +8997,7 @@
   end: 955.18
   segments:
   - lab: _
-    dur: 0.67416
+    dur: 0.94914
   - lab: O
     dur: 0.094069
   - lab: l
@@ -9112,7 +9112,7 @@
   end: 968.28
   segments:
   - lab: _
-    dur: 0.625819
+    dur: 0.690799
   - lab: h
     dur: 0.079697
   - lab: i
@@ -9212,7 +9212,7 @@
   end: 973.64
   segments:
   - lab: _
-    dur: 0.61
+    dur: 0.22498
   - lab: D
     dur: 0.075
   - lab: '@'
@@ -9290,7 +9290,7 @@
   end: 978.79
   segments:
   - lab: _
-    dur: 0.663708
+    dur: 0.658688
   - lab: w
     dur: 0.061292
   - lab: E
@@ -9358,7 +9358,7 @@
   end: 984.71
   segments:
   - lab: _
-    dur: 0.67
+    dur: 0.25498
   - lab: m
     dur: 0.135
   - lab: '@U'
@@ -9449,7 +9449,7 @@
   end: 999.91
   segments:
   - lab: _
-    dur: 0.608835
+    dur: 0.693815
   - lab: b
     dur: 0.081003
   - lab: r
@@ -9585,7 +9585,7 @@
   end: 1008.56
   segments:
   - lab: _
-    dur: 0.610141
+    dur: 1.005121
   - lab: D
     dur: 0.079859
   - lab: E
@@ -9725,7 +9725,7 @@
   end: 1014.06
   segments:
   - lab: _
-    dur: 0.65
+    dur: 0.31498
   - lab: h
     dur: 0.085
   - lab: aU
@@ -9801,7 +9801,7 @@
   end: 1020.4
   segments:
   - lab: _
-    dur: 0.605
+    dur: 0.97998
   - lab: D
     dur: 0.075
   - lab: '@'
@@ -9901,7 +9901,7 @@
   end: 1028.14
   segments:
   - lab: _
-    dur: 0.56
+    dur: 0.49498
   - lab: z
     dur: 0.136371
   - lab: A
@@ -10032,7 +10032,7 @@
   end: 1039.0
   segments:
   - lab: _
-    dur: 0.655
+    dur: 1.29998
   - lab: D
     dur: 0.063582
   - lab: '@'
@@ -10106,7 +10106,7 @@
   end: 1044.29
   segments:
   - lab: _
-    dur: 0.629739
+    dur: 1.264719
   - lab: D
     dur: 0.065325
   - lab: I
@@ -10186,7 +10186,7 @@
   end: 1049.79
   segments:
   - lab: _
-    dur: 0.61
+    dur: 0.33498
   - lab: D
     dur: 0.08
   - lab: I
@@ -10264,7 +10264,7 @@
   end: 1060.4
   segments:
   - lab: _
-    dur: 0.64803
+    dur: 0.81301
   - lab: p
     dur: 0.088843
   - lab: O
@@ -10450,7 +10450,7 @@
   end: 1064.71
   segments:
   - lab: _
-    dur: 0.97
+    dur: 0.84498
   - lab: n
     dur: 0.089581
   - lab: aU
@@ -10505,7 +10505,7 @@
   end: 1078.09
   segments:
   - lab: _
-    dur: 0.66
+    dur: 0.48498
   - lab: D
     dur: 0.11
   - lab: I
@@ -10589,7 +10589,7 @@
   end: 1083.8
   segments:
   - lab: _
-    dur: 0.6
+    dur: 0.35498
   - lab: D
     dur: 0.08
   - lab: '@'
@@ -10673,7 +10673,7 @@
   end: 1090.28
   segments:
   - lab: _
-    dur: 0.64
+    dur: 0.40498
   - lab: D
     dur: 0.045
   - lab: '@'
@@ -10775,7 +10775,7 @@
   end: 1095.99
   segments:
   - lab: _
-    dur: 0.655
+    dur: 1.01998
   - lab: D
     dur: 0.02
   - lab: '@'
@@ -10866,7 +10866,7 @@
   end: 1107.55
   segments:
   - lab: _
-    dur: 0.67808
+    dur: 0.66306
   - lab: r=
     dur: 0.16192
   - lab: l
@@ -10957,7 +10957,7 @@
   end: 1119.95
   segments:
   - lab: _
-    dur: 0.655
+    dur: 0.73998
   - lab: h
     dur: 0.105
   - lab: A
@@ -11059,7 +11059,7 @@
   end: 1138.41
   segments:
   - lab: _
-    dur: 0.684612
+    dur: 0.769592
   - lab: m
     dur: 0.091456
   - lab: '@U'
@@ -11168,7 +11168,7 @@
   end: 1146.89
   segments:
   - lab: _
-    dur: 0.66
+    dur: 0.44498
   - lab: s
     dur: 0.145
   - lab: t
@@ -11222,7 +11222,7 @@
   end: 1153.51
   segments:
   - lab: _
-    dur: 0.655869
+    dur: 1.370849
   - lab: Z
     dur: 0.179131
   - lab: A
@@ -11340,7 +11340,7 @@
   end: 1170.85
   segments:
   - lab: _
-    dur: 0.658482
+    dur: 0.653462
   - lab: S
     dur: 0.148942
   - lab: U
@@ -11410,7 +11410,7 @@
   end: 1178.17
   segments:
   - lab: _
-    dur: 0.635
+    dur: 0.45998
   - lab: k
     dur: 0.11
   - lab: r=
@@ -11533,7 +11533,7 @@
   end: 1192.95
   segments:
   - lab: _
-    dur: 0.28
+    dur: 0.12498
   - lab: D
     dur: 0.41
   - lab: E
@@ -11641,7 +11641,7 @@
   end: 1199.92
   segments:
   - lab: _
-    dur: 0.63
+    dur: 1.07498
   - lab: t
     dur: 0.135
   - lab: r
@@ -11752,7 +11752,7 @@
   end: 1214.14
   segments:
   - lab: _
-    dur: 0.68
+    dur: 1.18498
   - lab: I
     dur: 0.065
   - lab: n
@@ -11861,7 +11861,7 @@
   end: 1229.2
   segments:
   - lab: _
-    dur: 0.67808
+    dur: 0.79306
   - lab: w
     dur: 0.113666
   - lab: AI
@@ -11972,7 +11972,7 @@
   end: 1243.42
   segments:
   - lab: _
-    dur: 0.598382
+    dur: 0.693362
   - lab: h
     dur: 0.097989
   - lab: i
@@ -12084,7 +12084,7 @@
   end: 1249.76
   segments:
   - lab: _
-    dur: 0.646723
+    dur: 1.141703
   - lab: '{'
     dur: 0.108277
   - lab: t
@@ -12172,7 +12172,7 @@
   end: 1256.87
   segments:
   - lab: _
-    dur: 0.668934
+    dur: 0.573914
   - lab: j
     dur: 0.166066
   - lab: u
@@ -12280,7 +12280,7 @@
   end: 1264.54
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.63498
   - lab: l
     dur: 0.13
   - lab: E
@@ -12409,7 +12409,7 @@
   end: 1280.72
   segments:
   - lab: _
-    dur: 0.684612
+    dur: 0.659592
   - lab: l
     dur: 0.082311
   - lab: E
@@ -12533,7 +12533,7 @@
   end: 1289.02
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.83498
   - lab: '{'
     dur: 0.095
   - lab: t
@@ -12671,7 +12671,7 @@
   end: 1294.38
   segments:
   - lab: _
-    dur: 0.66
+    dur: 0.55498
   - lab: D
     dur: 0.025
   - lab: '@'
@@ -12737,7 +12737,7 @@
   end: 1298.83
   segments:
   - lab: _
-    dur: 0.535
+    dur: 0.50998
   - lab: T
     dur: 0.15
   - lab: u
@@ -12799,7 +12799,7 @@
   end: 1306.71
   segments:
   - lab: _
-    dur: 0.658482
+    dur: 0.993462
   - lab: w
     dur: 0.133264
   - lab: E
@@ -12922,7 +12922,7 @@
   end: 1322.05
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.78498
   - lab: '{'
     dur: 0.165
   - lab: f
@@ -13045,7 +13045,7 @@
   end: 1337.67
   segments:
   - lab: _
-    dur: 0.638884
+    dur: 1.183864
   - lab: D
     dur: 0.057487
   - lab: '@'
@@ -13163,7 +13163,7 @@
   end: 1346.25
   segments:
   - lab: _
-    dur: 0.64
+    dur: 0.69498
   - lab: t
     dur: 0.15044
   - lab: u
@@ -13283,7 +13283,7 @@
   end: 1353.71
   segments:
   - lab: _
-    dur: 0.67
+    dur: 0.49498
   - lab: r
     dur: 0.05
   - lab: I
@@ -13403,7 +13403,7 @@
   end: 1358.51
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.32998
   - lab: r
     dur: 0.115
   - lab: I
@@ -13473,7 +13473,7 @@
   end: 1362.54
   segments:
   - lab: _
-    dur: 0.61
+    dur: 0.66498
   - lab: k
     dur: 0.135
   - lab: '{'
@@ -13527,7 +13527,7 @@
   end: 1370.98
   segments:
   - lab: _
-    dur: 0.667628
+    dur: 0.802608
   - lab: A
     dur: 0.117372
   - lab: n
@@ -13655,7 +13655,7 @@
   end: 1378.51
   segments:
   - lab: _
-    dur: 0.681999
+    dur: 0.666979
   - lab: O
     dur: 0.177686
   - lab: r
@@ -13781,7 +13781,7 @@
   end: 1382.68
   segments:
   - lab: _
-    dur: 0.646723
+    dur: 0.981703
   - lab: w
     dur: 0.118277
   - lab: E
@@ -13833,7 +13833,7 @@
   end: 1392.24
   segments:
   - lab: _
-    dur: 0.685
+    dur: 1.37998
   - lab: AI
     dur: 0.434681
   - lab: h
@@ -13984,7 +13984,7 @@
   end: 1408.0
   segments:
   - lab: _
-    dur: 0.66
+    dur: 0.56498
   - lab: '{'
     dur: 0.105
   - lab: n
@@ -14112,7 +14112,7 @@
   end: 1412.94
   segments:
   - lab: _
-    dur: 0.655
+    dur: 0.28998
   - lab: D
     dur: 0.125
   - lab: I
@@ -14180,7 +14180,7 @@
   end: 1423.48
   segments:
   - lab: _
-    dur: 0.676773
+    dur: 0.921753
   - lab: '@'
     dur: 0.073165
   - lab: w
@@ -14362,7 +14362,7 @@
   end: 1430.38
   segments:
   - lab: _
-    dur: 0.67
+    dur: 0.64498
   - lab: g
     dur: 0.039436
   - lab: A
@@ -14477,7 +14477,7 @@
   end: 1443.76
   segments:
   - lab: _
-    dur: 0.645
+    dur: 0.87998
   - lab: tS
     dur: 0.125842
   - lab: AI
@@ -14581,7 +14581,7 @@
   end: 1452.27
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.92498
   - lab: A
     dur: 0.067325
   - lab: n
@@ -14721,7 +14721,7 @@
   end: 1460.36
   segments:
   - lab: _
-    dur: 0.565
+    dur: 0.43998
   - lab: f
     dur: 0.115
   - lab: EI
@@ -14851,7 +14851,7 @@
   end: 1467.12
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.94498
   - lab: r=
     dur: 0.154861
   - lab: l
@@ -14964,7 +14964,7 @@
   end: 1477.84
   segments:
   - lab: _
-    dur: 0.625
+    dur: 0.48998
   - lab: f
     dur: 0.06
   - lab: O
@@ -15036,7 +15036,7 @@
   end: 1485.65
   segments:
   - lab: _
-    dur: 0.641497
+    dur: 0.986477
   - lab: D
     dur: 0.045728
   - lab: '@'
@@ -15174,7 +15174,7 @@
   end: 1494.86
   segments:
   - lab: _
-    dur: 0.625
+    dur: 0.44998
   - lab: D
     dur: 0.06
   - lab: '@'
@@ -15320,7 +15320,7 @@
   end: 1503.16
   segments:
   - lab: _
-    dur: 0.640191
+    dur: 0.695171
   - lab: b
     dur: 0.050954
   - lab: I
@@ -15460,7 +15460,7 @@
   end: 1509.08
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.62998
   - lab: '@U'
     dur: 0.12
   - lab: n
@@ -15551,7 +15551,7 @@
   end: 1515.74
   segments:
   - lab: _
-    dur: 0.665
+    dur: 0.32998
   - lab: h
     dur: 0.065
   - lab: aU
@@ -15581,7 +15581,7 @@
   end: 1519.21
   segments:
   - lab: _
-    dur: 0.66
+    dur: 0.43498
   - lab: h
     dur: 0.07
   - lab: aU
@@ -15615,7 +15615,7 @@
   end: 1526.88
   segments:
   - lab: _
-    dur: 0.640191
+    dur: 0.765171
   - lab: d
     dur: 0.087536
   - lab: u
@@ -15725,7 +15725,7 @@
   end: 1532.17
   segments:
   - lab: _
-    dur: 0.672854
+    dur: 0.717834
   - lab: I
     dur: 0.127146
   - lab: m
@@ -15793,7 +15793,7 @@
   end: 1537.88
   segments:
   - lab: _
-    dur: 0.615
+    dur: 0.34998
   - lab: p
     dur: 0.09
   - lab: r=
@@ -15873,7 +15873,7 @@
   end: 1540.3
   segments:
   - lab: _
-    dur: 0.67
+    dur: 0.82498
   - lab: g
     dur: 0.03
   - lab: '@U'
@@ -15891,7 +15891,7 @@
   end: 1542.58
   segments:
   - lab: _
-    dur: 0.74
+    dur: 0.49498
   - lab: w
     dur: 0.115
   - lab: AI
@@ -15905,7 +15905,7 @@
   end: 1544.86
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.86498
   - lab: h
     dur: 0.08
   - lab: aU
@@ -15924,7 +15924,7 @@
   end: 1554.32
   segments:
   - lab: _
-    dur: 0.653256
+    dur: 0.878236
   - lab: w
     dur: 0.076744
   - lab: U
@@ -15982,7 +15982,7 @@
   end: 1558.56
   segments:
   - lab: _
-    dur: 0.679386
+    dur: 0.864366
   - lab: w
     dur: 0.110614
   - lab: AI
@@ -16034,7 +16034,7 @@
   end: 1562.59
   segments:
   - lab: _
-    dur: 0.661095
+    dur: 0.636075
   - lab: w
     dur: 0.128905
   - lab: AI
@@ -16080,7 +16080,7 @@
   end: 1566.76
   segments:
   - lab: _
-    dur: 0.325
+    dur: 0.06998
   - lab: w
     dur: 0.425
   - lab: AI
@@ -16130,7 +16130,7 @@
   end: 1571.49
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.56998
   - lab: I
     dur: 0.07
   - lab: t
@@ -16192,7 +16192,7 @@
   end: 1575.1
   segments:
   - lab: _
-    dur: 1.005
+    dur: 0.45998
   - lab: AI
     dur: 0.13
   - lab: m
@@ -16230,7 +16230,7 @@
   end: 1578.22
   segments:
   - lab: _
-    dur: 0.67
+    dur: 0.69498
   - lab: I
     dur: 0.06
   - lab: z
@@ -16260,7 +16260,7 @@
   end: 1581.55
   segments:
   - lab: _
-    dur: 0.655
+    dur: 0.38998
   - lab: D
     dur: 0.035
   - lab: '{'
@@ -16296,7 +16296,7 @@
   end: 1585.02
   segments:
   - lab: _
-    dur: 0.64
+    dur: 0.63498
   - lab: D
     dur: 0.055
   - lab: '{'
@@ -16336,7 +16336,7 @@
   end: 1587.58
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.62498
   - lab: '@'
     dur: 0.04
   - lab: m
@@ -16358,7 +16358,7 @@
   end: 1592.1
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.50498
   - lab: I
     dur: 0.055
   - lab: t
@@ -16414,7 +16414,7 @@
   end: 1594.87
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.46998
   - lab: h
     dur: 0.085
   - lab: '{'
@@ -16438,7 +16438,7 @@
   end: 1598.76
   segments:
   - lab: _
-    dur: 0.67
+    dur: 0.59498
   - lab: D
     dur: 0.08
   - lab: '{'
@@ -16484,7 +16484,7 @@
   end: 1602.3
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.51998
   - lab: A
     dur: 0.155
   - lab: r
@@ -16524,7 +16524,7 @@
   end: 1605.0
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.50998
   - lab: w
     dur: 0.045
   - lab: E
@@ -16546,7 +16546,7 @@
   end: 1607.77
   segments:
   - lab: _
-    dur: 1.405
+    dur: 0.85998
   - lab: '{'
     dur: 0.12
   - lab: b
@@ -16574,7 +16574,7 @@
   end: 1610.47
   segments:
   - lab: _
-    dur: 1.005
+    dur: 0.46998
   - lab: f
     dur: 0.11
   - lab: '{'
@@ -16602,7 +16602,7 @@
   end: 1613.17
   segments:
   - lab: _
-    dur: 0.684612
+    dur: 0.639592
   - lab: u
     dur: 0.155388
   - lab: p
@@ -16622,7 +16622,7 @@
   end: 1615.66
   segments:
   - lab: _
-    dur: 1.26
+    dur: 0.90498
   - lab: r
     dur: 0.12
   - lab: I
@@ -16640,7 +16640,7 @@
   end: 1620.25
   segments:
   - lab: _
-    dur: 0.59
+    dur: 0.30498
   - lab: d
     dur: 0.08
   - lab: u
@@ -16696,7 +16696,7 @@
   end: 1624.56
   segments:
   - lab: _
-    dur: 0.37
+    dur: 0.12498
   - lab: w
     dur: 0.35
   - lab: V
@@ -16744,7 +16744,7 @@
   end: 1628.31
   segments:
   - lab: _
-    dur: 0.75
+    dur: 0.20498
   - lab: w
     dur: 0.3
   - lab: V
@@ -16784,7 +16784,7 @@
   end: 1636.68
   segments:
   - lab: _
-    dur: 0.632352
+    dur: 1.247332
   - lab: D
     dur: 0.057486
   - lab: '@'
@@ -16924,7 +16924,7 @@
   end: 1645.75
   segments:
   - lab: _
-    dur: 0.675
+    dur: 1.18998
   - lab: I
     dur: 0.075
   - lab: n
@@ -17064,7 +17064,7 @@
   end: 1655.03
   segments:
   - lab: _
-    dur: 0.545
+    dur: 0.90998
   - lab: f
     dur: 0.135
   - lab: O
@@ -17210,7 +17210,7 @@
   end: 1667.81
   segments:
   - lab: _
-    dur: 0.667628
+    dur: 0.592608
   - lab: D
     dur: 0.102372
   - lab: EI
@@ -17441,7 +17441,7 @@
   end: 1679.65
   segments:
   - lab: _
-    dur: 0.67808
+    dur: 1.12306
   - lab: '@'
     dur: 0.061406
   - lab: s
@@ -17519,7 +17519,7 @@
   end: 1685.92
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.43998
   - lab: D
     dur: 0.105
   - lab: E
@@ -17609,7 +17609,7 @@
   end: 1694.99
   segments:
   - lab: _
-    dur: 0.67416
+    dur: 1.03914
   - lab: I
     dur: 0.071858
   - lab: n
@@ -17751,7 +17751,7 @@
   end: 1700.49
   segments:
   - lab: _
-    dur: 0.59
+    dur: 0.52498
   - lab: t
     dur: 0.105
   - lab: w
@@ -17833,7 +17833,7 @@
   end: 1710.75
   segments:
   - lab: _
-    dur: 0.675
+    dur: 1.09998
   - lab: I
     dur: 0.075
   - lab: n
@@ -18016,7 +18016,7 @@
   end: 1750.67
   segments:
   - lab: _
-    dur: 0.67808
+    dur: 0.71306
   - lab: m
     dur: 0.13457
   - lab: E
@@ -18172,7 +18172,7 @@
   end: 1755.96
   segments:
   - lab: _
-    dur: 0.667628
+    dur: 1.232608
   - lab: S
     dur: 0.122372
   - lab: i
@@ -18255,7 +18255,7 @@
   end: 1768.36
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.85998
   - lab: '{'
     dur: 0.08
   - lab: z
@@ -18350,7 +18350,7 @@
   end: 1786.64
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.67998
   - lab: '{'
     dur: 0.14
   - lab: f
@@ -18504,7 +18504,7 @@
   end: 1792.28
   segments:
   - lab: _
-    dur: 0.65
+    dur: 1.14498
   - lab: s
     dur: 0.125
   - lab: t
@@ -18582,7 +18582,7 @@
   end: 1796.87
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.33498
   - lab: AI
     dur: 0.175
   - lab: '{'
@@ -18638,7 +18638,7 @@
   end: 1802.3
   segments:
   - lab: _
-    dur: 0.59
+    dur: 0.78498
   - lab: v
     dur: 0.09
   - lab: E
@@ -18718,7 +18718,7 @@
   end: 1812.14
   segments:
   - lab: _
-    dur: 0.61
+    dur: 1.11498
   - lab: h
     dur: 0.099436
   - lab: '{'
@@ -18874,7 +18874,7 @@
   end: 1820.79
   segments:
   - lab: _
-    dur: 0.6219
+    dur: 1.19688
   - lab: D
     dur: 0.07839
   - lab: I
@@ -19029,7 +19029,7 @@
   end: 1830.35
   segments:
   - lab: _
-    dur: 0.614061
+    dur: 1.019041
   - lab: f
     dur: 0.07839
   - lab: U
@@ -19189,7 +19189,7 @@
   end: 1835.78
   segments:
   - lab: _
-    dur: 0.67
+    dur: 0.39498
   - lab: m
     dur: 0.125
   - lab: AI
@@ -19279,7 +19279,7 @@
   end: 1861.73
   segments:
   - lab: _
-    dur: 0.663708
+    dur: 0.898688
   - lab: h
     dur: 0.071292
   - lab: E
@@ -19440,7 +19440,7 @@
   end: 1879.31
   segments:
   - lab: _
-    dur: 0.632352
+    dur: 1.307332
   - lab: D
     dur: 0.05618
   - lab: '@'
@@ -19597,7 +19597,7 @@
   end: 1923.71
   segments:
   - lab: _
-    dur: 0.345
+    dur: 0.19998
   - lab: h
     dur: 0.34
   - lab: i
@@ -19795,7 +19795,7 @@
   end: 1932.92
   segments:
   - lab: _
-    dur: 0.59
+    dur: 1.29498
   - lab: s
     dur: 0.115
   - lab: I
@@ -19958,7 +19958,7 @@
   end: 1948.26
   segments:
   - lab: _
-    dur: 0.628432
+    dur: 0.683412
   - lab: k
     dur: 0.099295
   - lab: '{'
@@ -20080,7 +20080,7 @@
   end: 1957.54
   segments:
   - lab: _
-    dur: 0.641497
+    dur: 0.586477
   - lab: k
     dur: 0.11628
   - lab: EI
@@ -20236,7 +20236,7 @@
   end: 1968.08
   segments:
   - lab: _
-    dur: 0.615367
+    dur: 0.830347
   - lab: D
     dur: 0.079697
   - lab: '@'
@@ -20412,7 +20412,7 @@
   end: 1974.77
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.67498
   - lab: l
     dur: 0.07647
   - lab: AI
@@ -20502,7 +20502,7 @@
   end: 1985.87
   segments:
   - lab: _
-    dur: 0.687225
+    dur: 1.202205
   - lab: I
     dur: 0.072775
   - lab: n
@@ -20699,7 +20699,7 @@
   end: 2005.13
   segments:
   - lab: _
-    dur: 0.612754
+    dur: 1.227734
   - lab: h
     dur: 0.08231
   - lab: i
@@ -20859,7 +20859,7 @@
   end: 2010.84
   segments:
   - lab: _
-    dur: 0.4
+    dur: 0.28498
   - lab: h
     dur: 0.2
   - lab: I
@@ -20939,7 +20939,7 @@
   end: 2016.27
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.45498
   - lab: I
     dur: 0.085
   - lab: t
@@ -21025,7 +21025,7 @@
   end: 2026.39
   segments:
   - lab: _
-    dur: 0.67
+    dur: 0.50498
   - lab: m
     dur: 0.1
   - lab: E
@@ -21191,7 +21191,7 @@
   end: 2036.23
   segments:
   - lab: _
-    dur: 0.645
+    dur: 0.91998
   - lab: D
     dur: 0.136294
   - lab: V
@@ -21357,7 +21357,7 @@
   end: 2040.75
   segments:
   - lab: _
-    dur: 0.67
+    dur: 0.48498
   - lab: AI
     dur: 0.18
   - lab: w
@@ -21427,7 +21427,7 @@
   end: 2071.04
   segments:
   - lab: _
-    dur: 0.599689
+    dur: 0.794669
   - lab: f
     dur: 0.095375
   - lab: AI
@@ -21601,7 +21601,7 @@
   end: 2109.59
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.76998
   - lab: V
     dur: 0.12
   - lab: D
@@ -21840,7 +21840,7 @@
   end: 2121.71
   segments:
   - lab: _
-    dur: 0.66
+    dur: 0.41498
   - lab: l
     dur: 0.175
   - lab: '@U'
@@ -21928,7 +21928,7 @@
   end: 2131.62
   segments:
   - lab: _
-    dur: 0.663708
+    dur: 0.918688
   - lab: O
     dur: 0.146329
   - lab: l
@@ -22098,7 +22098,7 @@
   end: 2141.53
   segments:
   - lab: _
-    dur: 0.685919
+    dur: 0.650899
   - lab: I
     dur: 0.05618
   - lab: n
@@ -22273,7 +22273,7 @@
   end: 2160.93
   segments:
   - lab: _
-    dur: 0.640191
+    dur: 0.655171
   - lab: w
     dur: 0.124809
   - lab: AI
@@ -22447,7 +22447,7 @@
   end: 2171.89
   segments:
   - lab: _
-    dur: 0.67808
+    dur: 0.65306
   - lab: A
     dur: 0.062712
   - lab: n
@@ -22626,7 +22626,7 @@
   end: 2192.97
   segments:
   - lab: _
-    dur: 0.675467
+    dur: 0.740447
   - lab: I
     dur: 0.049533
   - lab: n
@@ -22796,7 +22796,7 @@
   end: 2197.91
   segments:
   - lab: _
-    dur: 0.61
+    dur: 0.37498
   - lab: D
     dur: 0.075
   - lab: '@'
@@ -22870,7 +22870,7 @@
   end: 2203.2
   segments:
   - lab: _
-    dur: 0.67
+    dur: 0.30498
   - lab: AI
     dur: 0.16
   - lab: O
@@ -22944,7 +22944,7 @@
   end: 2235.66
   segments:
   - lab: _
-    dur: 0.668934
+    dur: 0.603914
   - lab: '{'
     dur: 0.101908
   - lab: z
@@ -23124,7 +23124,7 @@
   end: 2245.85
   segments:
   - lab: _
-    dur: 0.666321
+    dur: 1.491301
   - lab: I
     dur: 0.069245
   - lab: n
@@ -23310,7 +23310,7 @@
   end: 2252.12
   segments:
   - lab: _
-    dur: 0.525218
+    dur: 0.500198
   - lab: s
     dur: 0.16462
   - lab: V
@@ -23404,7 +23404,7 @@
   end: 2258.67
   segments:
   - lab: _
-    dur: 0.574865
+    dur: 0.649845
   - lab: h
     dur: 0.11628
   - lab: i
@@ -23511,7 +23511,7 @@
   end: 2266.87
   segments:
   - lab: _
-    dur: 0.665
+    dur: 0.91998
   - lab: b
     dur: 0.030064
   - lab: '@'
@@ -23565,7 +23565,7 @@
   end: 2279.16
   segments:
   - lab: _
-    dur: 0.6219
+    dur: 1.18688
   - lab: f
     dur: 0.070551
   - lab: O
@@ -23754,7 +23754,7 @@
   end: 2299.96
   segments:
   - lab: _
-    dur: 0.567026
+    dur: 0.592006
   - lab: D
     dur: 0.139797
   - lab: E
@@ -23939,7 +23939,7 @@
   end: 2320.9
   segments:
   - lab: _
-    dur: 0.66
+    dur: 0.46498
   - lab: tS
     dur: 0.1
   - lab: EI
@@ -24121,7 +24121,7 @@
   end: 2331.37
   segments:
   - lab: _
-    dur: 0.665
+    dur: 0.57998
   - lab: h
     dur: 0.065
   - lab: '{'
@@ -24303,7 +24303,7 @@
   end: 2336.1
   segments:
   - lab: _
-    dur: 0.66
+    dur: 0.23498
   - lab: k
     dur: 0.06
   - lab: '{'
@@ -24374,7 +24374,7 @@
   end: 2345.84
   segments:
   - lab: _
-    dur: 0.628432
+    dur: 0.803412
   - lab: D
     dur: 0.070552
   - lab: '@'
@@ -24440,7 +24440,7 @@
   end: 2356.52
   segments:
   - lab: _
-    dur: 0.675
+    dur: 1.32998
   - lab: V
     dur: 0.1
   - lab: n
@@ -24628,7 +24628,7 @@
   end: 2362.93
   segments:
   - lab: _
-    dur: 0.631045
+    dur: 1.216025
   - lab: s
     dur: 0.118955
   - lab: t
@@ -24724,7 +24724,7 @@
   end: 2367.38
   segments:
   - lab: _
-    dur: 0.525
+    dur: 0.18998
   - lab: j
     dur: 0.265
   - lab: u
@@ -24810,7 +24810,7 @@
   end: 2420.78
   segments:
   - lab: _
-    dur: 0.665
+    dur: 0.38998
   - lab: I
     dur: 0.075
   - lab: z
@@ -25000,7 +25000,7 @@
   end: 2427.12
   segments:
   - lab: _
-    dur: 0.61
+    dur: 0.49498
   - lab: D
     dur: 0.07
   - lab: '@'
@@ -25098,7 +25098,7 @@
   end: 2438.5
   segments:
   - lab: _
-    dur: 0.638884
+    dur: 1.273864
   - lab: A
     dur: 0.081004
   - lab: n
@@ -25303,7 +25303,7 @@
   end: 2452.16
   segments:
   - lab: _
-    dur: 0.38
+    dur: 0.14498
   - lab: A
     dur: 0.39
   - lab: n
@@ -25411,7 +25411,7 @@
   end: 2458.85
   segments:
   - lab: _
-    dur: 0.671547
+    dur: 0.956527
   - lab: I
     dur: 0.109747
   - lab: n
@@ -25527,7 +25527,7 @@
   end: 2493.62
   segments:
   - lab: _
-    dur: 0.685
+    dur: 1.35998
   - lab: '@'
     dur: 0.050566
   - lab: n
@@ -25727,7 +25727,7 @@
   end: 2499.19
   segments:
   - lab: _
-    dur: 0.38
+    dur: 0.16498
   - lab: w
     dur: 0.33
   - lab: I
@@ -25804,7 +25804,7 @@
   end: 2520.97
   segments:
   - lab: _
-    dur: 0.679386
+    dur: 0.554366
   - lab: I
     dur: 0.050614
   - lab: n
@@ -26005,7 +26005,7 @@
   end: 2533.93
   segments:
   - lab: _
-    dur: 0.675
+    dur: 1.13998
   - lab: V
     dur: 0.115
   - lab: D
@@ -26119,7 +26119,7 @@
   end: 2553.16
   segments:
   - lab: _
-    dur: 0.645
+    dur: 0.75998
   - lab: z
     dur: 0.09
   - lab: A
@@ -26231,7 +26231,7 @@
   end: 2567.42
   segments:
   - lab: _
-    dur: 0.645
+    dur: 1.36998
   - lab: tS
     dur: 0.115
   - lab: I
@@ -26287,7 +26287,7 @@
   end: 2571.73
   segments:
   - lab: _
-    dur: 0.605
+    dur: 0.35998
   - lab: d
     dur: 0.095
   - lab: A
@@ -26343,7 +26343,7 @@
   end: 2576.74
   segments:
   - lab: _
-    dur: 0.670241
+    dur: 0.955221
   - lab: '{'
     dur: 0.109759
   - lab: z
@@ -26417,7 +26417,7 @@
   end: 2581.96
   segments:
   - lab: _
-    dur: 0.305
+    dur: 0.98998
   - lab: S
     dur: 0.5
   - lab: i
@@ -26489,7 +26489,7 @@
   end: 2588.86
   segments:
   - lab: _
-    dur: 0.67
+    dur: 0.67498
   - lab: l
     dur: 0.133505
   - lab: O
@@ -26608,7 +26608,7 @@
   end: 2611.9
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.41998
   - lab: '{'
     dur: 0.085
   - lab: z
@@ -26817,7 +26817,7 @@
   end: 2635.64
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.66998
   - lab: '@'
     dur: 0.095
   - lab: n
@@ -27031,7 +27031,7 @@
   end: 2640.93
   segments:
   - lab: _
-    dur: 0.6
+    dur: 0.29498
   - lab: D
     dur: 0.09
   - lab: '{'
@@ -27113,7 +27113,7 @@
   end: 2662.47
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.67998
   - lab: AI
     dur: 0.1
   - lab: w
@@ -27223,7 +27223,7 @@
   end: 2669.23
   segments:
   - lab: _
-    dur: 0.619287
+    dur: 1.624267
   - lab: h
     dur: 0.077084
   - lab: i
@@ -27333,7 +27333,7 @@
   end: 2673.96
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.29998
   - lab: n
     dur: 0.07
   - lab: A
@@ -27396,7 +27396,7 @@
   end: 2684.54
   segments:
   - lab: _
-    dur: 0.645
+    dur: 0.46998
   - lab: b
     dur: 0.045
   - lab: V
@@ -27472,7 +27472,7 @@
   end: 2696.9
   segments:
   - lab: _
-    dur: 0.665
+    dur: 0.57998
   - lab: I
     dur: 0.06
   - lab: n
@@ -27692,7 +27692,7 @@
   end: 2704.08
   segments:
   - lab: _
-    dur: 0.679386
+    dur: 0.764366
   - lab: r
     dur: 0.100614
   - lab: E
@@ -27802,7 +27802,7 @@
   end: 2711.47
   segments:
   - lab: _
-    dur: 0.665015
+    dur: 1.689995
   - lab: k
     dur: 0.101908
   - lab: r=
@@ -27916,7 +27916,7 @@
   end: 2716.97
   segments:
   - lab: _
-    dur: 0.645417
+    dur: 0.700397
   - lab: D
     dur: 0.053567
   - lab: '@'
@@ -27998,7 +27998,7 @@
   end: 2724.43
   segments:
   - lab: _
-    dur: 0.615367
+    dur: 0.880347
   - lab: f
     dur: 0.074471
   - lab: O
@@ -28136,7 +28136,7 @@
   end: 2741.77
   segments:
   - lab: _
-    dur: 0.635
+    dur: 0.97998
   - lab: D
     dur: 0.05
   - lab: '@'
@@ -28216,7 +28216,7 @@
   end: 2746.99
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.35498
   - lab: A
     dur: 0.315
   - lab: m
@@ -28285,7 +28285,7 @@
   end: 2762.33
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.41998
   - lab: m
     dur: 0.055
   - lab: u
@@ -28407,7 +28407,7 @@
   end: 2766.71
   segments:
   - lab: _
-    dur: 0.45
+    dur: -0.00502
   - lab: j
     dur: 0.39
   - lab: u
@@ -28469,7 +28469,7 @@
   end: 2778.72
   segments:
   - lab: _
-    dur: 0.685
+    dur: 1.27998
   - lab: '@'
     dur: 0.045
   - lab: m
@@ -28697,7 +28697,7 @@
   end: 2786.53
   segments:
   - lab: _
-    dur: 0.64411
+    dur: 0.74909
   - lab: D
     dur: 0.054874
   - lab: EI
@@ -28815,7 +28815,7 @@
   end: 2790.77
   segments:
   - lab: _
-    dur: 0.67
+    dur: 0.40498
   - lab: D
     dur: 0.07
   - lab: I
@@ -28872,7 +28872,7 @@
   end: 2805.27
   segments:
   - lab: _
-    dur: 0.657176
+    dur: 0.722156
   - lab: k
     dur: 0.091455
   - lab: A
@@ -28990,7 +28990,7 @@
   end: 2813.08
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.99998
   - lab: n
     dur: 0.1
   - lab: '{'
@@ -29110,7 +29110,7 @@
   end: 2819.84
   segments:
   - lab: _
-    dur: 0.595
+    dur: 0.37998
   - lab: f
     dur: 0.09
   - lab: O
@@ -29230,7 +29230,7 @@
   end: 2828.56
   segments:
   - lab: _
-    dur: 0.635
+    dur: 0.37998
   - lab: s
     dur: 0.175
   - lab: AI
@@ -29359,7 +29359,7 @@
   end: 2838.58
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.62498
   - lab: A
     dur: 0.08
   - lab: n
@@ -29423,7 +29423,7 @@
   end: 2847.44
   segments:
   - lab: _
-    dur: 0.275
+    dur: 0.18998
   - lab: S
     dur: 0.51
   - lab: i
@@ -29553,7 +29553,7 @@
   end: 2853.29
   segments:
   - lab: _
-    dur: 0.67
+    dur: 0.28498
   - lab: I
     dur: 0.065
   - lab: n
@@ -29639,7 +29639,7 @@
   end: 2857.95
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.244918
   - lab: I
     dur: 0.085
   - lab: t
@@ -29705,7 +29705,7 @@
   end: 2864.22
   segments:
   - lab: _
-    dur: 0.625
+    dur: 0.58998
   - lab: D
     dur: 0.065
   - lab: EI
@@ -29797,7 +29797,7 @@
   end: 2869.02
   segments:
   - lab: _
-    dur: 0.59
+    dur: 0.38498
   - lab: D
     dur: 0.095
   - lab: I
@@ -29865,7 +29865,7 @@
   end: 2874.38
   segments:
   - lab: _
-    dur: 0.555
+    dur: 0.50998
   - lab: f
     dur: 0.13
   - lab: r=
@@ -29943,7 +29943,7 @@
   end: 2882.82
   segments:
   - lab: _
-    dur: 0.684612
+    dur: 1.329592
   - lab: I
     dur: 0.060388
   - lab: n
@@ -30080,7 +30080,7 @@
   end: 2902.64
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.79498
   - lab: AI
     dur: 0.125
   - lab: h
@@ -30254,7 +30254,7 @@
   end: 2910.45
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.41998
   - lab: V
     dur: 0.125
   - lab: D
@@ -30378,7 +30378,7 @@
   end: 2914.48
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.39498
   - lab: I
     dur: 0.07
   - lab: t
@@ -30430,7 +30430,7 @@
   end: 2920.26
   segments:
   - lab: _
-    dur: 0.56
+    dur: 0.42498
   - lab: f
     dur: 0.125
   - lab: r=
@@ -30516,7 +30516,7 @@
   end: 2927.86
   segments:
   - lab: _
-    dur: 0.665
+    dur: 1.13998
   - lab: d
     dur: 0.06926
   - lab: U
@@ -30650,7 +30650,7 @@
   end: 2936.44
   segments:
   - lab: _
-    dur: 0.672854
+    dur: 0.657834
   - lab: '{'
     dur: 0.083616
   - lab: m
@@ -30797,7 +30797,7 @@
   end: 2947.72
   segments:
   - lab: _
-    dur: 0.64
+    dur: 0.75498
   - lab: g
     dur: 0.077275
   - lab: I
@@ -30869,7 +30869,7 @@
   end: 2957.7
   segments:
   - lab: _
-    dur: 0.623206
+    dur: 0.938186
   - lab: p
     dur: 0.096682
   - lab: r
@@ -31037,7 +31037,7 @@
   end: 2964.32
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.36998
   - lab: l
     dur: 0.07
   - lab: E
@@ -31131,7 +31131,7 @@
   end: 2977.38
   segments:
   - lab: _
-    dur: 0.68
+    dur: 1.01498
   - lab: l
     dur: 0.13
   - lab: E
@@ -31335,7 +31335,7 @@
   end: 2982.39
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.31998
   - lab: r
     dur: 0.13
   - lab: E
@@ -31407,7 +31407,7 @@
   end: 2987.68
   segments:
   - lab: _
-    dur: 0.665
+    dur: 0.41998
   - lab: s
     dur: 0.155
   - lab: '{'
@@ -31492,7 +31492,7 @@
   end: 3005.26
   segments:
   - lab: _
-    dur: 0.67416
+    dur: 0.62914
   - lab: O
     dur: 0.14084
   - lab: l
@@ -31635,7 +31635,7 @@
   end: 3022.28
   segments:
   - lab: _
-    dur: 0.672854
+    dur: 0.647834
   - lab: A
     dur: 0.082146
   - lab: n
@@ -31775,7 +31775,7 @@
   end: 3028.62
   segments:
   - lab: _
-    dur: 0.67
+    dur: 0.49498
   - lab: m
     dur: 0.085
   - lab: '@U'
@@ -31876,7 +31876,7 @@
   end: 3045.5
   segments:
   - lab: _
-    dur: 0.615
+    dur: 0.40998
   - lab: D
     dur: 0.07
   - lab: '@'
@@ -32017,7 +32017,7 @@
   end: 3053.73
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.209918
   - lab: m
     dur: 0.155
   - lab: EI
@@ -32155,7 +32155,7 @@
   end: 3059.72
   segments:
   - lab: _
-    dur: 0.555
+    dur: 0.43998
   - lab: f
     dur: 0.125
   - lab: O
@@ -32255,7 +32255,7 @@
   end: 3064.31
   segments:
   - lab: _
-    dur: 0.645
+    dur: 0.209918
   - lab: b
     dur: 0.045
   - lab: '@U'
@@ -32315,7 +32315,7 @@
   end: 3070.51
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.57498
   - lab: m
     dur: 0.09
   - lab: E
@@ -32411,7 +32411,7 @@
   end: 3075.17
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.32998
   - lab: '{'
     dur: 0.125
   - lab: f
@@ -32484,7 +32484,7 @@
   end: 3118.45
   segments:
   - lab: _
-    dur: 0.628432
+    dur: 0.593412
   - lab: D
     dur: 0.062713
   - lab: '@'
@@ -32670,7 +32670,7 @@
   end: 3122.9
   segments:
   - lab: _
-    dur: 0.665
+    dur: 0.48998
   - lab: s
     dur: 0.155
   - lab: '@U'
@@ -32726,7 +32726,7 @@
   end: 3127.28
   segments:
   - lab: _
-    dur: 0.66
+    dur: 0.40498
   - lab: s
     dur: 0.14
   - lab: '@U'
@@ -32781,7 +32781,7 @@
   end: 3136.73
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.71998
   - lab: t
     dur: 0.08931
   - lab: E
@@ -32847,7 +32847,7 @@
   end: 3141.81
   segments:
   - lab: _
-    dur: 0.67
+    dur: 0.41498
   - lab: d
     dur: 0.025
   - lab: u
@@ -32913,7 +32913,7 @@
   end: 3145.91
   segments:
   - lab: _
-    dur: 1.02
+    dur: 0.48498
   - lab: h
     dur: 0.06
   - lab: u
@@ -32957,7 +32957,7 @@
   end: 3149.8
   segments:
   - lab: _
-    dur: 0.39
+    dur: -0.00502
   - lab: w
     dur: 0.39
   - lab: r=
@@ -32999,7 +32999,7 @@
   end: 3153.06
   segments:
   - lab: _
-    dur: 0.67
+    dur: 0.36498
   - lab: I
     dur: 0.07
   - lab: t
@@ -33033,7 +33033,7 @@
   end: 3156.95
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.21998
   - lab: j
     dur: 0.09
   - lab: u
@@ -33075,7 +33075,7 @@
   end: 3160.14
   segments:
   - lab: _
-    dur: 0.65
+    dur: 0.20498
   - lab: h
     dur: 0.075
   - lab: '@U'
@@ -33109,7 +33109,7 @@
   end: 3163.75
   segments:
   - lab: _
-    dur: 0.565
+    dur: 0.10998
   - lab: p
     dur: 0.18
   - lab: U
@@ -33149,7 +33149,7 @@
   end: 3167.99
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.29998
   - lab: E
     dur: 0.105
   - lab: v
@@ -33203,7 +33203,7 @@
   end: 3171.67
   segments:
   - lab: _
-    dur: 0.67
+    dur: 0.234918
   - lab: l
     dur: 0.09
   - lab: U
@@ -33241,7 +33241,7 @@
   end: 3176.26
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.35498
   - lab: E
     dur: 0.06
   - lab: v
@@ -33291,7 +33291,7 @@
   end: 3182.04
   segments:
   - lab: _
-    dur: 0.641497
+    dur: 0.616477
   - lab: g
     dur: 0.070552
   - lab: I
@@ -33367,7 +33367,7 @@
   end: 3185.44
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.49998
   - lab: I
     dur: 0.055
   - lab: t
@@ -33403,7 +33403,7 @@
   end: 3190.52
   segments:
   - lab: _
-    dur: 0.58
+    dur: 0.18498
   - lab: T
     dur: 0.095
   - lab: I
@@ -33469,7 +33469,7 @@
   end: 3193.57
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.42998
   - lab: d
     dur: 0.02
   - lab: '@U'
@@ -33499,7 +33499,7 @@
   end: 3199.98
   segments:
   - lab: _
-    dur: 0.61
+    dur: 0.55498
   - lab: T
     dur: 0.12
   - lab: I
@@ -33591,7 +33591,7 @@
   end: 3203.8
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.40998
   - lab: AI
     dur: 0.135
   - lab: d
@@ -33633,7 +33633,7 @@
   end: 3211.68
   segments:
   - lab: _
-    dur: 0.651949
+    dur: 0.616929
   - lab: d
     dur: 0.050954
   - lab: '@U'
@@ -33749,7 +33749,7 @@
   end: 3214.87
   segments:
   - lab: _
-    dur: 0.66
+    dur: 0.33498
   - lab: D
     dur: 0.07
   - lab: '{'
@@ -33779,7 +33779,7 @@
   end: 3218.55
   segments:
   - lab: _
-    dur: 0.44
+    dur: -0.00502
   - lab: w
     dur: 0.33
   - lab: V
@@ -33815,7 +33815,7 @@
   end: 3222.51
   segments:
   - lab: _
-    dur: 0.6
+    dur: 0.12498
   - lab: T
     dur: 0.12
   - lab: I
@@ -33863,7 +33863,7 @@
   end: 3226.89
   segments:
   - lab: _
-    dur: 0.67
+    dur: 0.47498
   - lab: w
     dur: 0.055
   - lab: V
@@ -33909,7 +33909,7 @@
   end: 3231.2
   segments:
   - lab: _
-    dur: 0.67
+    dur: 0.42498
   - lab: w
     dur: 0.105
   - lab: E
@@ -33961,7 +33961,7 @@
   end: 3233.55
   segments:
   - lab: _
-    dur: 0.67
+    dur: 0.53498
   - lab: w
     dur: 0.11
   - lab: E
@@ -33977,7 +33977,7 @@
   end: 3238.35
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.42498
   - lab: I
     dur: 0.07
   - lab: t
@@ -34035,7 +34035,7 @@
   end: 3243.5
   segments:
   - lab: _
-    dur: 0.33
+    dur: 0.13498
   - lab: w
     dur: 0.415
   - lab: V
@@ -34099,7 +34099,7 @@
   end: 3248.37
   segments:
   - lab: _
-    dur: 0.62
+    dur: 0.47498
   - lab: t
     dur: 0.075
   - lab: E
@@ -34159,7 +34159,7 @@
   end: 3251.91
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.39498
   - lab: d
     dur: 0.02
   - lab: I
@@ -34197,7 +34197,7 @@
   end: 3256.99
   segments:
   - lab: _
-    dur: 0.63
+    dur: 0.20498
   - lab: s
     dur: 0.185
   - lab: m
@@ -34261,7 +34261,7 @@
   end: 3262.07
   segments:
   - lab: _
-    dur: 0.635
+    dur: 0.39998
   - lab: D
     dur: 0.05
   - lab: E
@@ -34327,7 +34327,7 @@
   end: 3264.7
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.40998
   - lab: tS
     dur: 0.1
   - lab: I
@@ -34347,7 +34347,7 @@
   end: 3268.03
   segments:
   - lab: _
-    dur: 0.67
+    dur: 0.37498
   - lab: dZ
     dur: 0.07
   - lab: V
@@ -34383,7 +34383,7 @@
   end: 3273.04
   segments:
   - lab: _
-    dur: 0.66
+    dur: 0.38498
   - lab: AI
     dur: 0.145
   - lab: T
@@ -34443,7 +34443,7 @@
   end: 3276.86
   segments:
   - lab: _
-    dur: 0.61
+    dur: 0.40498
   - lab: D
     dur: 0.085
   - lab: '{'
@@ -34491,7 +34491,7 @@
   end: 3281.1
   segments:
   - lab: _
-    dur: 0.597076
+    dur: 0.602056
   - lab: D
     dur: 0.092762
   - lab: '{'
@@ -34539,7 +34539,7 @@
   end: 3285.34
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.45998
   - lab: AI
     dur: 0.14
   - lab: T
@@ -34585,7 +34585,7 @@
   end: 3291.68
   segments:
   - lab: _
-    dur: 0.62
+    dur: 0.63498
   - lab: D
     dur: 0.06
   - lab: E
@@ -34671,7 +34671,7 @@
   end: 3295.71
   segments:
   - lab: _
-    dur: 0.635
+    dur: 0.24998
   - lab: j
     dur: 0.08
   - lab: u
@@ -34719,7 +34719,7 @@
   end: 3299.39
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.48998
   - lab: s
     dur: 0.12
   - lab: '@U'
@@ -34759,7 +34759,7 @@
   end: 3302.09
   segments:
   - lab: _
-    dur: 0.655
+    dur: 0.37998
   - lab: h
     dur: 0.08
   - lab: u
@@ -34781,7 +34781,7 @@
   end: 3306.47
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.43998
   - lab: m
     dur: 0.1
   - lab: EI
@@ -34831,7 +34831,7 @@
   end: 3310.99
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.45998
   - lab: d
     dur: 0.025
   - lab: '@U'
@@ -34887,7 +34887,7 @@
   end: 3316.07
   segments:
   - lab: _
-    dur: 0.67
+    dur: 0.35498
   - lab: s
     dur: 0.115
   - lab: '@U'
@@ -34949,7 +34949,7 @@
   end: 3321.15
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.55498
   - lab: '@U'
     dur: 0.145
   - lab: k
@@ -35015,7 +35015,7 @@
   end: 3324.69
   segments:
   - lab: _
-    dur: 0.6
+    dur: 0.15498
   - lab: k
     dur: 0.125
   - lab: V
@@ -35055,7 +35055,7 @@
   end: 3330.19
   segments:
   - lab: _
-    dur: 0.625
+    dur: 0.41998
   - lab: t
     dur: 0.075
   - lab: E
@@ -35130,7 +35130,7 @@
   end: 3337.64
   segments:
   - lab: _
-    dur: 1.195
+    dur: 0.74998
   - lab: w
     dur: 0.05
   - lab: V
@@ -35190,7 +35190,7 @@
   end: 3341.53
   segments:
   - lab: _
-    dur: 0.66
+    dur: 0.49498
   - lab: w
     dur: 0.08
   - lab: V
@@ -35234,7 +35234,7 @@
   end: 3344.72
   segments:
   - lab: _
-    dur: 0.67
+    dur: 0.43498
   - lab: w
     dur: 0.095
   - lab: V
@@ -35264,7 +35264,7 @@
   end: 3348.75
   segments:
   - lab: _
-    dur: 0.67
+    dur: 0.43498
   - lab: s
     dur: 0.11
   - lab: '@U'
@@ -35308,7 +35308,7 @@
   end: 3353.41
   segments:
   - lab: _
-    dur: 0.64
+    dur: 0.50498
   - lab: D
     dur: 0.04
   - lab: '{'
@@ -35368,7 +35368,7 @@
   end: 3356.81
   segments:
   - lab: _
-    dur: 0.56
+    dur: 0.50498
   - lab: w
     dur: 0.215
   - lab: AI
@@ -35405,7 +35405,7 @@
   end: 3365.03
   segments:
   - lab: _
-    dur: 0.695
+    dur: 0.67998
   - lab: h
     dur: 0.06931
   - lab: aU
@@ -35463,7 +35463,7 @@
   end: 3369.97
   segments:
   - lab: _
-    dur: 0.66
+    dur: 0.49498
   - lab: j
     dur: 0.12
   - lab: u
@@ -35525,7 +35525,7 @@
   end: 3373.86
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.30998
   - lab: j
     dur: 0.12
   - lab: u
@@ -35579,7 +35579,7 @@
   end: 3377.75
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.35998
   - lab: j
     dur: 0.1
   - lab: u
@@ -35631,7 +35631,7 @@
   end: 3381.78
   segments:
   - lab: _
-    dur: 0.665
+    dur: 0.50998
   - lab: j
     dur: 0.08
   - lab: u
@@ -35683,7 +35683,7 @@
   end: 3387.0
   segments:
   - lab: _
-    dur: 0.66
+    dur: 0.45498
   - lab: j
     dur: 0.085
   - lab: u
@@ -35751,7 +35751,7 @@
   end: 3390.61
   segments:
   - lab: _
-    dur: 0.505
+    dur: 0.35998
   - lab: w
     dur: 0.27
   - lab: E
@@ -35789,7 +35789,7 @@
   end: 3394.43
   segments:
   - lab: _
-    dur: 0.665
+    dur: 0.29998
   - lab: w
     dur: 0.065
   - lab: V
@@ -35831,7 +35831,7 @@
   end: 3397.34
   segments:
   - lab: _
-    dur: 0.665015
+    dur: 0.459995
   - lab: t
     dur: 0.083616
   - lab: E
@@ -35857,7 +35857,7 @@
   end: 3401.02
   segments:
   - lab: _
-    dur: 0.63
+    dur: 0.48498
   - lab: h
     dur: 0.07
   - lab: EI
@@ -35899,7 +35899,7 @@
   end: 3404.56
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.47498
   - lab: AI
     dur: 0.13
   - lab: d
@@ -35935,7 +35935,7 @@
   end: 3409.57
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.61998
   - lab: E
     dur: 0.07
   - lab: v
@@ -35999,7 +35999,7 @@
   end: 3413.25
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.34498
   - lab: j
     dur: 0.085
   - lab: u
@@ -36035,7 +36035,7 @@
   end: 3416.72
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.48998
   - lab: j
     dur: 0.12
   - lab: u
@@ -36071,7 +36071,7 @@
   end: 3420.26
   segments:
   - lab: _
-    dur: 1.007321
+    dur: 0.622301
   - lab: AI
     dur: 0.101908
   - lab: E
@@ -36111,7 +36111,7 @@
   end: 3424.85
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.44998
   - lab: h
     dur: 0.08
   - lab: '{'
@@ -36171,7 +36171,7 @@
   end: 3428.6
   segments:
   - lab: _
-    dur: 0.665
+    dur: 0.38998
   - lab: g
     dur: 0.03
   - lab: '@U'
@@ -36211,7 +36211,7 @@
   end: 3434.31
   segments:
   - lab: _
-    dur: 0.59
+    dur: 0.86498
   - lab: f
     dur: 0.095
   - lab: AI
@@ -36291,7 +36291,7 @@
   end: 3439.25
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.34998
   - lab: I
     dur: 0.065
   - lab: t
@@ -36355,7 +36355,7 @@
   end: 3445.17
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.63498
   - lab: I
     dur: 0.08
   - lab: z
@@ -36433,7 +36433,7 @@
   end: 3447.45
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.43998
   - lab: w
     dur: 0.085
   - lab: aU
@@ -36447,7 +36447,7 @@
   end: 3449.73
   segments:
   - lab: _
-    dur: 0.83
+    dur: 0.28498
   - lab: h
     dur: 0.085
   - lab: EI
@@ -36461,7 +36461,7 @@
   end: 3455.02
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.43998
   - lab: AI
     dur: 0.12
   - lab: T
@@ -36527,7 +36527,7 @@
   end: 3459.33
   segments:
   - lab: _
-    dur: 0.665
+    dur: 0.40998
   - lab: D
     dur: 0.035
   - lab: '{'
@@ -36581,7 +36581,7 @@
   end: 3463.36
   segments:
   - lab: _
-    dur: 0.625
+    dur: 0.14998
   - lab: t
     dur: 0.115
   - lab: E
@@ -36627,7 +36627,7 @@
   end: 3468.23
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.54998
   - lab: t
     dur: 0.06
   - lab: E
@@ -36689,7 +36689,7 @@
   end: 3473.1
   segments:
   - lab: _
-    dur: 0.67
+    dur: 0.43498
   - lab: t
     dur: 0.08
   - lab: E
@@ -36753,7 +36753,7 @@
   end: 3477.97
   segments:
   - lab: _
-    dur: 0.665
+    dur: 0.51998
   - lab: t
     dur: 0.07
   - lab: E
@@ -36813,7 +36813,7 @@
   end: 3480.39
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.97498
   - lab: '@U'
     dur: 0.145
   - lab: m
@@ -36829,7 +36829,7 @@
   end: 3484.7
   segments:
   - lab: _
-    dur: 0.51
+    dur: 0.32498
   - lab: w
     dur: 0.24
   - lab: V
@@ -36881,7 +36881,7 @@
   end: 3491.11
   segments:
   - lab: _
-    dur: 0.67
+    dur: 0.54498
   - lab: m
     dur: 0.085
   - lab: V
@@ -36983,7 +36983,7 @@
   end: 3499.69
   segments:
   - lab: _
-    dur: 0.637578
+    dur: 0.682558
   - lab: D
     dur: 0.05618
   - lab: '@'
@@ -37139,7 +37139,7 @@
   end: 3525.01
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.65998
   - lab: n
     dur: 0.114133
   - lab: '@U'
@@ -37269,7 +37269,7 @@
   end: 3530.3
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.39498
   - lab: I
     dur: 0.06
   - lab: n
@@ -37345,7 +37345,7 @@
   end: 3535.59
   segments:
   - lab: _
-    dur: 0.42
+    dur: 0.31498
   - lab: w
     dur: 0.345
   - lab: V
@@ -37421,7 +37421,7 @@
   end: 3541.16
   segments:
   - lab: _
-    dur: 0.64
+    dur: 0.204918
   - lab: D
     dur: 0.045
   - lab: '@'
@@ -37499,7 +37499,7 @@
   end: 3550.51
   segments:
   - lab: _
-    dur: 0.632352
+    dur: 0.667332
   - lab: w
     dur: 0.082648
   - lab: i
@@ -37655,7 +37655,7 @@
   end: 3559.58
   segments:
   - lab: _
-    dur: 0.625819
+    dur: 0.530799
   - lab: dZ
     dur: 0.104521
   - lab: O
@@ -37803,7 +37803,7 @@
   end: 3568.65
   segments:
   - lab: _
-    dur: 0.515
+    dur: 0.42998
   - lab: s
     dur: 0.134336
   - lab: k
@@ -37965,7 +37965,7 @@
   end: 3574.99
   segments:
   - lab: _
-    dur: 0.42
+    dur: 0.22498
   - lab: h
     dur: 0.27
   - lab: I
@@ -38067,7 +38067,7 @@
   end: 3579.3
   segments:
   - lab: _
-    dur: 0.635
+    dur: 0.67998
   - lab: D
     dur: 0.05
   - lab: '@'
@@ -38121,7 +38121,7 @@
   end: 3588.79
   segments:
   - lab: _
-    dur: 0.680693
+    dur: 0.795673
   - lab: m
     dur: 0.049307
   - lab: '@'
@@ -38273,7 +38273,7 @@
   end: 3598.35
   segments:
   - lab: _
-    dur: 0.620593
+    dur: 0.855573
   - lab: b
     dur: 0.077084
   - lab: AI
@@ -38427,7 +38427,7 @@
   end: 3607.63
   segments:
   - lab: _
-    dur: 0.675
+    dur: 1.15998
   - lab: k
     dur: 0.063179
   - lab: r=
@@ -38581,7 +38581,7 @@
   end: 3616.91
   segments:
   - lab: _
-    dur: 0.655
+    dur: 0.60998
   - lab: dZ
     dur: 0.08
   - lab: A
@@ -38737,7 +38737,7 @@
   end: 3625.84
   segments:
   - lab: _
-    dur: 0.624513
+    dur: 0.859493
   - lab: D
     dur: 0.067938
   - lab: '@'
@@ -38900,7 +38900,7 @@
   end: 3635.36
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.62998
   - lab: l
     dur: 0.11
   - lab: i
@@ -39058,7 +39058,7 @@
   end: 3640.02
   segments:
   - lab: _
-    dur: 0.67
+    dur: 0.82498
   - lab: m
     dur: 0.044662
   - lab: '@'
@@ -39127,7 +39127,7 @@
   end: 3652.8
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.78998
   - lab: AI
     dur: 0.117198
   - lab: d
@@ -39351,7 +39351,7 @@
   end: 3664.04
   segments:
   - lab: _
-    dur: 0.629739
+    dur: 0.964719
   - lab: h
     dur: 0.070551
   - lab: u
@@ -39559,7 +39559,7 @@
   end: 3669.05
   segments:
   - lab: _
-    dur: 0.64
+    dur: 0.50498
   - lab: h
     dur: 0.07
   - lab: A
@@ -39628,7 +39628,7 @@
   end: 3683.14
   segments:
   - lab: _
-    dur: 0.645
+    dur: 0.61998
   - lab: D
     dur: 0.047451
   - lab: '@'
@@ -39823,7 +39823,7 @@
   end: 3698.15
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.40498
   - lab: I
     dur: 0.05
   - lab: n
@@ -39971,7 +39971,7 @@
   end: 3707.78
   segments:
   - lab: _
-    dur: 0.685
+    dur: 1.45998
   - lab: I
     dur: 0.07
   - lab: t
@@ -40150,7 +40150,7 @@
   end: 3728.31
   segments:
   - lab: _
-    dur: 0.650643
+    dur: 0.495623
   - lab: D
     dur: 0.045728
   - lab: '@'
@@ -40332,7 +40332,7 @@
   end: 3740.67
   segments:
   - lab: _
-    dur: 0.67
+    dur: 0.71498
   - lab: t
     dur: 0.070792
   - lab: r
@@ -40556,7 +40556,7 @@
   end: 3747.85
   segments:
   - lab: _
-    dur: 0.665015
+    dur: 0.729995
   - lab: w
     dur: 0.049985
   - lab: E
@@ -40662,7 +40662,7 @@
   end: 3752.44
   segments:
   - lab: _
-    dur: 0.625
+    dur: 0.62998
   - lab: D
     dur: 0.08
   - lab: '@'
@@ -40730,7 +40730,7 @@
   end: 3758.01
   segments:
   - lab: _
-    dur: 0.655
+    dur: 0.71998
   - lab: D
     dur: 0.025
   - lab: '@'
@@ -40819,7 +40819,7 @@
   end: 3770.92
   segments:
   - lab: _
-    dur: 0.615367
+    dur: 0.620347
   - lab: h
     dur: 0.083617
   - lab: i
@@ -40947,7 +40947,7 @@
   end: 3779.64
   segments:
   - lab: _
-    dur: 0.635
+    dur: 0.69998
   - lab: D
     dur: 0.050919
   - lab: '@'
@@ -41099,7 +41099,7 @@
   end: 3785.0
   segments:
   - lab: _
-    dur: 0.605
+    dur: 0.31998
   - lab: j
     dur: 0.155
   - lab: u
@@ -41170,7 +41170,7 @@
   end: 3802.74
   segments:
   - lab: _
-    dur: 0.667628
+    dur: 0.982608
   - lab: I
     dur: 0.072372
   - lab: n
@@ -41335,7 +41335,7 @@
   end: 3821.78
   segments:
   - lab: _
-    dur: 0.657176
+    dur: 0.652156
   - lab: '{'
     dur: 0.102824
   - lab: t
@@ -41535,7 +41535,7 @@
   end: 3835.88
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.67498
   - lab: I
     dur: 0.07
   - lab: t
@@ -41608,7 +41608,7 @@
   end: 3844.11
   segments:
   - lab: _
-    dur: 0.66
+    dur: 0.59498
   - lab: S
     dur: 0.115
   - lab: i
@@ -41674,7 +41674,7 @@
   end: 3849.96
   segments:
   - lab: _
-    dur: 0.645
+    dur: 0.57998
   - lab: s
     dur: 0.16
   - lab: V
@@ -41772,7 +41772,7 @@
   end: 3869.2
   segments:
   - lab: _
-    dur: 0.605
+    dur: 0.43998
   - lab: D
     dur: 0.08
   - lab: I
@@ -41930,7 +41930,7 @@
   end: 3873.44
   segments:
   - lab: _
-    dur: 0.87
+    dur: 0.53498
   - lab: f
     dur: 0.09
   - lab: O
@@ -41982,7 +41982,7 @@
   end: 3881.18
   segments:
   - lab: _
-    dur: 0.65
+    dur: 0.46498
   - lab: D
     dur: 0.04
   - lab: '@'
@@ -42092,7 +42092,7 @@
   end: 3891.16
   segments:
   - lab: _
-    dur: 0.64
+    dur: 0.37498
   - lab: h
     dur: 0.055
   - lab: aU
@@ -42256,7 +42256,7 @@
   end: 3896.24
   segments:
   - lab: _
-    dur: 0.665
+    dur: 0.54998
   - lab: d
     dur: 0.025
   - lab: AI
@@ -42331,7 +42331,7 @@
   end: 3917.04
   segments:
   - lab: _
-    dur: 0.475
+    dur: 0.31998
   - lab: O
     dur: 0.34
   - lab: l
@@ -42515,7 +42515,7 @@
   end: 3945.72
   segments:
   - lab: _
-    dur: 0.33
+    dur: 0.11498
   - lab: h
     dur: 0.345
   - lab: I
@@ -42681,7 +42681,7 @@
   end: 3950.1
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.53498
   - lab: I
     dur: 0.06
   - lab: f
@@ -42749,7 +42749,7 @@
   end: 3975.77
   segments:
   - lab: _
-    dur: 0.593156
+    dur: 0.558136
   - lab: t
     dur: 0.094069
   - lab: '@'
@@ -42928,7 +42928,7 @@
   end: 3991.13
   segments:
   - lab: _
-    dur: 0.676773
+    dur: 1.261753
   - lab: I
     dur: 0.068227
   - lab: n
@@ -43105,7 +43105,7 @@
   end: 3999.04
   segments:
   - lab: _
-    dur: 0.64
+    dur: 0.68498
   - lab: S
     dur: 0.15
   - lab: A
@@ -43199,7 +43199,7 @@
   end: 4004.75
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.49498
   - lab: I
     dur: 0.05
   - lab: n
@@ -43283,7 +43283,7 @@
   end: 4014.52
   segments:
   - lab: _
-    dur: 0.641497
+    dur: 0.616477
   - lab: D
     dur: 0.058793
   - lab: i
@@ -43454,7 +43454,7 @@
   end: 4028.1421768707
   segments:
   - lab: _
-    dur: 0.627126
+    dur: 0.702106
   - lab: p
     dur: 0.087536
   - lab: i
@@ -43568,7 +43568,7 @@
   end: 4035.6721768707
   segments:
   - lab: _
-    dur: 0.62
+    dur: 0.94498
   - lab: h
     dur: 0.072451
   - lab: r=
@@ -43684,7 +43684,7 @@
   end: 4041.4521768707
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.43998
   - lab: V
     dur: 0.1
   - lab: D
@@ -43756,7 +43756,7 @@
   end: 4046.6021768707
   segments:
   - lab: _
-    dur: 0.62
+    dur: 0.46498
   - lab: g
     dur: 0.085
   - lab: A
@@ -43826,7 +43826,7 @@
   end: 4054.4121768707
   segments:
   - lab: _
-    dur: 0.645
+    dur: 0.51998
   - lab: D
     dur: 0.045
   - lab: E
@@ -43942,7 +43942,7 @@
   end: 4066.4221768707
   segments:
   - lab: _
-    dur: 0.671547
+    dur: 0.826527
   - lab: '@'
     dur: 0.057487
   - lab: l
@@ -44135,7 +44135,7 @@
   end: 4074.4321768707
   segments:
   - lab: _
-    dur: 0.565
+    dur: 0.13998
   - lab: A
     dur: 0.215
   - lab: n
@@ -44210,7 +44210,7 @@
   end: 4082.2821768707
   segments:
   - lab: _
-    dur: 0.68
+    dur: 1.09498
   - lab: m
     dur: 0.07
   - lab: '@U'
@@ -44277,7 +44277,7 @@
   end: 4090.4221768707
   segments:
   - lab: _
-    dur: 0.62
+    dur: 0.55498
   - lab: D
     dur: 0.08
   - lab: I
@@ -44348,7 +44348,7 @@
   end: 4103.9521768707
   segments:
   - lab: _
-    dur: 0.665
+    dur: 0.49998
   - lab: r
     dur: 0.065
   - lab: V
@@ -44524,7 +44524,7 @@
   end: 4113.7921768707
   segments:
   - lab: _
-    dur: 0.68
+    dur: 1.01498
   - lab: I
     dur: 0.065
   - lab: n
@@ -44702,7 +44702,7 @@
   end: 4119.0121768707
   segments:
   - lab: _
-    dur: 0.35
+    dur: 0.22498
   - lab: h
     dur: 0.34
   - lab: i
@@ -44774,7 +44774,7 @@
   end: 4124.9321768707
   segments:
   - lab: _
-    dur: 0.645
+    dur: 0.45998
   - lab: '{'
     dur: 0.14
   - lab: z
@@ -44864,7 +44864,7 @@
   end: 4136.9421768707
   segments:
   - lab: _
-    dur: 0.625819
+    dur: 1.230799
   - lab: b
     dur: 0.065326
   - lab: V
@@ -45068,7 +45068,7 @@
   end: 4142.4421768707
   segments:
   - lab: _
-    dur: 0.635
+    dur: 0.75998
   - lab: D
     dur: 0.055
   - lab: EI
@@ -45142,7 +45142,7 @@
   end: 4153.6821768707
   segments:
   - lab: _
-    dur: 0.632352
+    dur: 0.487332
   - lab: f
     dur: 0.066632
   - lab: I
@@ -45318,7 +45318,7 @@
   end: 4164.5721768707
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.52998
   - lab: r
     dur: 0.215
   - lab: A
@@ -45496,7 +45496,7 @@
   end: 4171.8921768707
   segments:
   - lab: _
-    dur: 0.625
+    dur: 0.20998
   - lab: D
     dur: 0.055
   - lab: '@'
@@ -45604,7 +45604,7 @@
   end: 4182.6421768707
   segments:
   - lab: _
-    dur: 0.657176
+    dur: 1.042156
   - lab: I
     dur: 0.062824
   - lab: n
@@ -45797,7 +45797,7 @@
   end: 4197.7321768707
   segments:
   - lab: _
-    dur: 0.625
+    dur: 0.63998
   - lab: I
     dur: 0.03
   - lab: t
@@ -45977,7 +45977,7 @@
   end: 4202.2521768707
   segments:
   - lab: _
-    dur: 0.675
+    dur: 1.51998
   - lab: I
     dur: 0.075
   - lab: z
@@ -46033,7 +46033,7 @@
   end: 4209.2221768707
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.78998
   - lab: '{'
     dur: 0.06
   - lab: z
@@ -46143,7 +46143,7 @@
   end: 4214.2321768707
   segments:
   - lab: _
-    dur: 0.62
+    dur: 0.43498
   - lab: D
     dur: 0.06
   - lab: '@'
@@ -46213,7 +46213,7 @@
   end: 4225.0521768707
   segments:
   - lab: _
-    dur: 0.679386
+    dur: 1.024366
   - lab: O
     dur: 0.095614
   - lab: f
@@ -46393,7 +46393,7 @@
   end: 4236.0121768707
   segments:
   - lab: _
-    dur: 0.575
+    dur: 0.64998
   - lab: s
     dur: 0.138356
   - lab: I
@@ -46583,7 +46583,7 @@
   end: 4241.1621768707
   segments:
   - lab: _
-    dur: 0.655
+    dur: 0.37998
   - lab: dZ
     dur: 0.1
   - lab: OI
@@ -46651,7 +46651,7 @@
   end: 4247.2921768707
   segments:
   - lab: _
-    dur: 0.63
+    dur: 0.59498
   - lab: D
     dur: 0.075
   - lab: I
@@ -46752,7 +46752,7 @@
   end: 4260.8921768707
   segments:
   - lab: _
-    dur: 0.657176
+    dur: 0.842156
   - lab: A
     dur: 0.079697
   - lab: p
@@ -46878,7 +46878,7 @@
   end: 4265.5521768707
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.49998
   - lab: U
     dur: 0.195
   - lab: l
@@ -46934,7 +46934,7 @@
   end: 4271.0521768707
   segments:
   - lab: _
-    dur: 0.64
+    dur: 0.31498
   - lab: b
     dur: 0.04
   - lab: r=
@@ -47012,7 +47012,7 @@
   end: 4276.3421768707
   segments:
   - lab: _
-    dur: 0.655
+    dur: 0.31998
   - lab: I
     dur: 0.085
   - lab: n
@@ -47088,7 +47088,7 @@
   end: 4285.8321768707
   segments:
   - lab: _
-    dur: 0.655
+    dur: 1.22998
   - lab: d
     dur: 0.06
   - lab: U
@@ -47258,7 +47258,7 @@
   end: 4308.5621768707
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.24998
   - lab: '@'
     dur: 0.035
   - lab: t
@@ -47396,7 +47396,7 @@
   end: 4313.5721768707
   segments:
   - lab: _
-    dur: 0.585
+    dur: 0.07998
   - lab: f
     dur: 0.095
   - lab: O
@@ -47464,7 +47464,7 @@
   end: 4319.8421768707
   segments:
   - lab: _
-    dur: 0.57
+    dur: 0.02498
   - lab: h
     dur: 0.015
   - lab: I
@@ -47560,7 +47560,7 @@
   end: 4331.0821768707
   segments:
   - lab: _
-    dur: 0.661095
+    dur: 1.046075
   - lab: t
     dur: 0.063905
   - lab: u
@@ -47748,7 +47748,7 @@
   end: 4336.5121768707
   segments:
   - lab: _
-    dur: 0.65
+    dur: 1.13498
   - lab: h
     dur: 0.065
   - lab: E
@@ -47836,7 +47836,7 @@
   end: 4363.5421768707
   segments:
   - lab: _
-    dur: 0.59
+    dur: 0.25498
   - lab: p
     dur: 0.1
   - lab: r
@@ -48020,7 +48020,7 @@
   end: 4374.5721768707
   segments:
   - lab: _
-    dur: 0.62
+    dur: 0.43498
   - lab: D
     dur: 0.06
   - lab: '@'
@@ -48206,7 +48206,7 @@
   end: 4380.6321768707
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.239918
   - lab: '@'
     dur: 0.1
   - lab: r
@@ -48295,7 +48295,7 @@
   end: 4392.8921768707
   segments:
   - lab: _
-    dur: 0.632352
+    dur: 0.627332
   - lab: D
     dur: 0.074471
   - lab: '@'
@@ -48393,7 +48393,7 @@
   end: 4401.7521768707
   segments:
   - lab: _
-    dur: 0.675467
+    dur: 0.770447
   - lab: I
     dur: 0.049533
   - lab: n
@@ -48547,7 +48547,7 @@
   end: 4407.5321768707
   segments:
   - lab: _
-    dur: 0.655
+    dur: 0.10998
   - lab: s
     dur: 0.145
   - lab: '@U'
@@ -48632,7 +48632,7 @@
   end: 4415.1021768707
   segments:
   - lab: _
-    dur: 0.6
+    dur: 0.05498
   - lab: D
     dur: 0.05
   - lab: EI
@@ -48696,7 +48696,7 @@
   end: 4421.9321768707
   segments:
   - lab: _
-    dur: 0.44
+    dur: 0.01498
   - lab: D
     dur: 0.075
   - lab: '@'
@@ -48798,7 +48798,7 @@
   end: 4429.0421768707
   segments:
   - lab: _
-    dur: 0.585
+    dur: 0.27998
   - lab: s
     dur: 0.12
   - lab: '{'
@@ -48911,7 +48911,7 @@
   end: 4438.2521768707
   segments:
   - lab: _
-    dur: 0.595
+    dur: 0.07998
   - lab: I
     dur: 0.055
   - lab: t
@@ -49000,7 +49000,7 @@
   end: 4447.8521768707
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.50498
   - lab: d
     dur: 0.02
   - lab: '@'
@@ -49060,7 +49060,7 @@
   end: 4452.4421768707
   segments:
   - lab: _
-    dur: 0.61798
+    dur: 0.63296
   - lab: D
     dur: 0.092763
   - lab: '@'
@@ -49120,7 +49120,7 @@
   end: 4457.1721768707
   segments:
   - lab: _
-    dur: 0.59
+    dur: 0.26498
   - lab: k
     dur: 0.15
   - lab: A
@@ -49186,7 +49186,7 @@
   end: 4465.8221768707
   segments:
   - lab: _
-    dur: 0.645
+    dur: 0.71998
   - lab: h
     dur: 0.07
   - lab: aU
@@ -49320,7 +49320,7 @@
   end: 4470.1321768707
   segments:
   - lab: _
-    dur: 0.635
+    dur: 0.38998
   - lab: S
     dur: 0.125
   - lab: i
@@ -49374,7 +49374,7 @@
   end: 4478.4321768707
   segments:
   - lab: _
-    dur: 0.641497
+    dur: 1.266477
   - lab: D
     dur: 0.062713
   - lab: '@'
@@ -49518,7 +49518,7 @@
   end: 4501.5821768707
   segments:
   - lab: _
-    dur: 0.55
+    dur: 0.12498
   - lab: f
     dur: 0.125
   - lab: O
@@ -49712,7 +49712,7 @@
   end: 4513.1721768707
   segments:
   - lab: _
-    dur: 0.67416
+    dur: 0.64914
   - lab: '{'
     dur: 0.05084
   - lab: n
@@ -49912,7 +49912,7 @@
   end: 4518.4621768707
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.30998
   - lab: n
     dur: 0.09
   - lab: '@U'
@@ -49985,7 +49985,7 @@
   end: 4531.5621768707
   segments:
   - lab: _
-    dur: 0.625
+    dur: 0.50998
   - lab: f
     dur: 0.065
   - lab: O
@@ -50089,7 +50089,7 @@
   end: 4536.6421768707
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.25498
   - lab: '@'
     dur: 0.04
   - lab: p
@@ -50159,7 +50159,7 @@
   end: 4544.4521768707
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.91998
   - lab: m
     dur: 0.08
   - lab: E
@@ -50283,7 +50283,7 @@
   end: 4549.0421768707
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.37498
   - lab: '{'
     dur: 0.125
   - lab: s
@@ -50349,7 +50349,7 @@
   end: 4559.9321768707
   segments:
   - lab: _
-    dur: 0.593156
+    dur: 0.858136
   - lab: b
     dur: 0.101908
   - lab: r
@@ -50547,7 +50547,7 @@
   end: 4569.7721768707
   segments:
   - lab: _
-    dur: 0.563107
+    dur: 1.008087
   - lab: T
     dur: 0.139796
   - lab: U
@@ -50707,7 +50707,7 @@
   end: 4574.4321768707
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.33998
   - lab: '@'
     dur: 0.045
   - lab: t
@@ -50769,7 +50769,7 @@
   end: 4579.5121768707
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.20498
   - lab: '{'
     dur: 0.075
   - lab: n
@@ -50833,7 +50833,7 @@
   end: 4584.3821768707
   segments:
   - lab: _
-    dur: 0.67
+    dur: 0.53498
   - lab: '@'
     dur: 0.1
   - lab: b
@@ -50907,7 +50907,7 @@
   end: 4618.4021768707
   segments:
   - lab: _
-    dur: 0.59
+    dur: 1.15498
   - lab: D
     dur: 0.099838
   - lab: '@'
@@ -51128,7 +51128,7 @@
   end: 4634.3043310657
   segments:
   - lab: _
-    dur: 0.655
+    dur: 0.10998
   - lab: m
     dur: 0.015
   - lab: A
@@ -51212,7 +51212,7 @@
   end: 4645.7243310657
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.86998
   - lab: '{'
     dur: 0.08
   - lab: n
@@ -51264,7 +51264,7 @@
   end: 4654.5843310657
   segments:
   - lab: _
-    dur: 0.624513
+    dur: 0.579493
   - lab: f
     dur: 0.070551
   - lab: O
@@ -51404,7 +51404,7 @@
   end: 4662.6743310657
   segments:
   - lab: _
-    dur: 0.625819
+    dur: 1.150799
   - lab: f
     dur: 0.071858
   - lab: E
@@ -51544,7 +51544,7 @@
   end: 4669.7843310657
   segments:
   - lab: _
-    dur: 0.646723
+    dur: 0.571703
   - lab: k
     dur: 0.105828
   - lab: A
@@ -51650,7 +51650,7 @@
   end: 4675.9143310657
   segments:
   - lab: _
-    dur: 0.665
+    dur: 0.64998
   - lab: m
     dur: 0.055
   - lab: '@'
@@ -51746,7 +51746,7 @@
   end: 4684.4943310657
   segments:
   - lab: _
-    dur: 0.633658
+    dur: 1.068638
   - lab: b
     dur: 0.062713
   - lab: '{'
@@ -51886,7 +51886,7 @@
   end: 4691.3943310657
   segments:
   - lab: _
-    dur: 0.663708
+    dur: 1.158688
   - lab: w
     dur: 0.096682
   - lab: E
@@ -51992,7 +51992,7 @@
   end: 4695.9143310657
   segments:
   - lab: _
-    dur: 0.65
+    dur: 0.74498
   - lab: D
     dur: 0.095
   - lab: E
@@ -52044,7 +52044,7 @@
   end: 4701.0643310657
   segments:
   - lab: _
-    dur: 0.651949
+    dur: 0.666929
   - lab: O
     dur: 0.128051
   - lab: f
@@ -52118,7 +52118,7 @@
   end: 4709.8543310657
   segments:
   - lab: _
-    dur: 0.685
+    dur: 1.05998
   - lab: i
     dur: 0.19
   - lab: s
@@ -52269,7 +52269,7 @@
   end: 4719.3143310657
   segments:
   - lab: _
-    dur: 0.684612
+    dur: 0.689592
   - lab: m
     dur: 0.088843
   - lab: O
@@ -52377,7 +52377,7 @@
   end: 4723.7643310657
   segments:
   - lab: _
-    dur: 0.685919
+    dur: 0.780899
   - lab: E
     dur: 0.134571
   - lab: r
@@ -52435,7 +52435,7 @@
   end: 4728.7043310657
   segments:
   - lab: _
-    dur: 0.637578
+    dur: 0.902558
   - lab: p
     dur: 0.100601
   - lab: r=
@@ -52506,7 +52506,7 @@
   end: 4738.7243310657
   segments:
   - lab: _
-    dur: 0.655
+    dur: 1.01998
   - lab: dZ
     dur: 0.1
   - lab: AI
@@ -52582,7 +52582,7 @@
   end: 4747.3043310657
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.54998
   - lab: A
     dur: 0.08
   - lab: n
@@ -52724,7 +52724,7 @@
   end: 4752.5243310657
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.63998
   - lab: m
     dur: 0.11
   - lab: E
@@ -52792,7 +52792,7 @@
   end: 4761.8043310657
   segments:
   - lab: _
-    dur: 0.641497
+    dur: 1.336477
   - lab: b
     dur: 0.053567
   - lab: I
@@ -52938,7 +52938,7 @@
   end: 4766.0443310657
   segments:
   - lab: _
-    dur: 0.34
+    dur: -0.00502
   - lab: h
     dur: 0.345
   - lab: i
@@ -52997,7 +52997,7 @@
   end: 4777.1943310657
   segments:
   - lab: _
-    dur: 0.633658
+    dur: 0.668638
   - lab: g
     dur: 0.065326
   - lab: '{'
@@ -53113,7 +53113,7 @@
   end: 4786.1243310657
   segments:
   - lab: _
-    dur: 0.665
+    dur: 0.82998
   - lab: D
     dur: 0.064034
   - lab: '@'
@@ -53263,7 +53263,7 @@
   end: 4794.7043310657
   segments:
   - lab: _
-    dur: 0.63
+    dur: 0.37498
   - lab: D
     dur: 0.05
   - lab: '@'
@@ -53405,7 +53405,7 @@
   end: 4802.0243310657
   segments:
   - lab: _
-    dur: 0.68
+    dur: 1.69498
   - lab: '{'
     dur: 0.05
   - lab: n
@@ -53526,7 +53526,7 @@
   end: 4816.7043310657
   segments:
   - lab: _
-    dur: 0.645
+    dur: 0.48998
   - lab: D
     dur: 0.025
   - lab: '@'
@@ -53674,7 +53674,7 @@
   end: 4822.5543310657
   segments:
   - lab: _
-    dur: 0.225
+    dur: 0.02998
   - lab: h
     dur: 0.455
   - lab: i
@@ -53768,7 +53768,7 @@
   end: 4831.9743310657
   segments:
   - lab: _
-    dur: 0.65
+    dur: 0.49498
   - lab: D
     dur: 0.03
   - lab: '@'
@@ -53916,7 +53916,7 @@
   end: 4837.6143310657
   segments:
   - lab: _
-    dur: 0.649336
+    dur: 0.674316
   - lab: O
     dur: 0.1202
   - lab: l
@@ -53996,7 +53996,7 @@
   end: 4844.6543310657
   segments:
   - lab: _
-    dur: 0.64
+    dur: 1.02498
   - lab: D
     dur: 0.051145
   - lab: '@'
@@ -54116,7 +54116,7 @@
   end: 4852.3943310657
   segments:
   - lab: _
-    dur: 0.654563
+    dur: 0.719543
   - lab: w
     dur: 0.060437
   - lab: I
@@ -54232,7 +54232,7 @@
   end: 4860.2043310657
   segments:
   - lab: _
-    dur: 0.575
+    dur: 0.29998
   - lab: b
     dur: 0.105
   - lab: i
@@ -54350,7 +54350,7 @@
   end: 4865.7043310657
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.60498
   - lab: d
     dur: 0.055
   - lab: U
@@ -54436,7 +54436,7 @@
   end: 4871.6943310657
   segments:
   - lab: _
-    dur: 0.9
+    dur: 0.92498
   - lab: D
     dur: 0.045
   - lab: '@'
@@ -54532,7 +54532,7 @@
   end: 4876.7743310657
   segments:
   - lab: _
-    dur: 0.61
+    dur: 0.64498
   - lab: D
     dur: 0.07
   - lab: I
@@ -54594,7 +54594,7 @@
   end: 4883.1843310657
   segments:
   - lab: _
-    dur: 0.629739
+    dur: 0.614719
   - lab: b
     dur: 0.064019
   - lab: V
@@ -54692,7 +54692,7 @@
   end: 4892.8143310657
   segments:
   - lab: _
-    dur: 0.615367
+    dur: 1.610347
   - lab: s
     dur: 0.148943
   - lab: aU
@@ -54854,7 +54854,7 @@
   end: 4898.8043310657
   segments:
   - lab: _
-    dur: 0.56
+    dur: 0.64498
   - lab: b
     dur: 0.13
   - lab: r
@@ -54934,7 +54934,7 @@
   end: 4903.6743310657
   segments:
   - lab: _
-    dur: 0.61
+    dur: 0.48498
   - lab: k
     dur: 0.13
   - lab: E
@@ -55000,7 +55000,7 @@
   end: 4911.2743310657
   segments:
   - lab: _
-    dur: 0.63
+    dur: 0.41498
   - lab: D
     dur: 0.055
   - lab: EI
@@ -55118,7 +55118,7 @@
   end: 4918.7343310657
   segments:
   - lab: _
-    dur: 0.25
+    dur: 0.25498
   - lab: h
     dur: 0.45
   - lab: i
@@ -55240,7 +55240,7 @@
   end: 4924.3043310657
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.57998
   - lab: '{'
     dur: 0.145
   - lab: f
@@ -55316,7 +55316,7 @@
   end: 4929.4543310657
   segments:
   - lab: _
-    dur: 0.605
+    dur: 0.44998
   - lab: D
     dur: 0.075
   - lab: '@'
@@ -55386,7 +55386,7 @@
   end: 4936.7743310657
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.48998
   - lab: r
     dur: 0.11
   - lab: i
@@ -55508,7 +55508,7 @@
   end: 4941.9243310657
   segments:
   - lab: _
-    dur: 0.455
+    dur: 0.63998
   - lab: w
     dur: 0.275
   - lab: E
@@ -55572,7 +55572,7 @@
   end: 4948.6843310657
   segments:
   - lab: _
-    dur: 0.615
+    dur: 0.36998
   - lab: D
     dur: 0.065
   - lab: '@'
@@ -55674,7 +55674,7 @@
   end: 4953.2043310657
   segments:
   - lab: _
-    dur: 0.62
+    dur: 0.65498
   - lab: d
     dur: 0.07
   - lab: I
@@ -55740,7 +55740,7 @@
   end: 4958.2143310657
   segments:
   - lab: _
-    dur: 0.66
+    dur: 0.56498
   - lab: D
     dur: 0.02
   - lab: '@'
@@ -55814,7 +55814,7 @@
   end: 4963.9243310657
   segments:
   - lab: _
-    dur: 0.65
+    dur: 0.46498
   - lab: D
     dur: 0.04
   - lab: '@'
@@ -55898,7 +55898,7 @@
   end: 4968.6543310657
   segments:
   - lab: _
-    dur: 0.635
+    dur: 0.49998
   - lab: v
     dur: 0.06
   - lab: E
@@ -55971,7 +55971,7 @@
   end: 4988.3343310657
   segments:
   - lab: _
-    dur: 0.681999
+    dur: 0.886979
   - lab: '{'
     dur: 0.123001
   - lab: f
@@ -56141,7 +56141,7 @@
   end: 4992.6443310657
   segments:
   - lab: _
-    dur: 0.645
+    dur: 0.25998
   - lab: D
     dur: 0.045
   - lab: '@'
@@ -56197,7 +56197,7 @@
   end: 4998.3543310657
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.45998
   - lab: '{'
     dur: 0.115
   - lab: b
@@ -56273,7 +56273,7 @@
   end: 5004.8343310657
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.30498
   - lab: n
     dur: 0.095
   - lab: EI
@@ -56385,7 +56385,7 @@
   end: 5029.5243310657
   segments:
   - lab: _
-    dur: 0.54
+    dur: 0.46498
   - lab: O
     dur: 0.255
   - lab: l
@@ -56551,7 +56551,7 @@
   end: 5037.1943310657
   segments:
   - lab: _
-    dur: 0.603609
+    dur: 0.658589
   - lab: D
     dur: 0.090149
   - lab: I
@@ -56683,7 +56683,7 @@
   end: 5043.6043310657
   segments:
   - lab: _
-    dur: 0.640191
+    dur: 0.665171
   - lab: D
     dur: 0.05226
   - lab: '@'
@@ -56777,7 +56777,7 @@
   end: 5048.2643310657
   segments:
   - lab: _
-    dur: 0.63
+    dur: 0.65498
   - lab: h
     dur: 0.06
   - lab: aU
@@ -56837,7 +56837,7 @@
   end: 5056.3543310657
   segments:
   - lab: _
-    dur: 0.655
+    dur: 0.67998
   - lab: D
     dur: 0.025
   - lab: '@'
@@ -56965,7 +56965,7 @@
   end: 5066.4743310657
   segments:
   - lab: _
-    dur: 0.675467
+    dur: 0.440447
   - lab: '@'
     dur: 0.084533
   - lab: n
@@ -57135,7 +57135,7 @@
   end: 5071.3443310657
   segments:
   - lab: _
-    dur: 0.645
+    dur: 0.58998
   - lab: s
     dur: 0.145
   - lab: '{'
@@ -57197,7 +57197,7 @@
   end: 5076.0043310657
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.46498
   - lab: l
     dur: 0.085
   - lab: AI
@@ -57259,7 +57259,7 @@
   end: 5081.2243310657
   segments:
   - lab: _
-    dur: 0.345
+    dur: 0.03998
   - lab: h
     dur: 0.335
   - lab: i
@@ -57339,7 +57339,7 @@
   end: 5099.5543310657
   segments:
   - lab: _
-    dur: 0.585
+    dur: 0.39998
   - lab: f
     dur: 0.1
   - lab: i
@@ -57471,7 +57471,7 @@
   end: 5104.2143310657
   segments:
   - lab: _
-    dur: 0.655
+    dur: 0.40998
   - lab: s
     dur: 0.14
   - lab: '{'
@@ -57535,7 +57535,7 @@
   end: 5108.3843310657
   segments:
   - lab: _
-    dur: 0.54
+    dur: 0.50498
   - lab: b
     dur: 0.15
   - lab: I
@@ -57592,7 +57592,7 @@
   end: 5123.3143310657
   segments:
   - lab: _
-    dur: 0.43
+    dur: -0.005082
   - lab: h
     dur: 0.255
   - lab: i
@@ -57734,7 +57734,7 @@
   end: 5129.7943310657
   segments:
   - lab: _
-    dur: 0.66
+    dur: 0.36498
   - lab: s
     dur: 0.115
   - lab: k
@@ -57832,7 +57832,7 @@
   end: 5135.1543310657
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.44498
   - lab: n
     dur: 0.09
   - lab: O
@@ -57910,7 +57910,7 @@
   end: 5141.2843310657
   segments:
   - lab: _
-    dur: 0.625
+    dur: 0.50998
   - lab: '{'
     dur: 0.125
   - lab: n
@@ -58002,7 +58002,7 @@
   end: 5148.3943310657
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.45498
   - lab: n
     dur: 0.065
   - lab: '@U'
@@ -58112,7 +58112,7 @@
   end: 5156.7643310657
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.50498
   - lab: l
     dur: 0.085
   - lab: EI
@@ -58254,7 +58254,7 @@
   end: 5164.9243310657
   segments:
   - lab: _
-    dur: 0.665
+    dur: 1.51998
   - lab: A
     dur: 0.095
   - lab: n
@@ -58388,7 +58388,7 @@
   end: 5170.0043310657
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.53998
   - lab: m
     dur: 0.085
   - lab: EI
@@ -58460,7 +58460,7 @@
   end: 5174.8743310657
   segments:
   - lab: _
-    dur: 0.64
+    dur: 0.40498
   - lab: D
     dur: 0.06
   - lab: EI
@@ -58514,7 +58514,7 @@
   end: 5180.1643310657
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.59998
   - lab: d
     dur: 0.015
   - lab: i
@@ -58586,7 +58586,7 @@
   end: 5191.4043310657
   segments:
   - lab: _
-    dur: 0.62
+    dur: 0.47498
   - lab: s
     dur: 0.125
   - lab: '@U'
@@ -58768,7 +58768,7 @@
   end: 5199.7043310657
   segments:
   - lab: _
-    dur: 0.637578
+    dur: 1.822558
   - lab: D
     dur: 0.053567
   - lab: '@'
@@ -58906,7 +58906,7 @@
   end: 5205.1343310657
   segments:
   - lab: _
-    dur: 0.65
+    dur: 0.86498
   - lab: k
     dur: 0.09
   - lab: V
@@ -58988,7 +58988,7 @@
   end: 5212.3143310657
   segments:
   - lab: _
-    dur: 0.25
+    dur: -0.00502
   - lab: w
     dur: 0.525
   - lab: E
@@ -59100,7 +59100,7 @@
   end: 5218.8643310657
   segments:
   - lab: _
-    dur: 0.475
+    dur: 0.15998
   - lab: A
     dur: 0.355
   - lab: r
@@ -59205,7 +59205,7 @@
   end: 5226.9243310657
   segments:
   - lab: _
-    dur: 0.683306
+    dur: 0.618286
   - lab: r
     dur: 0.120199
   - lab: '@U'
@@ -59277,7 +59277,7 @@
   end: 5231.8643310657
   segments:
   - lab: _
-    dur: 0.61
+    dur: 0.23498
   - lab: D
     dur: 0.07
   - lab: '@'
@@ -59349,7 +59349,7 @@
   end: 5235.9643310657
   segments:
   - lab: _
-    dur: 0.275
+    dur: 0.18998
   - lab: D
     dur: 0.41
   - lab: '@'
@@ -59403,7 +59403,7 @@
   end: 5241.1143310657
   segments:
   - lab: _
-    dur: 0.635
+    dur: 0.40998
   - lab: k
     dur: 0.1
   - lab: aU
@@ -59475,7 +59475,7 @@
   end: 5246.4043310657
   segments:
   - lab: _
-    dur: 0.66
+    dur: 0.53498
   - lab: D
     dur: 0.06
   - lab: '@'
@@ -59545,7 +59545,7 @@
   end: 5251.7643310657
   segments:
   - lab: _
-    dur: 0.635
+    dur: 0.66998
   - lab: h
     dur: 0.06529
   - lab: aU
@@ -59623,7 +59623,7 @@
   end: 5257.3343310657
   segments:
   - lab: _
-    dur: 0.665
+    dur: 0.99998
   - lab: D
     dur: 0.027451
   - lab: '@'
@@ -59709,7 +59709,7 @@
   end: 5263.2543310657
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.94998
   - lab: I
     dur: 0.05
   - lab: t
@@ -59797,7 +59797,7 @@
   end: 5267.9843310657
   segments:
   - lab: _
-    dur: 0.63
+    dur: 0.54498
   - lab: h
     dur: 0.055
   - lab: i
@@ -59855,7 +59855,7 @@
   end: 5273.2743310657
   segments:
   - lab: _
-    dur: 0.625
+    dur: 0.40998
   - lab: h
     dur: 0.06
   - lab: i
@@ -59929,7 +59929,7 @@
   end: 5280.3143310657
   segments:
   - lab: _
-    dur: 0.585
+    dur: 0.83998
   - lab: f
     dur: 0.1
   - lab: r
@@ -60039,7 +60039,7 @@
   end: 5284.7643310657
   segments:
   - lab: _
-    dur: 0.635
+    dur: 0.45998
   - lab: D
     dur: 0.055
   - lab: '@'
@@ -60095,7 +60095,7 @@
   end: 5291.1043310657
   segments:
   - lab: _
-    dur: 0.5
+    dur: 0.63498
   - lab: g
     dur: 0.195
   - lab: i
@@ -60191,7 +60191,7 @@
   end: 5296.4643310657
   segments:
   - lab: _
-    dur: 0.631045
+    dur: 0.656025
   - lab: D
     dur: 0.061406
   - lab: '@'
@@ -60267,7 +60267,7 @@
   end: 5305.4643310657
   segments:
   - lab: _
-    dur: 0.607528
+    dur: 1.212508
   - lab: D
     dur: 0.092762
   - lab: I
@@ -60421,7 +60421,7 @@
   end: 5332.5743310657
   segments:
   - lab: _
-    dur: 0.63
+    dur: 1.51498
   - lab: v
     dur: 0.087275
   - lab: '{'
@@ -60616,7 +60616,7 @@
   end: 5341.9543310657
   segments:
   - lab: _
-    dur: 0.585
+    dur: 0.27998
   - lab: p
     dur: 0.13
   - lab: i
@@ -60690,7 +60690,7 @@
   end: 5346.7543310657
   segments:
   - lab: _
-    dur: 0.665
+    dur: 0.51998
   - lab: s
     dur: 0.13
   - lab: p
@@ -60752,7 +60752,7 @@
   end: 5355.0543310657
   segments:
   - lab: _
-    dur: 0.604915
+    dur: 1.179895
   - lab: p
     dur: 0.079697
   - lab: i
@@ -60888,7 +60888,7 @@
   end: 5362.0243310657
   segments:
   - lab: _
-    dur: 0.658482
+    dur: 0.673462
   - lab: d
     dur: 0.050954
   - lab: r=
@@ -60994,7 +60994,7 @@
   end: 5366.8943310657
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.52498
   - lab: AI
     dur: 0.105
   - lab: h
@@ -61061,7 +61061,7 @@
   end: 5382.9443310657
   segments:
   - lab: _
-    dur: 0.64
+    dur: 0.56498
   - lab: h
     dur: 0.077275
   - lab: '{'
@@ -61209,7 +61209,7 @@
   end: 5390.9643310657
   segments:
   - lab: _
-    dur: 0.31
+    dur: 0.16498
   - lab: h
     dur: 0.375
   - lab: i
@@ -61329,7 +61329,7 @@
   end: 5397.5843310657
   segments:
   - lab: _
-    dur: 0.668934
+    dur: 0.953914
   - lab: w
     dur: 0.071066
   - lab: I
@@ -61431,7 +61431,7 @@
   end: 5409.3143310657
   segments:
   - lab: _
-    dur: 0.49
+    dur: 0.90498
   - lab: O
     dur: 0.3
   - lab: l
@@ -61627,7 +61627,7 @@
   end: 5413.6243310657
   segments:
   - lab: _
-    dur: 0.635
+    dur: 0.59998
   - lab: t
     dur: 0.09
   - lab: AI
@@ -61681,7 +61681,7 @@
   end: 5425.0043310657
   segments:
   - lab: _
-    dur: 0.645417
+    dur: 0.840397
   - lab: D
     dur: 0.047034
   - lab: '@'
@@ -61881,7 +61881,7 @@
   end: 5433.6543310657
   segments:
   - lab: _
-    dur: 0.655
+    dur: 0.65998
   - lab: D
     dur: 0.040064
   - lab: '@'
@@ -62015,7 +62015,7 @@
   end: 5438.4543310657
   segments:
   - lab: _
-    dur: 0.655
+    dur: 0.73998
   - lab: D
     dur: 0.035
   - lab: EI
@@ -62069,7 +62069,7 @@
   end: 5445.0743310657
   segments:
   - lab: _
-    dur: 0.93
+    dur: 0.84498
   - lab: m
     dur: 0.095
   - lab: EI
@@ -62169,7 +62169,7 @@
   end: 5451.0643310657
   segments:
   - lab: _
-    dur: 0.37
+    dur: 0.41498
   - lab: h
     dur: 0.23
   - lab: I
@@ -62261,7 +62261,7 @@
   end: 5458.8043310657
   segments:
   - lab: _
-    dur: 0.67
+    dur: 0.56498
   - lab: d
     dur: 0.025
   - lab: I
@@ -62381,7 +62381,7 @@
   end: 5463.5343310657
   segments:
   - lab: _
-    dur: 0.985
+    dur: 0.77998
   - lab: n
     dur: 0.075
   - lab: '@U'
@@ -62439,7 +62439,7 @@
   end: 5471.4843310657
   segments:
   - lab: _
-    dur: 0.575
+    dur: 1.04998
   - lab: p
     dur: 0.155
   - lab: I
@@ -62555,7 +62555,7 @@
   end: 5476.7043310657
   segments:
   - lab: _
-    dur: 0.635
+    dur: 0.40998
   - lab: D
     dur: 0.06
   - lab: '@'
@@ -62633,7 +62633,7 @@
   end: 5481.6443310657
   segments:
   - lab: _
-    dur: 0.655
+    dur: 0.54998
   - lab: D
     dur: 0.075
   - lab: E
@@ -62701,7 +62701,7 @@
   end: 5490.4343310657
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.52998
   - lab: I
     dur: 0.07
   - lab: t
@@ -62855,7 +62855,7 @@
   end: 5499.8543310657
   segments:
   - lab: _
-    dur: 0.634965
+    dur: 0.569945
   - lab: b
     dur: 0.05618
   - lab: V
@@ -63011,7 +63011,7 @@
   end: 5505.3543310657
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.40498
   - lab: n
     dur: 0.08
   - lab: V
@@ -63085,7 +63085,7 @@
   end: 5512.6043310657
   segments:
   - lab: _
-    dur: 0.625
+    dur: 0.61998
   - lab: v
     dur: 0.100114
   - lab: j
@@ -63197,7 +63197,7 @@
   end: 5522.1643310657
   segments:
   - lab: _
-    dur: 0.195
+    dur: 0.11998
   - lab: D
     dur: 0.49
   - lab: '@'
@@ -63349,7 +63349,7 @@
   end: 5527.5943310657
   segments:
   - lab: _
-    dur: 0.555
+    dur: 0.42998
   - lab: f
     dur: 0.135
   - lab: O
@@ -63425,7 +63425,7 @@
   end: 5534.0043310657
   segments:
   - lab: _
-    dur: 0.27
+    dur: 0.01498
   - lab: h
     dur: 0.41
   - lab: i
@@ -63519,7 +63519,7 @@
   end: 5539.1543310657
   segments:
   - lab: _
-    dur: 0.615
+    dur: 0.31998
   - lab: D
     dur: 0.07
   - lab: I
@@ -63589,7 +63589,7 @@
   end: 5545.1443310657
   segments:
   - lab: _
-    dur: 0.64
+    dur: 0.29498
   - lab: D
     dur: 0.05
   - lab: EI
@@ -63677,7 +63677,7 @@
   end: 5549.4543310657
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.98998
   - lab: m
     dur: 0.065
   - lab: A
@@ -63733,7 +63733,7 @@
   end: 5554.6743310657
   segments:
   - lab: _
-    dur: 0.69
+    dur: 0.46498
   - lab: AI
     dur: 0.12
   - lab: w
@@ -63799,7 +63799,7 @@
   end: 5559.5443310657
   segments:
   - lab: _
-    dur: 0.65
+    dur: 0.27498
   - lab: s
     dur: 0.16
   - lab: V
@@ -63865,7 +63865,7 @@
   end: 5568.4743310657
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.38498
   - lab: l
     dur: 0.065
   - lab: U
@@ -64021,7 +64021,7 @@
   end: 5578.1743310657
   segments:
   - lab: _
-    dur: 0.614061
+    dur: 0.869041
   - lab: h
     dur: 0.079697
   - lab: i
@@ -64179,7 +64179,7 @@
   end: 5584.2343310657
   segments:
   - lab: _
-    dur: 0.605
+    dur: 1.23998
   - lab: t
     dur: 0.11
   - lab: j
@@ -64275,7 +64275,7 @@
   end: 5588.4743310657
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.37998
   - lab: n
     dur: 0.065
   - lab: O
@@ -64333,7 +64333,7 @@
   end: 5592.7843310657
   segments:
   - lab: _
-    dur: 0.66
+    dur: 0.49498
   - lab: d
     dur: 0.07
   - lab: U
@@ -64385,7 +64385,7 @@
   end: 5598.0043310657
   segments:
   - lab: _
-    dur: 0.665
+    dur: 0.31998
   - lab: I
     dur: 0.09
   - lab: l
@@ -64451,7 +64451,7 @@
   end: 5607.0743310657
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.96498
   - lab: I
     dur: 0.067325
   - lab: n
@@ -64605,7 +64605,7 @@
   end: 5614.1143310657
   segments:
   - lab: _
-    dur: 0.63
+    dur: 0.53498
   - lab: D
     dur: 0.055
   - lab: '@'
@@ -64715,7 +64715,7 @@
   end: 5619.8243310657
   segments:
   - lab: _
-    dur: 0.67416
+    dur: 0.81914
   - lab: m
     dur: 0.067939
   - lab: A
@@ -64806,7 +64806,7 @@
   end: 5631.3843310657
   segments:
   - lab: _
-    dur: 0.65
+    dur: 0.62498
   - lab: S
     dur: 0.115
   - lab: i
@@ -64903,7 +64903,7 @@
   end: 5644.1143310657
   segments:
   - lab: _
-    dur: 0.604915
+    dur: 0.409895
   - lab: D
     dur: 0.085085
   - lab: '@'
@@ -65069,7 +65069,7 @@
   end: 5652.6943310657
   segments:
   - lab: _
-    dur: 0.628432
+    dur: 1.203412
   - lab: D
     dur: 0.064019
   - lab: '@'
@@ -65201,7 +65201,7 @@
   end: 5657.6343310657
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.77998
   - lab: I
     dur: 0.074083
   - lab: z
@@ -65271,7 +65271,7 @@
   end: 5663.9043310657
   segments:
   - lab: _
-    dur: 0.325
+    dur: 0.18998
   - lab: S
     dur: 0.475
   - lab: i
@@ -65367,7 +65367,7 @@
   end: 5673.7443310657
   segments:
   - lab: _
-    dur: 0.575
+    dur: 0.86998
   - lab: t
     dur: 0.165
   - lab: u
@@ -65533,7 +65533,7 @@
   end: 5678.4743310657
   segments:
   - lab: _
-    dur: 0.56
+    dur: 0.31498
   - lab: s
     dur: 0.17
   - lab: i
@@ -65595,7 +65595,7 @@
   end: 5682.7843310657
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.34998
   - lab: I
     dur: 0.065
   - lab: f
@@ -65649,7 +65649,7 @@
   end: 5690.7343310657
   segments:
   - lab: _
-    dur: 0.68
+    dur: 2.23498
   - lab: '@'
     dur: 0.058179
   - lab: p
@@ -65777,7 +65777,7 @@
   end: 5697.6343310657
   segments:
   - lab: _
-    dur: 0.67
+    dur: 0.71498
   - lab: b
     dur: 0.027677
   - lab: '@'
@@ -65892,7 +65892,7 @@
   end: 5707.1343310657
   segments:
   - lab: _
-    dur: 0.29
+    dur: -0.00502
   - lab: S
     dur: 0.5
   - lab: '@U'
@@ -65968,7 +65968,7 @@
   end: 5715.2243310657
   segments:
   - lab: _
-    dur: 0.636271
+    dur: 1.041251
   - lab: h
     dur: 0.064019
   - lab: I
@@ -66114,7 +66114,7 @@
   end: 5734.3443310657
   segments:
   - lab: _
-    dur: 0.23
+    dur: 0.09498
   - lab: h
     dur: 0.46
   - lab: i
@@ -66204,7 +66204,7 @@
   end: 5741.8743310657
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.72998
   - lab: d
     dur: 0.072325
   - lab: u
@@ -66318,7 +66318,7 @@
   end: 5746.2543310657
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.66498
   - lab: I
     dur: 0.072551
   - lab: t
@@ -66374,7 +66374,7 @@
   end: 5756.7943310657
   segments:
   - lab: _
-    dur: 0.67
+    dur: 0.47498
   - lab: z
     dur: 0.145
   - lab: A
@@ -66566,7 +66566,7 @@
   end: 5761.8043310657
   segments:
   - lab: _
-    dur: 0.653256
+    dur: 0.738236
   - lab: D
     dur: 0.111054
   - lab: '@'
@@ -66637,7 +66637,7 @@
   end: 5773.8543310657
   segments:
   - lab: _
-    dur: 0.67
+    dur: 0.55498
   - lab: w
     dur: 0.04
   - lab: i
@@ -66747,7 +66747,7 @@
   end: 5779.9843310657
   segments:
   - lab: _
-    dur: 0.61798
+    dur: 0.58296
   - lab: h
     dur: 0.095376
   - lab: O
@@ -66827,7 +66827,7 @@
   end: 5784.8543310657
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.31998
   - lab: AI
     dur: 0.13
   - lab: w
@@ -66889,7 +66889,7 @@
   end: 5791.7543310657
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.69998
   - lab: l
     dur: 0.101068
   - lab: AI
@@ -66991,7 +66991,7 @@
   end: 5801.8743310657
   segments:
   - lab: _
-    dur: 0.679386
+    dur: 0.704366
   - lab: '{'
     dur: 0.052261
   - lab: n
@@ -67175,7 +67175,7 @@
   end: 5805.8343310657
   segments:
   - lab: _
-    dur: 0.31
+    dur: 0.24498
   - lab: w
     dur: 0.425
   - lab: V
@@ -67221,7 +67221,7 @@
   end: 5809.3743310657
   segments:
   - lab: _
-    dur: 0.63
+    dur: 0.65498
   - lab: d
     dur: 0.065
   - lab: u
@@ -67257,7 +67257,7 @@
   end: 5813.6843310657
   segments:
   - lab: _
-    dur: 0.65
+    dur: 0.50498
   - lab: h
     dur: 0.075
   - lab: aU
@@ -67307,7 +67307,7 @@
   end: 5818.2043310657
   segments:
   - lab: _
-    dur: 0.665
+    dur: 0.60998
   - lab: h
     dur: 0.05
   - lab: '{'
@@ -67369,7 +67369,7 @@
   end: 5822.9343310657
   segments:
   - lab: _
-    dur: 0.275
+    dur: 0.15998
   - lab: w
     dur: 0.505
   - lab: E
@@ -67427,7 +67427,7 @@
   end: 5827.3843310657
   segments:
   - lab: _
-    dur: 0.62
+    dur: 0.57498
   - lab: t
     dur: 0.095
   - lab: E
@@ -67487,7 +67487,7 @@
   end: 5832.7443310657
   segments:
   - lab: _
-    dur: 0.683306
+    dur: 1.068286
   - lab: I
     dur: 0.071694
   - lab: z
@@ -67553,7 +67553,7 @@
   end: 5837.6843310657
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.58998
   - lab: I
     dur: 0.09
   - lab: z
@@ -67611,7 +67611,7 @@
   end: 5841.2243310657
   segments:
   - lab: _
-    dur: 0.62
+    dur: 0.59498
   - lab: d
     dur: 0.05
   - lab: u
@@ -67649,7 +67649,7 @@
   end: 5845.1843310657
   segments:
   - lab: _
-    dur: 0.425
+    dur: 0.16998
   - lab: w
     dur: 0.32
   - lab: V
@@ -67693,7 +67693,7 @@
   end: 5849.2843310657
   segments:
   - lab: _
-    dur: 0.285
+    dur: 0.22998
   - lab: w
     dur: 0.44
   - lab: V
@@ -67741,7 +67741,7 @@
   end: 5854.1543310657
   segments:
   - lab: _
-    dur: 0.27
+    dur: 0.55498
   - lab: w
     dur: 0.44
   - lab: V
@@ -67803,7 +67803,7 @@
   end: 5857.9743310657
   segments:
   - lab: _
-    dur: 0.47
+    dur: 0.15498
   - lab: w
     dur: 0.255
   - lab: I
@@ -67845,7 +67845,7 @@
   end: 5862.7043310657
   segments:
   - lab: _
-    dur: 0.665
+    dur: 0.57998
   - lab: d
     dur: 0.04
   - lab: u
@@ -67907,7 +67907,7 @@
   end: 5869.8143310657
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.42998
   - lab: '@U'
     dur: 0.14
   - lab: k
@@ -68009,7 +68009,7 @@
   end: 5874.9643310657
   segments:
   - lab: _
-    dur: 0.665
+    dur: 0.66998
   - lab: s
     dur: 0.135892
   - lab: '@U'
@@ -68077,7 +68077,7 @@
   end: 5879.5543310657
   segments:
   - lab: _
-    dur: 0.655
+    dur: 0.81998
   - lab: s
     dur: 0.14
   - lab: '@U'
@@ -68137,7 +68137,7 @@
   end: 5884.3543310657
   segments:
   - lab: _
-    dur: 0.655
+    dur: 0.82998
   - lab: s
     dur: 0.132827
   - lab: '@U'
@@ -68203,7 +68203,7 @@
   end: 5889.0143310657
   segments:
   - lab: _
-    dur: 0.295
+    dur: 0.12998
   - lab: w
     dur: 0.415
   - lab: V
@@ -68257,7 +68257,7 @@
   end: 5893.0443310657
   segments:
   - lab: _
-    dur: 0.315
+    dur: -2.0E-5
   - lab: w
     dur: 0.405
   - lab: V
@@ -68307,7 +68307,7 @@
   end: 5897.8443310657
   segments:
   - lab: _
-    dur: 0.595
+    dur: 0.76998
   - lab: t
     dur: 0.145
   - lab: E
@@ -68365,7 +68365,7 @@
   end: 5904.3943310657
   segments:
   - lab: _
-    dur: 0.671547
+    dur: 0.616527
   - lab: w
     dur: 0.073453
   - lab: V
@@ -68467,7 +68467,7 @@
   end: 5911.0843310657
   segments:
   - lab: _
-    dur: 0.610141
+    dur: 0.675121
   - lab: f
     dur: 0.090149
   - lab: r
@@ -68561,7 +68561,7 @@
   end: 5915.7443310657
   segments:
   - lab: _
-    dur: 0.21
+    dur: 0.09498
   - lab: w
     dur: 0.525
   - lab: V
@@ -68619,7 +68619,7 @@
   end: 5921.1043310657
   segments:
   - lab: _
-    dur: 0.6
+    dur: 0.73498
   - lab: d
     dur: 0.102903
   - lab: u
@@ -68695,7 +68695,7 @@
   end: 5926.6043310657
   segments:
   - lab: _
-    dur: 0.665
+    dur: 0.83998
   - lab: d
     dur: 0.04
   - lab: u
@@ -68767,7 +68767,7 @@
   end: 5930.4943310657
   segments:
   - lab: _
-    dur: 0.66
+    dur: 0.62498
   - lab: h
     dur: 0.082099
   - lab: aU
@@ -68809,7 +68809,7 @@
   end: 5935.6443310657
   segments:
   - lab: _
-    dur: 0.66
+    dur: 0.48498
   - lab: h
     dur: 0.07
   - lab: aU
@@ -68873,7 +68873,7 @@
   end: 5941.4243310657
   segments:
   - lab: _
-    dur: 0.67
+    dur: 0.91498
   - lab: d
     dur: 0.043356
   - lab: I
@@ -68963,7 +68963,7 @@
   end: 5946.2943310657
   segments:
   - lab: _
-    dur: 0.625
+    dur: 0.36998
   - lab: h
     dur: 0.06
   - lab: u
@@ -69027,7 +69027,7 @@
   end: 5953.1243310657
   segments:
   - lab: _
-    dur: 0.679386
+    dur: 0.734366
   - lab: w
     dur: 0.080614
   - lab: I
@@ -69129,7 +69129,7 @@
   end: 5959.1143310657
   segments:
   - lab: _
-    dur: 0.285
+    dur: 0.12998
   - lab: w
     dur: 0.485
   - lab: V
@@ -69219,7 +69219,7 @@
   end: 5964.2643310657
   segments:
   - lab: _
-    dur: 0.34
+    dur: -0.00502
   - lab: w
     dur: 0.4
   - lab: V
@@ -69289,7 +69289,7 @@
   end: 5971.3743310657
   segments:
   - lab: _
-    dur: 0.650643
+    dur: 1.505623
   - lab: A
     dur: 0.139357
   - lab: r
@@ -69393,7 +69393,7 @@
   end: 5976.5243310657
   segments:
   - lab: _
-    dur: 0.42
+    dur: 0.25498
   - lab: w
     dur: 0.295
   - lab: V
@@ -69469,7 +69469,7 @@
   end: 5982.7943310657
   segments:
   - lab: _
-    dur: 0.62
+    dur: 1.01498
   - lab: h
     dur: 0.11034
   - lab: '{'
@@ -69557,7 +69557,7 @@
   end: 5988.9943310657
   segments:
   - lab: _
-    dur: 0.66
+    dur: 0.29498
   - lab: h
     dur: 0.08
   - lab: aU
@@ -69651,7 +69651,7 @@
   end: 5993.4443310657
   segments:
   - lab: _
-    dur: 0.67
+    dur: 0.75498
   - lab: w
     dur: 0.076018
   - lab: V
@@ -69705,7 +69705,7 @@
   end: 5996.8443310657
   segments:
   - lab: _
-    dur: 1.49
+    dur: 1.00498
   - lab: w
     dur: 0.051684
   - lab: V
@@ -69741,7 +69741,7 @@
   end: 6001.2243310657
   segments:
   - lab: _
-    dur: 0.605
+    dur: 0.36998
   - lab: d
     dur: 0.095
   - lab: EI
@@ -69814,7 +69814,7 @@
   end: 6018.5343310657
   segments:
   - lab: _
-    dur: 0.691145
+    dur: 0.666125
   - lab: AI
     dur: 0.158855
   - lab: T
@@ -69890,7 +69890,7 @@
   end: 6025.5743310657
   segments:
   - lab: _
-    dur: 0.67
+    dur: 0.34498
   - lab: m
     dur: 0.11
   - lab: '{'
@@ -70008,7 +70008,7 @@
   end: 6029.7443310657
   segments:
   - lab: _
-    dur: 0.65
+    dur: 0.48498
   - lab: s
     dur: 0.19
   - lab: OI
@@ -70062,7 +70062,7 @@
   end: 6035.4543310657
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.41498
   - lab: I
     dur: 0.095
   - lab: t
@@ -70144,7 +70144,7 @@
   end: 6039.7643310657
   segments:
   - lab: _
-    dur: 0.4
+    dur: -0.00502
   - lab: h
     dur: 0.29
   - lab: i
@@ -70201,7 +70201,7 @@
   end: 6048.1143310657
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.35498
   - lab: AI
     dur: 0.11
   - lab: T
@@ -70269,7 +70269,7 @@
   end: 6057.5343310657
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.92998
   - lab: r
     dur: 0.090616
   - lab: I
@@ -70451,7 +70451,7 @@
   end: 6062.6143310657
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.34498
   - lab: '@'
     dur: 0.055
   - lab: n
@@ -70515,7 +70515,7 @@
   end: 6069.3743310657
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.57998
   - lab: I
     dur: 0.065
   - lab: t
@@ -70619,7 +70619,7 @@
   end: 6076.2043310657
   segments:
   - lab: _
-    dur: 0.605
+    dur: 0.26998
   - lab: D
     dur: 0.075
   - lab: '@'
@@ -70721,7 +70721,7 @@
   end: 6087.0243310657
   segments:
   - lab: _
-    dur: 0.692451
+    dur: 1.557431
   - lab: I
     dur: 0.050954
   - lab: l
@@ -70901,7 +70901,7 @@
   end: 6092.8043310657
   segments:
   - lab: _
-    dur: 0.615
+    dur: 1.69998
   - lab: D
     dur: 0.075
   - lab: '@'
@@ -70967,7 +70967,7 @@
   end: 6101.5243310657
   segments:
   - lab: _
-    dur: 0.598382
+    dur: 1.433362
   - lab: D
     dur: 0.087537
   - lab: '@'
@@ -71113,7 +71113,7 @@
   end: 6105.9043310657
   segments:
   - lab: _
-    dur: 0.675
+    dur: 1.16998
   - lab: v
     dur: 0.095
   - lab: E
@@ -71174,7 +71174,7 @@
   end: 6121.9643310657
   segments:
   - lab: _
-    dur: 0.679386
+    dur: 0.604366
   - lab: I
     dur: 0.080614
   - lab: n
@@ -71300,7 +71300,7 @@
   end: 6130.3343310657
   segments:
   - lab: _
-    dur: 0.53567
+    dur: 0.96065
   - lab: s
     dur: 0.173766
   - lab: i
@@ -71434,7 +71434,7 @@
   end: 6135.2043310657
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.45998
   - lab: I
     dur: 0.04
   - lab: n
@@ -71498,7 +71498,7 @@
   end: 6139.7243310657
   segments:
   - lab: _
-    dur: 0.681999
+    dur: 0.446979
   - lab: AI
     dur: 0.188001
   - lab: f
@@ -71556,7 +71556,7 @@
   end: 6144.3143310657
   segments:
   - lab: _
-    dur: 0.675
+    dur: 1.10998
   - lab: D
     dur: 0.090616
   - lab: '{'
@@ -71621,7 +71621,7 @@
   end: 6163.1543310657
   segments:
   - lab: _
-    dur: 0.67416
+    dur: 0.75914
   - lab: I
     dur: 0.073165
   - lab: f
@@ -71781,7 +71781,7 @@
   end: 6170.4043310657
   segments:
   - lab: _
-    dur: 0.67416
+    dur: 0.73914
   - lab: I
     dur: 0.07584
   - lab: n
@@ -71905,7 +71905,7 @@
   end: 6175.0643310657
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.48998
   - lab: '{'
     dur: 0.09
   - lab: b
@@ -71967,7 +71967,7 @@
   end: 6182.1743310657
   segments:
   - lab: _
-    dur: 0.645
+    dur: 0.64998
   - lab: D
     dur: 0.051371
   - lab: '@'
@@ -72071,7 +72071,7 @@
   end: 6186.9043310657
   segments:
   - lab: _
-    dur: 0.66
+    dur: 0.40498
   - lab: D
     dur: 0.045
   - lab: '@'
@@ -72129,7 +72129,7 @@
   end: 6191.5643310657
   segments:
   - lab: _
-    dur: 0.64
+    dur: 0.44498
   - lab: dZ
     dur: 0.11
   - lab: V
@@ -72185,7 +72185,7 @@
   end: 6197.3443310657
   segments:
   - lab: _
-    dur: 0.576172
+    dur: 0.711152
   - lab: s
     dur: 0.148828
   - lab: E
@@ -72273,7 +72273,7 @@
   end: 6204.4543310657
   segments:
   - lab: _
-    dur: 0.22
+    dur: 0.74498
   - lab: D
     dur: 0.455
   - lab: '@'
@@ -72369,7 +72369,7 @@
   end: 6210.4443310657
   segments:
   - lab: _
-    dur: 0.575
+    dur: 0.32998
   - lab: t
     dur: 0.145
   - lab: u
@@ -72455,7 +72455,7 @@
   end: 6221.7543310657
   segments:
   - lab: _
-    dur: 0.645
+    dur: 0.74998
   - lab: h
     dur: 0.06
   - lab: aU
@@ -72643,7 +72643,7 @@
   end: 6228.0243310657
   segments:
   - lab: _
-    dur: 0.635
+    dur: 0.46998
   - lab: D
     dur: 0.055
   - lab: '@'
@@ -72739,7 +72739,7 @@
   end: 6235.8343310657
   segments:
   - lab: _
-    dur: 0.672854
+    dur: 0.677834
   - lab: A
     dur: 0.198589
   - lab: r
@@ -72867,7 +72867,7 @@
   end: 6241.8243310657
   segments:
   - lab: _
-    dur: 0.565
+    dur: 0.38998
   - lab: s
     dur: 0.2
   - lab: p
@@ -72951,7 +72951,7 @@
   end: 6247.0443310657
   segments:
   - lab: _
-    dur: 0.615367
+    dur: 0.730347
   - lab: D
     dur: 0.079697
   - lab: EI
@@ -73027,7 +73027,7 @@
   end: 6258.0043310657
   segments:
   - lab: _
-    dur: 0.633658
+    dur: 1.318638
   - lab: D
     dur: 0.0601
   - lab: '@'
@@ -73217,7 +73217,7 @@
   end: 6265.3943310657
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.49498
   - lab: n
     dur: 0.105
   - lab: aU
@@ -73329,7 +73329,7 @@
   end: 6271.3143310657
   segments:
   - lab: _
-    dur: 0.365
+    dur: 0.11998
   - lab: h
     dur: 0.315
   - lab: i
@@ -73417,7 +73417,7 @@
   end: 6277.4443310657
   segments:
   - lab: _
-    dur: 0.638884
+    dur: 1.183864
   - lab: h
     dur: 0.054874
   - lab: I
@@ -73507,7 +73507,7 @@
   end: 6283.2243310657
   segments:
   - lab: _
-    dur: 0.653256
+    dur: 0.808236
   - lab: w
     dur: 0.107134
   - lab: AI
@@ -73587,7 +73587,7 @@
   end: 6288.7943310657
   segments:
   - lab: _
-    dur: 0.62
+    dur: 0.34498
   - lab: D
     dur: 0.055
   - lab: E
@@ -73669,7 +73669,7 @@
   end: 6294.5043310657
   segments:
   - lab: _
-    dur: 0.61
+    dur: 0.75498
   - lab: D
     dur: 0.085
   - lab: '@'
@@ -73751,7 +73751,7 @@
   end: 6299.6543310657
   segments:
   - lab: _
-    dur: 0.615
+    dur: 0.56998
   - lab: D
     dur: 0.06
   - lab: '@'
@@ -73817,7 +73817,7 @@
   end: 6307.5343310657
   segments:
   - lab: _
-    dur: 0.63
+    dur: 1.09498
   - lab: D
     dur: 0.063758
   - lab: '@'
@@ -73933,7 +73933,7 @@
   end: 6315.1343310657
   segments:
   - lab: _
-    dur: 0.675
+    dur: 0.60998
   - lab: I
     dur: 0.05
   - lab: n
@@ -74049,7 +74049,7 @@
   end: 6320.0043310657
   segments:
   - lab: _
-    dur: 0.14
+    dur: -0.00502
   - lab: h
     dur: 0.55
   - lab: i
@@ -74121,7 +74121,7 @@
   end: 6324.3843310657
   segments:
   - lab: _
-    dur: 0.67
+    dur: 0.54498
   - lab: D
     dur: 0.08
   - lab: V
@@ -74177,7 +74177,7 @@
   end: 6329.6043310657
   segments:
   - lab: _
-    dur: 0.65
+    dur: 0.35498
   - lab: s
     dur: 0.135
   - lab: U
@@ -74255,7 +74255,7 @@
   end: 6338.9543310657
   segments:
   - lab: _
-    dur: 0.625
+    dur: 0.99998
   - lab: h
     dur: 0.070064
   - lab: aU
@@ -74413,7 +74413,7 @@
   end: 6344.3843310657
   segments:
   - lab: _
-    dur: 0.32
+    dur: 0.02498
   - lab: h
     dur: 0.37
   - lab: i
@@ -74495,7 +74495,7 @@
   end: 6348.9043310657
   segments:
   - lab: _
-    dur: 0.655
+    dur: 0.39998
   - lab: D
     dur: 0.04
   - lab: '@'
@@ -74557,7 +74557,7 @@
   end: 6359.6543310657
   segments:
   - lab: _
-    dur: 0.611448
+    dur: 0.586428
   - lab: D
     dur: 0.07839
   - lab: '@'
@@ -74731,7 +74731,7 @@
   end: 6364.6643310657
   segments:
   - lab: _
-    dur: 0.32
+    dur: 0.03498
   - lab: D
     dur: 0.365
   - lab: '@'
@@ -74801,7 +74801,7 @@
   end: 6371.0043310657
   segments:
   - lab: _
-    dur: 0.658482
+    dur: 0.753462
   - lab: I
     dur: 0.101518
   - lab: t
@@ -74901,7 +74901,7 @@
   end: 6377.1343310657
   segments:
   - lab: _
-    dur: 0.635
+    dur: 0.31998
   - lab: D
     dur: 0.045
   - lab: '@'
@@ -74995,7 +74995,7 @@
   end: 6383.5443310657
   segments:
   - lab: _
-    dur: 0.67
+    dur: 0.33498
   - lab: D
     dur: 0.07
   - lab: EI
@@ -75077,7 +75077,7 @@
   end: 6388.2743310657
   segments:
   - lab: _
-    dur: 0.68
+    dur: 0.55498
   - lab: AI
     dur: 0.135
   - lab: b
@@ -75135,7 +75135,7 @@
   end: 6392.3743310657
   segments:
   - lab: _
-    dur: 0.665
+    dur: 0.45998
   - lab: D
     dur: 0.105
   - lab: I
@@ -75187,7 +75187,7 @@
   end: 6396.6143310657
   segments:
   - lab: _
-    dur: 0.685
+    dur: 0.40998
   - lab: l
     dur: 0.095
   - lab: EI
@@ -75239,7 +75239,7 @@
   end: 6402.7443310657
   segments:
   - lab: _
-    dur: 0.53
+    dur: 0.27498
   - lab: w
     dur: 0.225
   - lab: AI
@@ -75331,7 +75331,7 @@
   end: 6409.0143310657
   segments:
   - lab: _
-    dur: 0.685
+    dur: 1.71998
   - lab: l
     dur: 0.063631
   - lab: AI
