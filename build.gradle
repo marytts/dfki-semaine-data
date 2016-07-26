@@ -1,5 +1,5 @@
 group 'de.dfki.mary'
-version '0.2'
+version '0.3-SNAPSHOT'
 description 'Speech databases for the SEMAINE TTS voices'
 
 subprojects {
