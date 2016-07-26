@@ -6220,10 +6220,8 @@
   start: 444.03
   end: 450.58
   segments:
-  - lab: _
-    dur: -0.00502
   - lab: h
-    dur: 0.215
+    dur: 0.20998
   - lab: i
     dur: 0.065
   - lab: g
@@ -28009,10 +28007,8 @@
   start: 1988.9437188209
   end: 1999.7637188209
   segments:
-  - lab: _
-    dur: -0.00502
   - lab: D
-    dur: 0.327225
+    dur: 0.322205
   - lab: '@'
     dur: 0.0601
   - lab: s
@@ -41866,10 +41862,8 @@
   start: 2932.2337188209
   end: 2936.8937188209
   segments:
-  - lab: _
-    dur: -0.00502
   - lab: '@'
-    dur: 0.015
+    dur: 0.00998
   - lab: t
     dur: 0.485
   - lab: V
@@ -41928,10 +41922,8 @@
   start: 2936.8937188209
   end: 2941.9737188209
   segments:
-  - lab: _
-    dur: -0.00502
   - lab: '{'
-    dur: 0.36
+    dur: 0.35498
   - lab: n
     dur: 0.06
   - lab: d
@@ -52856,10 +52848,8 @@
   start: 3768.4237188209
   end: 3773.6437188209
   segments:
-  - lab: _
-    dur: -0.010082
   - lab: h
-    dur: 0.235
+    dur: 0.224918
   - lab: i
     dur: 0.08
   - lab: g
@@ -65186,10 +65176,8 @@
   start: 4646.1437188209
   end: 4652.1337188209
   segments:
-  - lab: _
-    dur: -0.00502
   - lab: t
-    dur: 0.26
+    dur: 0.25498
   - lab: u
     dur: 0.04
   - lab: b
@@ -75203,10 +75191,8 @@
   start: 5402.4437188209
   end: 5407.9437188209
   segments:
-  - lab: _
-    dur: -0.00502
   - lab: w
-    dur: 0.395
+    dur: 0.38998
   - lab: V
     dur: 0.05
   - lab: t
@@ -75539,10 +75525,8 @@
   start: 5428.4737188209
   end: 5434.3237188209
   segments:
-  - lab: _
-    dur: -0.00502
   - lab: t
-    dur: 0.36
+    dur: 0.35498
   - lab: E
     dur: 0.03
   - lab: l
@@ -96665,10 +96649,8 @@
   start: 6944.7237188209
   end: 6949.7337188209
   segments:
-  - lab: _
-    dur: -0.005082
   - lab: D
-    dur: 0.225
+    dur: 0.219918
   - lab: '@'
     dur: 0.03
   - lab: w
@@ -122309,10 +122291,8 @@
   start: 8856.4137188209
   end: 8860.7237188209
   segments:
-  - lab: _
-    dur: -0.005082
   - lab: '{'
-    dur: 0.365
+    dur: 0.359918
   - lab: n
     dur: 0.105
   - lab: d
@@ -128220,10 +128200,8 @@
   start: 9295.0937188209
   end: 9299.8937188209
   segments:
-  - lab: _
-    dur: -0.00502
   - lab: w
-    dur: 0.43
+    dur: 0.42498
   - lab: i
     dur: 0.055
   - lab: k
