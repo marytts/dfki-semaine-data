@@ -27,6 +27,21 @@ subprojects {
         }
     }
 
+    task processYaml << {
+        def offsetsFile = file('offsets.yaml')
+        def offsets = new Yaml().load(offsetsFile.text)
+        def data = new Yaml().load(yamlFile.text)
+        data.each {
+            def prompt = it.prompt
+            if (it.segments) {
+                it.segments[0].dur = (it.segments[0].dur + offsets[prompt]).round(6)
+            }
+        }
+        def opts = new DumperOptions()
+        opts.defaultFlowStyle = DumperOptions.FlowStyle.BLOCK
+        yamlFile.text = new Yaml(opts).dump(data)
+    }
+
     task extractText(type: ExtractText, description: "Extract text files to $buildDir.name/text")
 
     task extractLab(type: ExtractLab, description: "Extract label files to $buildDir.name/lab")
